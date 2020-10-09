@@ -1,0 +1,9 @@
+{
+    "intervalo": 15,
+    "wsdl": "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?WSDL",
+    "servico": "113498",
+    "cnpj": "34028316000103",
+    "qtdEtiquetas": 1,
+    "usuario": "gati",
+    "senha": "lbqhj"
+}
