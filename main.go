@@ -48,6 +48,14 @@ func main() {
 		case <-timer.C:
 			//solicita uma faixa de etiquetas
 			now := time.Now()
+
+			cliente, err := plp.ConsultaClientePorContratoResponse(config.Wsdl, "912208555", "10")
+			if err != nil {
+				log.Printf("falha ao consultar cliente: %s: ", err.Error())
+				continue
+			}
+			log.Printf("consultaCliente %.3f cliente obtido %s", time.Since(now).Seconds(), cliente.Body.ConsultaClientePorContratoResponse.Cliente.NomeFantasia)
+
 			faixa, err := plp.SolicitaEtiquetas(config.Wsdl, config.Servico, config.Cnpj, config.Qtd, config.User, config.Pass)
 			if err != nil {
 				log.Printf("falha ao obter etiquetas: %s", err.Error())
