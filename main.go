@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"log"
 	"os"
 	"strconv"
@@ -22,6 +21,8 @@ type Config struct {
 	Intervalo int    `json:"intervalo"`
 	Wsdl      string `json:"wsdl"`
 	MaxConn   int    `json:"conexoes"`
+	Contrato  string `json:"contrato"`
+	Cartao    string `json:"cartao"`
 	Servico   string `json:"servico"`
 	Cnpj      string `json:"cnpj"`
 	Qtd       int    `json:"qtdEtiquetas"`
@@ -49,12 +50,12 @@ func main() {
 			//solicita uma faixa de etiquetas
 			now := time.Now()
 
-			cliente, err := plp.ConsultaClientePorContratoResponse(config.Wsdl, "912208555", "10")
+			servicos, err := plp.BuscaServicos(config.Wsdl, "9912408500", "0072922621", config.User, config.Pass)
 			if err != nil {
 				log.Printf("falha ao consultar cliente: %s: ", err.Error())
 				continue
 			}
-			log.Printf("consultaCliente %.3f cliente obtido %s", time.Since(now).Seconds(), cliente.Body.ConsultaClientePorContratoResponse.Cliente.NomeFantasia)
+			log.Printf("buscaServicos %.3f total de %d servicos obtidos", time.Since(now).Seconds(), len(servicos.Body.BuscaServicosResponse.Return))
 
 			faixa, err := plp.SolicitaEtiquetas(config.Wsdl, config.Servico, config.Cnpj, config.Qtd, config.User, config.Pass)
 			if err != nil {
@@ -80,12 +81,12 @@ func main() {
 			//gerar a plp com a etiqueta obtida
 			etqSemVerificador := strings.Replace(etq, " ", "", -1)
 			now = time.Now()
-			plpNu, status, err := plp.FechaPlpVariosServicos(config.Wsdl, etqComVerificador, etqSemVerificador)
+			plpNu, err := plp.FechaPlpVariosServicos(config.Wsdl, etqComVerificador, etqSemVerificador)
 			if err != nil {
-				fmt.Println(now.Format(layoutMysql) + " erro ao fechar PLP: " + status + " " + err.Error())
+				log.Println("erro ao fechar PLP: " + err.Error())
 				continue
 			}
-			log.Printf("fechaPlpVariosServicos %.3f %s plp obtida: %s", time.Since(now).Seconds(), status, plpNu)
+			log.Printf("fechaPlpVariosServicos %.3f plp obtida: %s", time.Since(now).Seconds(), plpNu)
 		}
 	}
 }

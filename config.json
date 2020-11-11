@@ -1,9 +1,11 @@
 {
-    "intervalo": 5,
-    "wsdl": "https://apps.correios.com.br/SigepMasterJPAMercadoLivre/AtendeClienteService/AtendeCliente?WSDL",
+    "intervalo": 15,
+    "wsdl": "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?WSDL",
     "servico": "113498",
     "cnpj": "34028316000103",
     "qtdEtiquetas": 1,
+    "contrato":"9912208555",
+    "cartao":"0068600275",
     "usuario": "gati",
     "senha": "lbqhj"
 }
