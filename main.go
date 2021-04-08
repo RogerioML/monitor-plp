@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"log"
 	"os"
 	"strconv"
@@ -14,6 +15,8 @@ import (
 const (
 	layoutMysql = "2006-01-02 15:04:05"
 )
+
+var fecharPlp = flag.Bool("plp", true, "flag para definir se deve ou não fechar plp")
 
 //Config contem as configurações globais do app
 type Config struct {
@@ -32,6 +35,7 @@ type Config struct {
 }
 
 func main() {
+	flag.Parse()
 	var config Config
 
 	arq, err := os.Open("config.json")
@@ -44,6 +48,8 @@ func main() {
 		log.Fatal(err.Error())
 	}
 	plp.Wsdl = config.Wsdl
+	plp.User = config.User
+	plp.Pass = config.Pass
 
 	timer := time.NewTicker(time.Duration(config.Intervalo) * time.Second)
 	for {
@@ -86,28 +92,30 @@ func main() {
 			etq := faixa[:13]
 			verificador, err := plp.GeraDigitoVerificadorEtiquetas(etq)
 			if err != nil {
-				log.Printf("falha ao obter digito verificador: %s", err.Error())
-				continue
+				log.Printf("erro: main 3: falha ao obter digito verificador: %s", err.Error())
+				//continue
 			}
 			etqComVerificador := strings.Replace(etq, " ", strconv.Itoa(verificador), -1)
 			log.Printf("geraDigitoVerificadorEtiquetas %.3f etiqueta completa: %s", time.Since(now).Seconds(), etqComVerificador)
 
 			//gerar a plp com a etiqueta obtida
 			etqSemVerificador := strings.Replace(etq, " ", "", -1)
-			now = time.Now()
-			plpNu, err := plp.FechaPlpVariosServicos(etqComVerificador, etqSemVerificador, config.IDPlpCliente, config.Cartao, config.User, config.Pass)
-			if err != nil {
-				log.Println("erro ao fechar PLP: " + err.Error())
-				continue
-			}
-			log.Printf("fechaPlpVariosServicos %.3f plp obtida: %s", time.Since(now).Seconds(), plpNu)
+			if *fecharPlp {
+				now = time.Now()
+				plpNu, err := plp.FechaPlpVariosServicos(etqComVerificador, etqSemVerificador, config.IDPlpCliente, config.Cartao, config.User, config.Pass)
+				if err != nil {
+					log.Println("erro ao fechar PLP: " + err.Error())
+					continue
+				}
+				log.Printf("fechaPlpVariosServicos %.3f plp obtida: %s", time.Since(now).Seconds(), plpNu)
 
-			_, err = plp.SolicitaPLP(plpNu, etqComVerificador, config.User, config.Pass)
-			if err != nil {
-				log.Println("erro ao obter PLP: " + err.Error())
-				continue
+				_, err = plp.SolicitaPLP(plpNu, etqComVerificador, config.User, config.Pass)
+				if err != nil {
+					log.Println("erro ao obter PLP: " + err.Error())
+					continue
+				}
+				log.Printf("solicitaPLP %.3f plp obtida com sucesso", time.Since(now).Seconds())
 			}
-			log.Printf("solicitaPLP %.3f plp obtida com sucesso", time.Since(now).Seconds())
 		}
 	}
 }
