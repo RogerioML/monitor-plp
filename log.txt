@@ -1,0 +1,1902 @@
+2021/07/29 09:56:52 geraDigitoVerificadorEtiquetas 0.234 etiqueta completa: BP003000821BR
+2021/07/29 09:56:53 fechaPlpVariosServicos 0.848 plp obtida: 522904190
+2021/07/29 09:56:53 solicitaPLP 1.057 plp obtida com sucesso
+2021/07/29 09:56:55 buscaCEP 0.088 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:56:58 buscaServicos 2.954 total de 20 servicos obtidos
+2021/07/29 09:56:58 solicitaEtiquetas 3.271 faixa obtida BP00300083 BR,BP00300083 BR
+2021/07/29 09:56:58 geraDigitoVerificadorEtiquetas 0.119 etiqueta completa: BP003000835BR
+2021/07/29 09:56:59 fechaPlpVariosServicos 0.734 plp obtida: 522906391
+2021/07/29 09:56:59 solicitaPLP 0.827 plp obtida com sucesso
+2021/07/29 09:57:00 buscaCEP 0.350 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:02 buscaServicos 2.710 total de 20 servicos obtidos
+2021/07/29 09:57:03 solicitaEtiquetas 3.124 faixa obtida BP00300084 BR,BP00300084 BR
+2021/07/29 09:57:03 geraDigitoVerificadorEtiquetas 0.266 etiqueta completa: BP003000849BR
+2021/07/29 09:57:04 fechaPlpVariosServicos 0.699 plp obtida: 522899914
+2021/07/29 09:57:04 solicitaPLP 0.847 plp obtida com sucesso
+2021/07/29 09:57:05 buscaCEP 0.078 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:07 buscaServicos 1.971 total de 20 servicos obtidos
+2021/07/29 09:57:07 solicitaEtiquetas 2.512 faixa obtida BP00300085 BR,BP00300085 BR
+2021/07/29 09:57:07 geraDigitoVerificadorEtiquetas 0.131 etiqueta completa: BP003000852BR
+2021/07/29 09:57:08 fechaPlpVariosServicos 0.872 plp obtida: 522899918
+2021/07/29 09:57:08 solicitaPLP 1.106 plp obtida com sucesso
+2021/07/29 09:57:10 buscaCEP 0.117 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:14 buscaServicos 4.349 total de 20 servicos obtidos
+2021/07/29 09:57:14 solicitaEtiquetas 4.727 faixa obtida BP00300086 BR,BP00300086 BR
+2021/07/29 09:57:15 geraDigitoVerificadorEtiquetas 0.092 etiqueta completa: BP003000866BR
+2021/07/29 09:57:15 fechaPlpVariosServicos 0.899 plp obtida: 522899925
+2021/07/29 09:57:16 solicitaPLP 1.074 plp obtida com sucesso
+2021/07/29 09:57:16 buscaCEP 0.160 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:18 buscaServicos 2.178 total de 20 servicos obtidos
+2021/07/29 09:57:18 solicitaEtiquetas 2.482 faixa obtida BP00300087 BR,BP00300087 BR
+2021/07/29 09:57:18 geraDigitoVerificadorEtiquetas 0.242 etiqueta completa: BP003000870BR
+2021/07/29 09:57:19 fechaPlpVariosServicos 0.827 plp obtida: 522899929
+2021/07/29 09:57:20 solicitaPLP 1.251 plp obtida com sucesso
+2021/07/29 09:57:20 buscaCEP 0.147 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:22 buscaServicos 2.053 total de 20 servicos obtidos
+2021/07/29 09:57:22 solicitaEtiquetas 2.573 faixa obtida BP00300089 BR,BP00300089 BR
+2021/07/29 09:57:22 geraDigitoVerificadorEtiquetas 0.151 etiqueta completa: BP003000897BR
+2021/07/29 09:57:23 fechaPlpVariosServicos 0.769 plp obtida: 522899933
+2021/07/29 09:57:23 solicitaPLP 0.921 plp obtida com sucesso
+2021/07/29 09:57:25 buscaCEP 0.197 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:27 buscaServicos 2.330 total de 20 servicos obtidos
+2021/07/29 09:57:27 solicitaEtiquetas 2.652 faixa obtida BP00300090 BR,BP00300090 BR
+2021/07/29 09:57:28 geraDigitoVerificadorEtiquetas 0.152 etiqueta completa: BP003000906BR
+2021/07/29 09:57:28 fechaPlpVariosServicos 0.900 plp obtida: 522908403
+2021/07/29 09:57:29 solicitaPLP 1.237 plp obtida com sucesso
+2021/07/29 09:57:30 buscaCEP 0.091 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:32 buscaServicos 2.046 total de 20 servicos obtidos
+2021/07/29 09:57:32 solicitaEtiquetas 2.446 faixa obtida BP00300091 BR,BP00300091 BR
+2021/07/29 09:57:32 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003000910BR
+2021/07/29 09:57:33 fechaPlpVariosServicos 1.116 plp obtida: 522908621
+2021/07/29 09:57:33 erro ao obter PLP: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": EOF
+2021/07/29 09:57:35 buscaCEP 0.225 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:37 buscaServicos 2.235 total de 20 servicos obtidos
+2021/07/29 09:57:37 solicitaEtiquetas 2.611 faixa obtida BP00300092 BR,BP00300092 BR
+2021/07/29 09:57:38 geraDigitoVerificadorEtiquetas 0.193 etiqueta completa: BP003000923BR
+2021/07/29 09:57:38 fechaPlpVariosServicos 0.925 plp obtida: 522908796
+2021/07/29 09:57:39 solicitaPLP 1.183 plp obtida com sucesso
+2021/07/29 09:57:40 buscaCEP 0.138 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:42 buscaServicos 1.971 total de 20 servicos obtidos
+2021/07/29 09:57:42 solicitaEtiquetas 2.534 faixa obtida BP00300093 BR,BP00300093 BR
+2021/07/29 09:57:42 geraDigitoVerificadorEtiquetas 0.092 etiqueta completa: BP003000937BR
+2021/07/29 09:57:43 fechaPlpVariosServicos 0.687 plp obtida: 522908991
+2021/07/29 09:57:43 solicitaPLP 0.953 plp obtida com sucesso
+2021/07/29 09:57:45 buscaCEP 0.091 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:47 buscaServicos 2.256 total de 20 servicos obtidos
+2021/07/29 09:57:47 solicitaEtiquetas 2.634 faixa obtida BP00300094 BR,BP00300094 BR
+2021/07/29 09:57:47 geraDigitoVerificadorEtiquetas 0.111 etiqueta completa: BP003000945BR
+2021/07/29 09:57:48 fechaPlpVariosServicos 0.763 plp obtida: 522909127
+2021/07/29 09:57:48 solicitaPLP 0.986 plp obtida com sucesso
+2021/07/29 09:57:53 buscaCEP 3.489 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:57:55 buscaServicos 5.067 total de 20 servicos obtidos
+2021/07/29 09:57:55 solicitaEtiquetas 5.412 faixa obtida BP00300095 BR,BP00300095 BR
+2021/07/29 09:57:55 geraDigitoVerificadorEtiquetas 0.106 etiqueta completa: BP003000954BR
+2021/07/29 09:58:01 fechaPlpVariosServicos 5.914 plp obtida: 522910543
+2021/07/29 09:58:02 solicitaPLP 6.330 plp obtida com sucesso
+2021/07/29 09:58:02 buscaCEP 0.196 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:04 buscaServicos 2.883 total de 20 servicos obtidos
+2021/07/29 09:58:05 solicitaEtiquetas 3.253 faixa obtida BP00300096 BR,BP00300096 BR
+2021/07/29 09:58:05 geraDigitoVerificadorEtiquetas 0.172 etiqueta completa: BP003000968BR
+2021/07/29 09:58:06 fechaPlpVariosServicos 0.893 plp obtida: 522899956
+2021/07/29 09:58:06 solicitaPLP 1.058 plp obtida com sucesso
+2021/07/29 09:58:06 buscaCEP 0.136 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:10 buscaServicos 4.137 total de 20 servicos obtidos
+2021/07/29 09:58:11 solicitaEtiquetas 4.524 faixa obtida BP00300097 BR,BP00300097 BR
+2021/07/29 09:58:11 erro: main 3: falha ao obter digito verificador: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": EOF
+2021/07/29 09:58:11 geraDigitoVerificadorEtiquetas 0.074 etiqueta completa: BP0030009799BR
+2021/07/29 09:58:12 fechaPlpVariosServicos 0.912 plp obtida: 522899958
+2021/07/29 09:58:12 erro ao obter PLP: Ocorreu um erro interno no Servidor.
+2021/07/29 09:58:12 buscaCEP 0.293 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:14 buscaServicos 2.483 total de 20 servicos obtidos
+2021/07/29 09:58:15 solicitaEtiquetas 2.830 faixa obtida BP00300098 BR,BP00300098 BR
+2021/07/29 09:58:15 geraDigitoVerificadorEtiquetas 0.098 etiqueta completa: BP003000985BR
+2021/07/29 09:58:16 fechaPlpVariosServicos 0.789 plp obtida: 522899959
+2021/07/29 09:58:16 solicitaPLP 0.913 plp obtida com sucesso
+2021/07/29 09:58:16 buscaCEP 0.094 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:18 buscaServicos 2.367 total de 20 servicos obtidos
+2021/07/29 09:58:19 solicitaEtiquetas 3.127 faixa obtida BP00300099 BR,BP00300099 BR
+2021/07/29 09:58:19 geraDigitoVerificadorEtiquetas 0.614 etiqueta completa: BP003000999BR
+2021/07/29 09:58:20 fechaPlpVariosServicos 0.398 plp obtida: 522911160
+2021/07/29 09:58:20 solicitaPLP 0.841 plp obtida com sucesso
+2021/07/29 09:58:21 buscaCEP 0.440 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:23 buscaServicos 2.919 total de 20 servicos obtidos
+2021/07/29 09:58:24 solicitaEtiquetas 3.396 faixa obtida BP00300100 BR,BP00300100 BR
+2021/07/29 09:58:24 geraDigitoVerificadorEtiquetas 0.086 etiqueta completa: BP003001005BR
+2021/07/29 09:58:24 fechaPlpVariosServicos 0.746 plp obtida: 522899968
+2021/07/29 09:58:25 solicitaPLP 0.862 plp obtida com sucesso
+2021/07/29 09:58:25 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:27 buscaServicos 2.259 total de 20 servicos obtidos
+2021/07/29 09:58:27 solicitaEtiquetas 2.590 faixa obtida BP00300101 BR,BP00300101 BR
+2021/07/29 09:58:27 geraDigitoVerificadorEtiquetas 0.115 etiqueta completa: BP003001019BR
+2021/07/29 09:58:28 fechaPlpVariosServicos 0.827 plp obtida: 522899972
+2021/07/29 09:58:28 solicitaPLP 0.973 plp obtida com sucesso
+2021/07/29 09:58:30 buscaCEP 0.126 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:32 buscaServicos 2.306 total de 20 servicos obtidos
+2021/07/29 09:58:32 solicitaEtiquetas 2.574 faixa obtida BP00300102 BR,BP00300102 BR
+2021/07/29 09:58:32 geraDigitoVerificadorEtiquetas 0.081 etiqueta completa: BP003001022BR
+2021/07/29 09:58:33 fechaPlpVariosServicos 0.855 plp obtida: 522899975
+2021/07/29 09:58:33 solicitaPLP 0.961 plp obtida com sucesso
+2021/07/29 09:58:35 buscaCEP 0.096 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:37 buscaServicos 2.437 total de 20 servicos obtidos
+2021/07/29 09:58:38 solicitaEtiquetas 2.772 faixa obtida BP00300103 BR,BP00300103 BR
+2021/07/29 09:58:38 geraDigitoVerificadorEtiquetas 0.086 etiqueta completa: BP003001036BR
+2021/07/29 09:58:38 fechaPlpVariosServicos 0.756 plp obtida: 522899979
+2021/07/29 09:58:38 solicitaPLP 0.861 plp obtida com sucesso
+2021/07/29 09:58:40 buscaCEP 0.086 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:42 buscaServicos 2.098 total de 20 servicos obtidos
+2021/07/29 09:58:42 solicitaEtiquetas 2.627 faixa obtida BP00300104 BR,BP00300104 BR
+2021/07/29 09:58:42 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003001040BR
+2021/07/29 09:58:43 fechaPlpVariosServicos 0.284 plp obtida: 522912963
+2021/07/29 09:58:43 solicitaPLP 0.720 plp obtida com sucesso
+2021/07/29 09:58:45 buscaCEP 0.085 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:46 buscaServicos 1.653 total de 20 servicos obtidos
+2021/07/29 09:58:47 solicitaEtiquetas 1.926 faixa obtida BP00300105 BR,BP00300105 BR
+2021/07/29 09:58:47 geraDigitoVerificadorEtiquetas 0.101 etiqueta completa: BP003001053BR
+2021/07/29 09:58:48 fechaPlpVariosServicos 0.754 plp obtida: 522913122
+2021/07/29 09:58:48 solicitaPLP 0.890 plp obtida com sucesso
+2021/07/29 09:58:50 buscaCEP 0.127 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:52 buscaServicos 1.941 total de 20 servicos obtidos
+2021/07/29 09:58:52 solicitaEtiquetas 2.192 faixa obtida BP00300106 BR,BP00300106 BR
+2021/07/29 09:58:52 geraDigitoVerificadorEtiquetas 0.164 etiqueta completa: BP003001067BR
+2021/07/29 09:58:53 fechaPlpVariosServicos 0.703 plp obtida: 522914296
+2021/07/29 09:58:53 solicitaPLP 0.936 plp obtida com sucesso
+2021/07/29 09:58:55 buscaCEP 0.131 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:58:57 buscaServicos 1.781 total de 20 servicos obtidos
+2021/07/29 09:58:57 solicitaEtiquetas 2.119 faixa obtida BP00300107 BR,BP00300107 BR
+2021/07/29 09:58:57 geraDigitoVerificadorEtiquetas 0.113 etiqueta completa: BP003001075BR
+2021/07/29 09:58:58 fechaPlpVariosServicos 0.742 plp obtida: 522914480
+2021/07/29 09:58:58 solicitaPLP 0.864 plp obtida com sucesso
+2021/07/29 09:59:00 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:03 buscaServicos 2.935 total de 20 servicos obtidos
+2021/07/29 09:59:03 solicitaEtiquetas 3.346 faixa obtida BP00300108 BR,BP00300108 BR
+2021/07/29 09:59:03 geraDigitoVerificadorEtiquetas 0.102 etiqueta completa: BP003001084BR
+2021/07/29 09:59:04 fechaPlpVariosServicos 0.720 plp obtida: 522914684
+2021/07/29 09:59:04 solicitaPLP 0.898 plp obtida com sucesso
+2021/07/29 09:59:05 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:07 buscaServicos 1.815 total de 20 servicos obtidos
+2021/07/29 09:59:07 solicitaEtiquetas 2.158 faixa obtida BP00300109 BR,BP00300109 BR
+2021/07/29 09:59:07 geraDigitoVerificadorEtiquetas 0.096 etiqueta completa: BP003001098BR
+2021/07/29 09:59:08 fechaPlpVariosServicos 0.700 plp obtida: 522914818
+2021/07/29 09:59:08 solicitaPLP 0.815 plp obtida com sucesso
+2021/07/29 09:59:10 buscaCEP 0.080 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:12 buscaServicos 1.939 total de 20 servicos obtidos
+2021/07/29 09:59:12 solicitaEtiquetas 2.446 faixa obtida BP00300110 BR,BP00300110 BR
+2021/07/29 09:59:12 geraDigitoVerificadorEtiquetas 0.256 etiqueta completa: BP003001107BR
+2021/07/29 09:59:13 fechaPlpVariosServicos 0.920 plp obtida: 522899999
+2021/07/29 09:59:14 solicitaPLP 1.046 plp obtida com sucesso
+2021/07/29 09:59:15 buscaCEP 0.127 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:17 buscaServicos 2.251 total de 20 servicos obtidos
+2021/07/29 09:59:17 solicitaEtiquetas 2.520 faixa obtida BP00300111 BR,BP00300111 BR
+2021/07/29 09:59:17 geraDigitoVerificadorEtiquetas 0.087 etiqueta completa: BP003001115BR
+2021/07/29 09:59:18 fechaPlpVariosServicos 0.798 plp obtida: 522900008
+2021/07/29 09:59:18 solicitaPLP 0.924 plp obtida com sucesso
+2021/07/29 09:59:20 buscaCEP 0.091 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:22 buscaServicos 2.204 total de 20 servicos obtidos
+2021/07/29 09:59:22 solicitaEtiquetas 2.600 faixa obtida BP00300112 BR,BP00300112 BR
+2021/07/29 09:59:23 geraDigitoVerificadorEtiquetas 0.399 etiqueta completa: BP003001124BR
+2021/07/29 09:59:24 fechaPlpVariosServicos 0.831 plp obtida: 522900017
+2021/07/29 09:59:24 solicitaPLP 0.990 plp obtida com sucesso
+2021/07/29 09:59:25 buscaCEP 0.095 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:27 buscaServicos 2.177 total de 20 servicos obtidos
+2021/07/29 09:59:27 solicitaEtiquetas 2.643 faixa obtida BP00300113 BR,BP00300113 BR
+2021/07/29 09:59:27 geraDigitoVerificadorEtiquetas 0.098 etiqueta completa: BP003001138BR
+2021/07/29 09:59:28 fechaPlpVariosServicos 0.761 plp obtida: 522916536
+2021/07/29 09:59:28 solicitaPLP 0.894 plp obtida com sucesso
+2021/07/29 09:59:30 buscaCEP 0.106 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:31 buscaServicos 1.712 total de 20 servicos obtidos
+2021/07/29 09:59:32 solicitaEtiquetas 2.027 faixa obtida BP00300114 BR,BP00300114 BR
+2021/07/29 09:59:32 geraDigitoVerificadorEtiquetas 0.077 etiqueta completa: BP003001141BR
+2021/07/29 09:59:33 fechaPlpVariosServicos 1.051 plp obtida: 522916728
+2021/07/29 09:59:33 solicitaPLP 1.196 plp obtida com sucesso
+2021/07/29 09:59:35 buscaCEP 0.077 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:37 buscaServicos 1.921 total de 20 servicos obtidos
+2021/07/29 09:59:37 solicitaEtiquetas 2.263 faixa obtida BP00300115 BR,BP00300115 BR
+2021/07/29 09:59:37 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003001155BR
+2021/07/29 09:59:37 erro ao fechar PLP: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": EOF
+2021/07/29 09:59:40 buscaCEP 0.096 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:42 buscaServicos 2.001 total de 20 servicos obtidos
+2021/07/29 09:59:42 solicitaEtiquetas 2.341 faixa obtida BP00300117 BR,BP00300117 BR
+2021/07/29 09:59:42 geraDigitoVerificadorEtiquetas 0.095 etiqueta completa: BP003001172BR
+2021/07/29 09:59:42 fechaPlpVariosServicos 0.296 plp obtida: 522900030
+2021/07/29 09:59:43 solicitaPLP 0.424 plp obtida com sucesso
+2021/07/29 09:59:45 buscaCEP 0.111 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:46 buscaServicos 1.632 total de 20 servicos obtidos
+2021/07/29 09:59:47 solicitaEtiquetas 2.055 faixa obtida BP00300118 BR,BP00300118 BR
+2021/07/29 09:59:47 geraDigitoVerificadorEtiquetas 0.222 etiqueta completa: BP003001186BR
+2021/07/29 09:59:48 fechaPlpVariosServicos 1.045 plp obtida: 522917272
+2021/07/29 09:59:48 solicitaPLP 1.201 plp obtida com sucesso
+2021/07/29 09:59:50 buscaCEP 0.336 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:52 buscaServicos 2.367 total de 20 servicos obtidos
+2021/07/29 09:59:52 solicitaEtiquetas 2.679 faixa obtida BP00300119 BR,BP00300119 BR
+2021/07/29 09:59:53 geraDigitoVerificadorEtiquetas 0.079 etiqueta completa: BP003001190BR
+2021/07/29 09:59:53 fechaPlpVariosServicos 0.866 plp obtida: 522919446
+2021/07/29 09:59:53 solicitaPLP 0.971 plp obtida com sucesso
+2021/07/29 09:59:55 buscaCEP 0.087 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 09:59:57 buscaServicos 2.013 total de 20 servicos obtidos
+2021/07/29 09:59:57 solicitaEtiquetas 2.448 faixa obtida BP00300120 BR,BP00300120 BR
+2021/07/29 09:59:57 geraDigitoVerificadorEtiquetas 0.120 etiqueta completa: BP003001209BR
+2021/07/29 09:59:58 fechaPlpVariosServicos 0.779 plp obtida: 522919582
+2021/07/29 09:59:58 solicitaPLP 0.903 plp obtida com sucesso
+2021/07/29 10:00:00 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:02 buscaServicos 2.272 total de 20 servicos obtidos
+2021/07/29 10:00:03 solicitaEtiquetas 3.497 faixa obtida BP00300121 BR,BP00300121 BR
+2021/07/29 10:00:03 geraDigitoVerificadorEtiquetas 0.100 etiqueta completa: BP003001212BR
+2021/07/29 10:00:04 fechaPlpVariosServicos 0.766 plp obtida: 522919791
+2021/07/29 10:00:04 solicitaPLP 0.891 plp obtida com sucesso
+2021/07/29 10:00:05 buscaCEP 0.171 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:06 buscaServicos 1.657 total de 20 servicos obtidos
+2021/07/29 10:00:07 solicitaEtiquetas 2.227 faixa obtida BP00300122 BR,BP00300122 BR
+2021/07/29 10:00:07 geraDigitoVerificadorEtiquetas 0.172 etiqueta completa: BP003001226BR
+2021/07/29 10:00:08 fechaPlpVariosServicos 0.743 plp obtida: 522919905
+2021/07/29 10:00:08 solicitaPLP 0.888 plp obtida com sucesso
+2021/07/29 10:00:10 buscaCEP 0.169 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:12 buscaServicos 2.253 total de 20 servicos obtidos
+2021/07/29 10:00:13 solicitaEtiquetas 2.867 faixa obtida BP00300123 BR,BP00300123 BR
+2021/07/29 10:00:13 geraDigitoVerificadorEtiquetas 0.112 etiqueta completa: BP003001230BR
+2021/07/29 10:00:14 fechaPlpVariosServicos 0.768 plp obtida: 522920096
+2021/07/29 10:00:14 erro ao obter PLP: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": EOF
+2021/07/29 10:00:15 buscaCEP 0.079 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:17 buscaServicos 1.904 total de 20 servicos obtidos
+2021/07/29 10:00:17 solicitaEtiquetas 2.513 faixa obtida BP00300124 BR,BP00300124 BR
+2021/07/29 10:00:18 geraDigitoVerificadorEtiquetas 0.228 etiqueta completa: BP003001243BR
+2021/07/29 10:00:19 fechaPlpVariosServicos 1.115 plp obtida: 522920280
+2021/07/29 10:00:19 solicitaPLP 1.250 plp obtida com sucesso
+2021/07/29 10:00:20 buscaCEP 0.100 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:24 falha ao consultar cliente: read tcp 172.22.17.121:53444->201.48.198.235:443: wsarecv: Foi forçado o cancelamento de uma conexão existente pelo host remoto.:
+2021/07/29 10:00:25 buscaCEP 0.100 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:27 buscaServicos 2.381 total de 20 servicos obtidos
+2021/07/29 10:00:27 solicitaEtiquetas 2.725 faixa obtida BP00300125 BR,BP00300125 BR
+2021/07/29 10:00:28 geraDigitoVerificadorEtiquetas 0.103 etiqueta completa: BP003001257BR
+2021/07/29 10:00:28 fechaPlpVariosServicos 0.786 plp obtida: 522921596
+2021/07/29 10:00:29 solicitaPLP 0.954 plp obtida com sucesso
+2021/07/29 10:00:30 buscaCEP 0.105 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:32 buscaServicos 2.103 total de 20 servicos obtidos
+2021/07/29 10:00:32 solicitaEtiquetas 2.487 faixa obtida BP00300126 BR,BP00300126 BR
+2021/07/29 10:00:32 geraDigitoVerificadorEtiquetas 0.210 etiqueta completa: BP003001265BR
+2021/07/29 10:00:33 fechaPlpVariosServicos 0.714 plp obtida: 522921749
+2021/07/29 10:00:33 solicitaPLP 0.910 plp obtida com sucesso
+2021/07/29 10:00:35 buscaCEP 0.108 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:38 buscaServicos 3.050 total de 20 servicos obtidos
+2021/07/29 10:00:38 solicitaEtiquetas 3.354 faixa obtida BP00300127 BR,BP00300127 BR
+2021/07/29 10:00:38 geraDigitoVerificadorEtiquetas 0.104 etiqueta completa: BP003001274BR
+2021/07/29 10:00:39 fechaPlpVariosServicos 0.797 plp obtida: 522900086
+2021/07/29 10:00:39 solicitaPLP 1.011 plp obtida com sucesso
+2021/07/29 10:00:40 buscaCEP 0.108 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:42 buscaServicos 2.473 total de 20 servicos obtidos
+2021/07/29 10:00:43 solicitaEtiquetas 2.850 faixa obtida BP00300128 BR,BP00300128 BR
+2021/07/29 10:00:43 geraDigitoVerificadorEtiquetas 0.082 etiqueta completa: BP003001288BR
+2021/07/29 10:00:44 fechaPlpVariosServicos 0.823 plp obtida: 522922132
+2021/07/29 10:00:44 solicitaPLP 0.950 plp obtida com sucesso
+2021/07/29 10:00:45 buscaCEP 0.199 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:47 buscaServicos 2.372 total de 20 servicos obtidos
+2021/07/29 10:00:47 solicitaEtiquetas 2.695 faixa obtida BP00300129 BR,BP00300129 BR
+2021/07/29 10:00:48 geraDigitoVerificadorEtiquetas 0.370 etiqueta completa: BP003001291BR
+2021/07/29 10:00:49 fechaPlpVariosServicos 0.806 plp obtida: 522923294
+2021/07/29 10:00:49 solicitaPLP 0.946 plp obtida com sucesso
+2021/07/29 10:00:50 buscaCEP 0.234 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:52 buscaServicos 2.690 total de 20 servicos obtidos
+2021/07/29 10:00:53 solicitaEtiquetas 3.212 faixa obtida BP00300130 BR,BP00300130 BR
+2021/07/29 10:00:53 geraDigitoVerificadorEtiquetas 0.115 etiqueta completa: BP003001305BR
+2021/07/29 10:00:54 fechaPlpVariosServicos 0.735 plp obtida: 522923469
+2021/07/29 10:00:54 solicitaPLP 0.892 plp obtida com sucesso
+2021/07/29 10:00:55 buscaCEP 0.113 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:00:57 buscaServicos 2.352 total de 20 servicos obtidos
+2021/07/29 10:00:58 solicitaEtiquetas 2.776 faixa obtida BP00300131 BR,BP00300131 BR
+2021/07/29 10:00:58 geraDigitoVerificadorEtiquetas 0.096 etiqueta completa: BP003001314BR
+2021/07/29 10:00:58 fechaPlpVariosServicos 0.738 plp obtida: 522900104
+2021/07/29 10:00:59 solicitaPLP 0.891 plp obtida com sucesso
+2021/07/29 10:01:00 buscaCEP 0.141 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:02 buscaServicos 2.123 total de 20 servicos obtidos
+2021/07/29 10:01:02 solicitaEtiquetas 2.429 faixa obtida BP00300132 BR,BP00300132 BR
+2021/07/29 10:01:02 geraDigitoVerificadorEtiquetas 0.110 etiqueta completa: BP003001328BR
+2021/07/29 10:01:03 fechaPlpVariosServicos 0.462 plp obtida: 522900111
+2021/07/29 10:01:03 solicitaPLP 0.601 plp obtida com sucesso
+2021/07/29 10:01:05 buscaCEP 0.092 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:07 buscaServicos 2.199 total de 20 servicos obtidos
+2021/07/29 10:01:07 solicitaEtiquetas 2.612 faixa obtida BP00300133 BR,BP00300133 BR
+2021/07/29 10:01:07 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003001331BR
+2021/07/29 10:01:08 fechaPlpVariosServicos 0.775 plp obtida: 522900118
+2021/07/29 10:01:08 solicitaPLP 0.896 plp obtida com sucesso
+2021/07/29 10:01:10 buscaCEP 0.162 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:12 buscaServicos 2.457 total de 20 servicos obtidos
+2021/07/29 10:01:13 solicitaEtiquetas 3.031 faixa obtida BP00300134 BR,BP00300134 BR
+2021/07/29 10:01:13 geraDigitoVerificadorEtiquetas 0.079 etiqueta completa: BP003001345BR
+2021/07/29 10:01:14 fechaPlpVariosServicos 1.309 plp obtida: 522900127
+2021/07/29 10:01:14 solicitaPLP 1.412 plp obtida com sucesso
+2021/07/29 10:01:15 buscaCEP 0.086 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:17 buscaServicos 2.015 total de 20 servicos obtidos
+2021/07/29 10:01:17 solicitaEtiquetas 2.318 faixa obtida BP00300135 BR,BP00300135 BR
+2021/07/29 10:01:17 geraDigitoVerificadorEtiquetas 0.102 etiqueta completa: BP003001359BR
+2021/07/29 10:01:18 fechaPlpVariosServicos 0.843 plp obtida: 522900131
+2021/07/29 10:01:18 solicitaPLP 0.988 plp obtida com sucesso
+2021/07/29 10:01:20 buscaCEP 0.100 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:22 buscaServicos 2.406 total de 20 servicos obtidos
+2021/07/29 10:01:23 solicitaEtiquetas 2.892 faixa obtida BP00300136 BR,BP00300136 BR
+2021/07/29 10:01:23 geraDigitoVerificadorEtiquetas 0.169 etiqueta completa: BP003001362BR
+2021/07/29 10:01:24 fechaPlpVariosServicos 0.959 plp obtida: 522900137
+2021/07/29 10:01:24 solicitaPLP 1.088 plp obtida com sucesso
+2021/07/29 10:01:25 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:27 buscaServicos 2.372 total de 20 servicos obtidos
+2021/07/29 10:01:27 solicitaEtiquetas 2.722 faixa obtida BP00300137 BR,BP00300137 BR
+2021/07/29 10:01:28 geraDigitoVerificadorEtiquetas 0.112 etiqueta completa: BP003001376BR
+2021/07/29 10:01:29 fechaPlpVariosServicos 0.904 plp obtida: 522900141
+2021/07/29 10:01:29 solicitaPLP 1.009 plp obtida com sucesso
+2021/07/29 10:01:30 buscaCEP 0.096 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:32 buscaServicos 2.412 total de 20 servicos obtidos
+2021/07/29 10:01:33 solicitaEtiquetas 2.806 faixa obtida BP00300138 BR,BP00300138 BR
+2021/07/29 10:01:33 geraDigitoVerificadorEtiquetas 0.097 etiqueta completa: BP003001380BR
+2021/07/29 10:01:34 fechaPlpVariosServicos 0.967 plp obtida: 522900151
+2021/07/29 10:01:34 solicitaPLP 1.107 plp obtida com sucesso
+2021/07/29 10:01:35 buscaCEP 0.083 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:37 buscaServicos 2.649 total de 20 servicos obtidos
+2021/07/29 10:01:38 solicitaEtiquetas 3.159 faixa obtida BP00300139 BR,BP00300139 BR
+2021/07/29 10:01:38 geraDigitoVerificadorEtiquetas 0.108 etiqueta completa: BP003001393BR
+2021/07/29 10:01:39 fechaPlpVariosServicos 0.720 plp obtida: 522900156
+2021/07/29 10:01:39 solicitaPLP 0.843 plp obtida com sucesso
+2021/07/29 10:01:40 buscaCEP 0.090 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:42 buscaServicos 2.367 total de 20 servicos obtidos
+2021/07/29 10:01:42 solicitaEtiquetas 2.666 faixa obtida BP00300140 BR,BP00300140 BR
+2021/07/29 10:01:43 geraDigitoVerificadorEtiquetas 0.095 etiqueta completa: BP003001402BR
+2021/07/29 10:01:44 fechaPlpVariosServicos 1.397 plp obtida: 522900168
+2021/07/29 10:01:45 solicitaPLP 2.388 plp obtida com sucesso
+2021/07/29 10:01:45 buscaCEP 0.151 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:47 buscaServicos 2.393 total de 20 servicos obtidos
+2021/07/29 10:01:48 solicitaEtiquetas 2.866 faixa obtida BP00300141 BR,BP00300141 BR
+2021/07/29 10:01:48 geraDigitoVerificadorEtiquetas 0.103 etiqueta completa: BP003001416BR
+2021/07/29 10:01:49 fechaPlpVariosServicos 1.038 plp obtida: 522927403
+2021/07/29 10:01:49 solicitaPLP 1.206 plp obtida com sucesso
+2021/07/29 10:01:50 buscaCEP 0.117 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:52 buscaServicos 2.277 total de 20 servicos obtidos
+2021/07/29 10:01:52 solicitaEtiquetas 2.613 faixa obtida BP00300143 BR,BP00300143 BR
+2021/07/29 10:01:53 geraDigitoVerificadorEtiquetas 0.140 etiqueta completa: BP003001433BR
+2021/07/29 10:01:53 fechaPlpVariosServicos 0.905 plp obtida: 522900182
+2021/07/29 10:01:54 solicitaPLP 1.139 plp obtida com sucesso
+2021/07/29 10:01:55 buscaCEP 0.164 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:01:57 buscaServicos 2.542 total de 20 servicos obtidos
+2021/07/29 10:01:58 solicitaEtiquetas 2.922 faixa obtida BP00300144 BR,BP00300144 BR
+2021/07/29 10:01:58 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003001447BR
+2021/07/29 10:01:59 fechaPlpVariosServicos 0.933 plp obtida: 522900187
+2021/07/29 10:01:59 solicitaPLP 1.098 plp obtida com sucesso
+2021/07/29 10:02:00 buscaCEP 0.115 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:02 buscaServicos 1.772 total de 20 servicos obtidos
+2021/07/29 10:02:02 solicitaEtiquetas 2.296 faixa obtida BP00300145 BR,BP00300145 BR
+2021/07/29 10:02:02 geraDigitoVerificadorEtiquetas 0.352 etiqueta completa: BP003001455BR
+2021/07/29 10:02:03 fechaPlpVariosServicos 0.881 plp obtida: 522900192
+2021/07/29 10:02:03 solicitaPLP 1.005 plp obtida com sucesso
+2021/07/29 10:02:05 buscaCEP 0.094 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:07 buscaServicos 2.203 total de 20 servicos obtidos
+2021/07/29 10:02:08 solicitaEtiquetas 2.745 faixa obtida BP00300146 BR,BP00300146 BR
+2021/07/29 10:02:08 geraDigitoVerificadorEtiquetas 0.091 etiqueta completa: BP003001464BR
+2021/07/29 10:02:08 fechaPlpVariosServicos 0.668 plp obtida: 522900195
+2021/07/29 10:02:08 solicitaPLP 0.797 plp obtida com sucesso
+2021/07/29 10:02:10 buscaCEP 0.118 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:12 buscaServicos 2.228 total de 20 servicos obtidos
+2021/07/29 10:02:12 solicitaEtiquetas 2.725 faixa obtida BP00300147 BR,BP00300147 BR
+2021/07/29 10:02:13 geraDigitoVerificadorEtiquetas 0.134 etiqueta completa: BP003001478BR
+2021/07/29 10:02:13 fechaPlpVariosServicos 0.760 plp obtida: 522929351
+2021/07/29 10:02:14 solicitaPLP 0.956 plp obtida com sucesso
+2021/07/29 10:02:15 buscaCEP 0.285 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:17 buscaServicos 2.402 total de 20 servicos obtidos
+2021/07/29 10:02:18 solicitaEtiquetas 2.832 faixa obtida BP00300149 BR,BP00300149 BR
+2021/07/29 10:02:18 geraDigitoVerificadorEtiquetas 0.239 etiqueta completa: BP003001495BR
+2021/07/29 10:02:19 fechaPlpVariosServicos 0.732 plp obtida: 522929532
+2021/07/29 10:02:19 solicitaPLP 0.891 plp obtida com sucesso
+2021/07/29 10:02:20 buscaCEP 0.084 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:22 buscaServicos 2.258 total de 20 servicos obtidos
+2021/07/29 10:02:22 solicitaEtiquetas 2.614 faixa obtida BP00300150 BR,BP00300150 BR
+2021/07/29 10:02:23 geraDigitoVerificadorEtiquetas 0.371 etiqueta completa: BP003001504BR
+2021/07/29 10:02:24 fechaPlpVariosServicos 0.966 plp obtida: 522929743
+2021/07/29 10:02:24 solicitaPLP 1.141 plp obtida com sucesso
+2021/07/29 10:02:25 buscaCEP 0.126 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:27 buscaServicos 2.542 total de 20 servicos obtidos
+2021/07/29 10:02:28 solicitaEtiquetas 2.886 faixa obtida BP00300151 BR,BP00300151 BR
+2021/07/29 10:02:28 geraDigitoVerificadorEtiquetas 0.362 etiqueta completa: BP003001518BR
+2021/07/29 10:02:29 fechaPlpVariosServicos 0.913 plp obtida: 522929937
+2021/07/29 10:02:29 solicitaPLP 1.133 plp obtida com sucesso
+2021/07/29 10:02:30 buscaCEP 0.133 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:32 buscaServicos 2.596 total de 20 servicos obtidos
+2021/07/29 10:02:33 solicitaEtiquetas 2.921 faixa obtida BP00300152 BR,BP00300152 BR
+2021/07/29 10:02:33 geraDigitoVerificadorEtiquetas 0.099 etiqueta completa: BP003001521BR
+2021/07/29 10:02:34 fechaPlpVariosServicos 0.726 plp obtida: 522930112
+2021/07/29 10:02:34 solicitaPLP 0.911 plp obtida com sucesso
+2021/07/29 10:02:35 buscaCEP 0.184 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:37 buscaServicos 2.348 total de 20 servicos obtidos
+2021/07/29 10:02:38 solicitaEtiquetas 2.750 faixa obtida BP00300153 BR,BP00300153 BR
+2021/07/29 10:02:38 geraDigitoVerificadorEtiquetas 0.106 etiqueta completa: BP003001535BR
+2021/07/29 10:02:38 fechaPlpVariosServicos 0.789 plp obtida: 522931300
+2021/07/29 10:02:39 erro ao obter PLP: Ocorreu um erro interno no Servidor.
+2021/07/29 10:02:40 buscaCEP 0.108 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:42 buscaServicos 2.309 total de 20 servicos obtidos
+2021/07/29 10:02:42 solicitaEtiquetas 2.656 faixa obtida BP00300154 BR,BP00300154 BR
+2021/07/29 10:02:43 geraDigitoVerificadorEtiquetas 0.160 etiqueta completa: BP003001549BR
+2021/07/29 10:02:43 fechaPlpVariosServicos 0.870 plp obtida: 522931444
+2021/07/29 10:02:44 solicitaPLP 1.039 plp obtida com sucesso
+2021/07/29 10:02:45 buscaCEP 0.116 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:47 buscaServicos 2.272 total de 20 servicos obtidos
+2021/07/29 10:02:48 solicitaEtiquetas 2.733 faixa obtida BP00300155 BR,BP00300155 BR
+2021/07/29 10:02:48 geraDigitoVerificadorEtiquetas 0.111 etiqueta completa: BP003001552BR
+2021/07/29 10:02:48 fechaPlpVariosServicos 0.716 plp obtida: 522931619
+2021/07/29 10:02:48 solicitaPLP 0.844 plp obtida com sucesso
+2021/07/29 10:02:50 buscaCEP 0.108 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:52 buscaServicos 2.186 total de 20 servicos obtidos
+2021/07/29 10:02:52 solicitaEtiquetas 2.570 faixa obtida BP00300156 BR,BP00300156 BR
+2021/07/29 10:02:52 geraDigitoVerificadorEtiquetas 0.119 etiqueta completa: BP003001566BR
+2021/07/29 10:02:53 fechaPlpVariosServicos 0.738 plp obtida: 522931813
+2021/07/29 10:02:53 solicitaPLP 0.916 plp obtida com sucesso
+2021/07/29 10:02:55 buscaCEP 0.114 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:02:57 buscaServicos 2.077 total de 20 servicos obtidos
+2021/07/29 10:02:57 solicitaEtiquetas 2.392 faixa obtida BP00300157 BR,BP00300157 BR
+2021/07/29 10:02:57 geraDigitoVerificadorEtiquetas 0.108 etiqueta completa: BP003001570BR
+2021/07/29 10:02:58 fechaPlpVariosServicos 0.769 plp obtida: 522900242
+2021/07/29 10:02:58 solicitaPLP 0.953 plp obtida com sucesso
+2021/07/29 10:03:00 buscaCEP 0.115 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:02 buscaServicos 2.663 total de 20 servicos obtidos
+2021/07/29 10:03:03 solicitaEtiquetas 2.993 faixa obtida BP00300158 BR,BP00300158 BR
+2021/07/29 10:03:03 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003001583BR
+2021/07/29 10:03:04 fechaPlpVariosServicos 0.925 plp obtida: 522900250
+2021/07/29 10:03:04 solicitaPLP 1.184 plp obtida com sucesso
+2021/07/29 10:03:11 falha ao consultar cep: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": read tcp 172.22.17.121:55160->201.48.198.235:443: wsarecv: Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+2021/07/29 10:03:14 buscaCEP 3.382 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:17 buscaServicos 5.551 total de 20 servicos obtidos
+2021/07/29 10:03:17 solicitaEtiquetas 5.989 faixa obtida BP00300159 BR,BP00300159 BR
+2021/07/29 10:03:17 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003001597BR
+2021/07/29 10:03:18 fechaPlpVariosServicos 0.738 plp obtida: 522900270
+2021/07/29 10:03:18 solicitaPLP 0.861 plp obtida com sucesso
+2021/07/29 10:03:18 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:20 buscaServicos 1.969 total de 20 servicos obtidos
+2021/07/29 10:03:20 solicitaEtiquetas 2.449 faixa obtida BP00300160 BR,BP00300160 BR
+2021/07/29 10:03:21 geraDigitoVerificadorEtiquetas 0.083 etiqueta completa: BP003001606BR
+2021/07/29 10:03:21 fechaPlpVariosServicos 0.704 plp obtida: 522900280
+2021/07/29 10:03:21 solicitaPLP 0.834 plp obtida com sucesso
+2021/07/29 10:03:21 buscaCEP 0.104 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:24 buscaServicos 2.173 total de 20 servicos obtidos
+2021/07/29 10:03:24 solicitaEtiquetas 2.545 faixa obtida BP00300161 BR,BP00300161 BR
+2021/07/29 10:03:24 geraDigitoVerificadorEtiquetas 0.104 etiqueta completa: BP003001610BR
+2021/07/29 10:03:24 fechaPlpVariosServicos 0.341 plp obtida: 522934939
+2021/07/29 10:03:25 solicitaPLP 0.513 plp obtida com sucesso
+2021/07/29 10:03:25 buscaCEP 0.080 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:27 buscaServicos 2.348 total de 20 servicos obtidos
+2021/07/29 10:03:27 solicitaEtiquetas 2.660 faixa obtida BP00300162 BR,BP00300162 BR
+2021/07/29 10:03:28 geraDigitoVerificadorEtiquetas 0.098 etiqueta completa: BP003001623BR
+2021/07/29 10:03:28 fechaPlpVariosServicos 0.760 plp obtida: 522935294
+2021/07/29 10:03:29 solicitaPLP 1.098 plp obtida com sucesso
+2021/07/29 10:03:30 buscaCEP 0.100 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:32 buscaServicos 2.203 total de 20 servicos obtidos
+2021/07/29 10:03:32 solicitaEtiquetas 2.564 faixa obtida BP00300163 BR,BP00300163 BR
+2021/07/29 10:03:32 geraDigitoVerificadorEtiquetas 0.128 etiqueta completa: BP003001637BR
+2021/07/29 10:03:33 fechaPlpVariosServicos 0.923 plp obtida: 522935302
+2021/07/29 10:03:34 solicitaPLP 1.041 plp obtida com sucesso
+2021/07/29 10:03:35 buscaCEP 0.093 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:37 buscaServicos 2.190 total de 20 servicos obtidos
+2021/07/29 10:03:37 solicitaEtiquetas 2.503 faixa obtida BP00300164 BR,BP00300164 BR
+2021/07/29 10:03:37 geraDigitoVerificadorEtiquetas 0.098 etiqueta completa: BP003001645BR
+2021/07/29 10:03:38 fechaPlpVariosServicos 0.708 plp obtida: 522935306
+2021/07/29 10:03:38 solicitaPLP 0.864 plp obtida com sucesso
+2021/07/29 10:03:40 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:41 buscaServicos 1.688 total de 20 servicos obtidos
+2021/07/29 10:03:42 solicitaEtiquetas 2.006 faixa obtida BP00300165 BR,BP00300165 BR
+2021/07/29 10:03:42 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003001654BR
+2021/07/29 10:03:42 fechaPlpVariosServicos 0.265 plp obtida: 522935316
+2021/07/29 10:03:42 solicitaPLP 0.386 plp obtida com sucesso
+2021/07/29 10:03:45 buscaCEP 0.103 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:47 buscaServicos 2.339 total de 20 servicos obtidos
+2021/07/29 10:03:47 solicitaEtiquetas 2.624 faixa obtida BP00300166 BR,BP00300166 BR
+2021/07/29 10:03:47 geraDigitoVerificadorEtiquetas 0.095 etiqueta completa: BP003001668BR
+2021/07/29 10:03:48 fechaPlpVariosServicos 0.891 plp obtida: 522937802
+2021/07/29 10:03:49 solicitaPLP 1.008 plp obtida com sucesso
+2021/07/29 10:03:50 buscaCEP 0.161 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:52 buscaServicos 2.164 total de 20 servicos obtidos
+2021/07/29 10:03:52 solicitaEtiquetas 2.477 faixa obtida BP00300167 BR,BP00300167 BR
+2021/07/29 10:03:52 geraDigitoVerificadorEtiquetas 0.082 etiqueta completa: BP003001671BR
+2021/07/29 10:03:53 fechaPlpVariosServicos 0.843 plp obtida: 522935323
+2021/07/29 10:03:53 solicitaPLP 0.963 plp obtida com sucesso
+2021/07/29 10:03:55 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:03:57 buscaServicos 2.089 total de 20 servicos obtidos
+2021/07/29 10:03:57 solicitaEtiquetas 2.386 faixa obtida BP00300168 BR,BP00300168 BR
+2021/07/29 10:03:57 geraDigitoVerificadorEtiquetas 0.080 etiqueta completa: BP003001685BR
+2021/07/29 10:03:58 fechaPlpVariosServicos 0.688 plp obtida: 522938091
+2021/07/29 10:03:58 solicitaPLP 0.910 plp obtida com sucesso
+2021/07/29 10:04:00 buscaCEP 0.090 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:02 buscaServicos 1.976 total de 20 servicos obtidos
+2021/07/29 10:04:02 solicitaEtiquetas 2.355 faixa obtida BP00300169 BR,BP00300169 BR
+2021/07/29 10:04:02 geraDigitoVerificadorEtiquetas 0.092 etiqueta completa: BP003001699BR
+2021/07/29 10:04:03 fechaPlpVariosServicos 0.414 plp obtida: 522935335
+2021/07/29 10:04:03 solicitaPLP 0.755 plp obtida com sucesso
+2021/07/29 10:04:05 buscaCEP 0.092 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:07 buscaServicos 1.962 total de 20 servicos obtidos
+2021/07/29 10:04:07 solicitaEtiquetas 2.250 faixa obtida BP00300170 BR,BP00300170 BR
+2021/07/29 10:04:07 geraDigitoVerificadorEtiquetas 0.072 etiqueta completa: BP003001708BR
+2021/07/29 10:04:08 fechaPlpVariosServicos 0.696 plp obtida: 522939409
+2021/07/29 10:04:08 solicitaPLP 0.821 plp obtida com sucesso
+2021/07/29 10:04:10 buscaCEP 0.122 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:12 buscaServicos 2.081 total de 20 servicos obtidos
+2021/07/29 10:04:12 solicitaEtiquetas 2.351 faixa obtida BP00300171 BR,BP00300171 BR
+2021/07/29 10:04:12 geraDigitoVerificadorEtiquetas 0.097 etiqueta completa: BP003001711BR
+2021/07/29 10:04:13 fechaPlpVariosServicos 0.321 plp obtida: 522935349
+2021/07/29 10:04:13 solicitaPLP 0.433 plp obtida com sucesso
+2021/07/29 10:04:15 buscaCEP 0.143 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:18 buscaServicos 3.277 total de 20 servicos obtidos
+2021/07/29 10:04:18 solicitaEtiquetas 3.573 faixa obtida BP00300172 BR,BP00300172 BR
+2021/07/29 10:04:19 geraDigitoVerificadorEtiquetas 0.212 etiqueta completa: BP003001725BR
+2021/07/29 10:04:19 fechaPlpVariosServicos 0.566 plp obtida: 522939792
+2021/07/29 10:04:20 solicitaPLP 1.279 plp obtida com sucesso
+2021/07/29 10:04:20 buscaCEP 0.190 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:22 buscaServicos 2.176 total de 20 servicos obtidos
+2021/07/29 10:04:23 solicitaEtiquetas 2.785 faixa obtida BP00300173 BR,BP00300173 BR
+2021/07/29 10:04:23 geraDigitoVerificadorEtiquetas 0.208 etiqueta completa: BP003001739BR
+2021/07/29 10:04:24 fechaPlpVariosServicos 1.059 plp obtida: 522935360
+2021/07/29 10:04:24 solicitaPLP 1.172 plp obtida com sucesso
+2021/07/29 10:04:25 buscaCEP 0.087 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:27 buscaServicos 1.910 total de 20 servicos obtidos
+2021/07/29 10:04:27 solicitaEtiquetas 2.191 faixa obtida BP00300174 BR,BP00300174 BR
+2021/07/29 10:04:27 geraDigitoVerificadorEtiquetas 0.097 etiqueta completa: BP003001742BR
+2021/07/29 10:04:28 fechaPlpVariosServicos 0.799 plp obtida: 522935367
+2021/07/29 10:04:28 solicitaPLP 0.948 plp obtida com sucesso
+2021/07/29 10:04:30 buscaCEP 0.090 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:32 buscaServicos 2.160 total de 20 servicos obtidos
+2021/07/29 10:04:32 solicitaEtiquetas 2.425 faixa obtida BP00300175 BR,BP00300175 BR
+2021/07/29 10:04:32 geraDigitoVerificadorEtiquetas 0.120 etiqueta completa: BP003001756BR
+2021/07/29 10:04:33 fechaPlpVariosServicos 0.948 plp obtida: 522935377
+2021/07/29 10:04:34 solicitaPLP 2.036 plp obtida com sucesso
+2021/07/29 10:04:36 buscaCEP 1.167 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:38 buscaServicos 3.511 total de 20 servicos obtidos
+2021/07/29 10:04:39 solicitaEtiquetas 3.874 faixa obtida BP00300176 BR,BP00300176 BR
+2021/07/29 10:04:39 geraDigitoVerificadorEtiquetas 0.209 etiqueta completa: BP003001760BR
+2021/07/29 10:04:39 fechaPlpVariosServicos 0.296 plp obtida: 522935386
+2021/07/29 10:04:39 solicitaPLP 0.434 plp obtida com sucesso
+2021/07/29 10:04:40 buscaCEP 0.135 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:43 buscaServicos 2.790 total de 20 servicos obtidos
+2021/07/29 10:04:43 solicitaEtiquetas 3.321 faixa obtida BP00300177 BR,BP00300177 BR
+2021/07/29 10:04:43 geraDigitoVerificadorEtiquetas 0.103 etiqueta completa: BP003001773BR
+2021/07/29 10:04:44 fechaPlpVariosServicos 0.503 plp obtida: 522941721
+2021/07/29 10:04:44 solicitaPLP 0.666 plp obtida com sucesso
+2021/07/29 10:04:45 buscaCEP 0.270 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:47 buscaServicos 2.225 total de 20 servicos obtidos
+2021/07/29 10:04:48 solicitaEtiquetas 2.795 faixa obtida BP00300178 BR,BP00300178 BR
+2021/07/29 10:04:48 geraDigitoVerificadorEtiquetas 0.202 etiqueta completa: BP003001787BR
+2021/07/29 10:04:49 fechaPlpVariosServicos 0.953 plp obtida: 522935399
+2021/07/29 10:04:49 solicitaPLP 1.153 plp obtida com sucesso
+2021/07/29 10:04:50 buscaCEP 0.113 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:52 buscaServicos 2.357 total de 20 servicos obtidos
+2021/07/29 10:04:53 solicitaEtiquetas 2.755 faixa obtida BP00300179 BR,BP00300179 BR
+2021/07/29 10:04:53 geraDigitoVerificadorEtiquetas 0.311 etiqueta completa: BP003001795BR
+2021/07/29 10:04:53 fechaPlpVariosServicos 0.647 plp obtida: 522935402
+2021/07/29 10:04:54 solicitaPLP 0.888 plp obtida com sucesso
+2021/07/29 10:04:55 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:04:57 buscaServicos 2.175 total de 20 servicos obtidos
+2021/07/29 10:04:57 solicitaEtiquetas 2.471 faixa obtida BP00300180 BR,BP00300180 BR
+2021/07/29 10:04:57 geraDigitoVerificadorEtiquetas 0.072 etiqueta completa: BP003001800BR
+2021/07/29 10:04:58 fechaPlpVariosServicos 0.831 plp obtida: 522935409
+2021/07/29 10:04:58 solicitaPLP 0.939 plp obtida com sucesso
+2021/07/29 10:05:00 buscaCEP 0.143 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:03 buscaServicos 2.738 total de 20 servicos obtidos
+2021/07/29 10:05:03 solicitaEtiquetas 3.042 faixa obtida BP00300181 BR,BP00300181 BR
+2021/07/29 10:05:03 geraDigitoVerificadorEtiquetas 0.249 etiqueta completa: BP003001813BR
+2021/07/29 10:05:04 fechaPlpVariosServicos 0.455 plp obtida: 522935416
+2021/07/29 10:05:04 solicitaPLP 0.730 plp obtida com sucesso
+2021/07/29 10:05:05 buscaCEP 0.259 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:07 buscaServicos 2.435 total de 20 servicos obtidos
+2021/07/29 10:05:08 solicitaEtiquetas 2.838 faixa obtida BP00300182 BR,BP00300182 BR
+2021/07/29 10:05:08 geraDigitoVerificadorEtiquetas 0.187 etiqueta completa: BP003001827BR
+2021/07/29 10:05:09 fechaPlpVariosServicos 0.910 plp obtida: 522935421
+2021/07/29 10:05:09 solicitaPLP 1.069 plp obtida com sucesso
+2021/07/29 10:05:10 buscaCEP 0.197 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:12 buscaServicos 2.378 total de 20 servicos obtidos
+2021/07/29 10:05:13 solicitaEtiquetas 2.747 faixa obtida BP00300183 BR,BP00300183 BR
+2021/07/29 10:05:13 geraDigitoVerificadorEtiquetas 0.104 etiqueta completa: BP003001835BR
+2021/07/29 10:05:14 fechaPlpVariosServicos 0.873 plp obtida: 522935425
+2021/07/29 10:05:14 solicitaPLP 1.008 plp obtida com sucesso
+2021/07/29 10:05:15 buscaCEP 0.208 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:17 buscaServicos 2.652 total de 20 servicos obtidos
+2021/07/29 10:05:18 solicitaEtiquetas 3.015 faixa obtida BP00300184 BR,BP00300184 BR
+2021/07/29 10:05:18 geraDigitoVerificadorEtiquetas 0.082 etiqueta completa: BP003001844BR
+2021/07/29 10:05:19 fechaPlpVariosServicos 0.958 plp obtida: 522935439
+2021/07/29 10:05:19 solicitaPLP 1.084 plp obtida com sucesso
+2021/07/29 10:05:20 buscaCEP 0.394 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:23 buscaServicos 2.769 total de 20 servicos obtidos
+2021/07/29 10:05:23 solicitaEtiquetas 3.094 faixa obtida BP00300185 BR,BP00300185 BR
+2021/07/29 10:05:23 geraDigitoVerificadorEtiquetas 0.152 etiqueta completa: BP003001858BR
+2021/07/29 10:05:24 fechaPlpVariosServicos 0.905 plp obtida: 522935448
+2021/07/29 10:05:24 solicitaPLP 1.088 plp obtida com sucesso
+2021/07/29 10:05:25 buscaCEP 0.386 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:27 buscaServicos 2.684 total de 20 servicos obtidos
+2021/07/29 10:05:28 solicitaEtiquetas 3.009 faixa obtida BP00300186 BR,BP00300186 BR
+2021/07/29 10:05:28 geraDigitoVerificadorEtiquetas 0.117 etiqueta completa: BP003001861BR
+2021/07/29 10:05:29 fechaPlpVariosServicos 0.853 plp obtida: 522944121
+2021/07/29 10:05:29 solicitaPLP 1.161 plp obtida com sucesso
+2021/07/29 10:05:30 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:32 buscaServicos 2.296 total de 20 servicos obtidos
+2021/07/29 10:05:32 solicitaEtiquetas 2.651 faixa obtida BP00300187 BR,BP00300187 BR
+2021/07/29 10:05:33 geraDigitoVerificadorEtiquetas 0.100 etiqueta completa: BP003001875BR
+2021/07/29 10:05:33 fechaPlpVariosServicos 0.726 plp obtida: 522944260
+2021/07/29 10:05:33 solicitaPLP 0.868 plp obtida com sucesso
+2021/07/29 10:05:35 buscaCEP 0.121 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:37 buscaServicos 2.025 total de 20 servicos obtidos
+2021/07/29 10:05:37 solicitaEtiquetas 2.380 faixa obtida BP00300188 BR,BP00300188 BR
+2021/07/29 10:05:37 geraDigitoVerificadorEtiquetas 0.107 etiqueta completa: BP003001889BR
+2021/07/29 10:05:38 fechaPlpVariosServicos 0.732 plp obtida: 522946398
+2021/07/29 10:05:38 solicitaPLP 0.840 plp obtida com sucesso
+2021/07/29 10:05:40 buscaCEP 0.302 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:42 buscaServicos 2.444 total de 20 servicos obtidos
+2021/07/29 10:05:43 solicitaEtiquetas 3.024 faixa obtida BP00300189 BR,BP00300189 BR
+2021/07/29 10:05:43 geraDigitoVerificadorEtiquetas 0.256 etiqueta completa: BP003001892BR
+2021/07/29 10:05:44 fechaPlpVariosServicos 0.919 plp obtida: 522935465
+2021/07/29 10:05:44 solicitaPLP 1.098 plp obtida com sucesso
+2021/07/29 10:05:45 buscaCEP 0.118 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:47 buscaServicos 2.064 total de 20 servicos obtidos
+2021/07/29 10:05:47 solicitaEtiquetas 2.446 faixa obtida BP00300191 BR,BP00300191 BR
+2021/07/29 10:05:47 geraDigitoVerificadorEtiquetas 0.143 etiqueta completa: BP003001915BR
+2021/07/29 10:05:48 fechaPlpVariosServicos 0.946 plp obtida: 522946761
+2021/07/29 10:05:48 solicitaPLP 1.051 plp obtida com sucesso
+2021/07/29 10:05:50 buscaCEP 0.093 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:53 buscaServicos 3.159 total de 20 servicos obtidos
+2021/07/29 10:05:53 solicitaEtiquetas 3.461 faixa obtida BP00300192 BR,BP00300192 BR
+2021/07/29 10:05:54 geraDigitoVerificadorEtiquetas 0.335 etiqueta completa: BP003001929BR
+2021/07/29 10:05:54 fechaPlpVariosServicos 0.871 plp obtida: 522946951
+2021/07/29 10:05:55 solicitaPLP 1.126 plp obtida com sucesso
+2021/07/29 10:05:55 buscaCEP 0.125 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:05:57 buscaServicos 2.432 total de 20 servicos obtidos
+2021/07/29 10:05:58 solicitaEtiquetas 2.815 faixa obtida BP00300193 BR,BP00300193 BR
+2021/07/29 10:05:58 geraDigitoVerificadorEtiquetas 0.098 etiqueta completa: BP003001932BR
+2021/07/29 10:05:59 fechaPlpVariosServicos 0.948 plp obtida: 522935481
+2021/07/29 10:05:59 solicitaPLP 1.144 plp obtida com sucesso
+2021/07/29 10:06:00 buscaCEP 0.106 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:02 buscaServicos 2.204 total de 20 servicos obtidos
+2021/07/29 10:06:02 solicitaEtiquetas 2.550 faixa obtida BP00300194 BR,BP00300194 BR
+2021/07/29 10:06:02 geraDigitoVerificadorEtiquetas 0.116 etiqueta completa: BP003001946BR
+2021/07/29 10:06:03 fechaPlpVariosServicos 0.267 plp obtida: 522935486
+2021/07/29 10:06:03 solicitaPLP 0.380 plp obtida com sucesso
+2021/07/29 10:06:06 buscaCEP 0.856 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:09 buscaServicos 3.800 total de 20 servicos obtidos
+2021/07/29 10:06:09 solicitaEtiquetas 4.166 faixa obtida BP00300195 BR,BP00300195 BR
+2021/07/29 10:06:09 geraDigitoVerificadorEtiquetas 0.116 etiqueta completa: BP003001950BR
+2021/07/29 10:06:10 fechaPlpVariosServicos 0.988 plp obtida: 522935494
+2021/07/29 10:06:10 solicitaPLP 1.272 plp obtida com sucesso
+2021/07/29 10:06:11 buscaCEP 0.171 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:14 buscaServicos 3.221 total de 20 servicos obtidos
+2021/07/29 10:06:14 solicitaEtiquetas 3.648 faixa obtida BP00300196 BR,BP00300196 BR
+2021/07/29 10:06:14 geraDigitoVerificadorEtiquetas 0.133 etiqueta completa: BP003001963BR
+2021/07/29 10:06:15 fechaPlpVariosServicos 0.761 plp obtida: 522935500
+2021/07/29 10:06:15 solicitaPLP 0.912 plp obtida com sucesso
+2021/07/29 10:06:15 buscaCEP 0.093 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:17 buscaServicos 2.357 total de 20 servicos obtidos
+2021/07/29 10:06:18 solicitaEtiquetas 2.679 faixa obtida BP00300197 BR,BP00300197 BR
+2021/07/29 10:06:18 geraDigitoVerificadorEtiquetas 0.079 etiqueta completa: BP003001977BR
+2021/07/29 10:06:19 fechaPlpVariosServicos 0.888 plp obtida: 522935502
+2021/07/29 10:06:19 solicitaPLP 1.012 plp obtida com sucesso
+2021/07/29 10:06:20 buscaCEP 0.104 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:22 buscaServicos 2.008 total de 20 servicos obtidos
+2021/07/29 10:06:22 solicitaEtiquetas 2.332 faixa obtida BP00300198 BR,BP00300198 BR
+2021/07/29 10:06:22 geraDigitoVerificadorEtiquetas 0.114 etiqueta completa: BP003001985BR
+2021/07/29 10:06:23 fechaPlpVariosServicos 0.361 plp obtida: 522935503
+2021/07/29 10:06:23 solicitaPLP 0.511 plp obtida com sucesso
+2021/07/29 10:06:25 buscaCEP 0.109 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:27 buscaServicos 2.173 total de 20 servicos obtidos
+2021/07/29 10:06:27 solicitaEtiquetas 2.558 faixa obtida BP00300199 BR,BP00300199 BR
+2021/07/29 10:06:28 geraDigitoVerificadorEtiquetas 0.210 etiqueta completa: BP003001994BR
+2021/07/29 10:06:28 fechaPlpVariosServicos 0.906 plp obtida: 522935507
+2021/07/29 10:06:29 solicitaPLP 1.026 plp obtida com sucesso
+2021/07/29 10:06:30 buscaCEP 0.167 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:32 buscaServicos 2.227 total de 20 servicos obtidos
+2021/07/29 10:06:34 solicitaEtiquetas 3.835 faixa obtida BP00300200 BR,BP00300200 BR
+2021/07/29 10:06:34 geraDigitoVerificadorEtiquetas 0.319 etiqueta completa: BP003002005BR
+2021/07/29 10:06:35 fechaPlpVariosServicos 0.714 plp obtida: 522935511
+2021/07/29 10:06:35 solicitaPLP 0.824 plp obtida com sucesso
+2021/07/29 10:06:35 buscaCEP 0.080 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:37 buscaServicos 2.126 total de 20 servicos obtidos
+2021/07/29 10:06:37 solicitaEtiquetas 2.431 faixa obtida BP00300201 BR,BP00300201 BR
+2021/07/29 10:06:37 geraDigitoVerificadorEtiquetas 0.108 etiqueta completa: BP003002014BR
+2021/07/29 10:06:38 fechaPlpVariosServicos 0.675 plp obtida: 522950406
+2021/07/29 10:06:38 solicitaPLP 0.802 plp obtida com sucesso
+2021/07/29 10:06:40 buscaCEP 0.083 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:41 buscaServicos 1.665 total de 20 servicos obtidos
+2021/07/29 10:06:42 solicitaEtiquetas 1.944 faixa obtida BP00300202 BR,BP00300202 BR
+2021/07/29 10:06:42 geraDigitoVerificadorEtiquetas 0.183 etiqueta completa: BP003002028BR
+2021/07/29 10:06:43 fechaPlpVariosServicos 0.759 plp obtida: 522950563
+2021/07/29 10:06:43 solicitaPLP 0.872 plp obtida com sucesso
+2021/07/29 10:06:45 buscaCEP 0.086 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:46 buscaServicos 1.683 total de 20 servicos obtidos
+2021/07/29 10:06:47 solicitaEtiquetas 2.055 faixa obtida BP00300203 BR,BP00300203 BR
+2021/07/29 10:06:47 geraDigitoVerificadorEtiquetas 0.092 etiqueta completa: BP003002031BR
+2021/07/29 10:06:48 fechaPlpVariosServicos 0.699 plp obtida: 522950733
+2021/07/29 10:06:48 solicitaPLP 0.919 plp obtida com sucesso
+2021/07/29 10:06:50 buscaCEP 0.259 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:52 buscaServicos 2.128 total de 20 servicos obtidos
+2021/07/29 10:06:52 solicitaEtiquetas 2.432 faixa obtida BP00300204 BR,BP00300204 BR
+2021/07/29 10:06:52 geraDigitoVerificadorEtiquetas 0.126 etiqueta completa: BP003002045BR
+2021/07/29 10:06:53 fechaPlpVariosServicos 0.704 plp obtida: 522950922
+2021/07/29 10:06:53 solicitaPLP 0.927 plp obtida com sucesso
+2021/07/29 10:06:55 buscaCEP 0.096 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:06:57 buscaServicos 1.937 total de 20 servicos obtidos
+2021/07/29 10:06:57 solicitaEtiquetas 2.225 faixa obtida BP00300205 BR,BP00300205 BR
+2021/07/29 10:06:57 geraDigitoVerificadorEtiquetas 0.114 etiqueta completa: BP003002059BR
+2021/07/29 10:06:58 fechaPlpVariosServicos 0.854 plp obtida: 522935535
+2021/07/29 10:06:58 solicitaPLP 0.990 plp obtida com sucesso
+2021/07/29 10:07:00 buscaCEP 0.085 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:01 buscaServicos 1.584 total de 20 servicos obtidos
+2021/07/29 10:07:02 solicitaEtiquetas 1.857 faixa obtida BP00300206 BR,BP00300206 BR
+2021/07/29 10:07:02 geraDigitoVerificadorEtiquetas 0.075 etiqueta completa: BP003002062BR
+2021/07/29 10:07:02 fechaPlpVariosServicos 0.729 plp obtida: 522935539
+2021/07/29 10:07:03 solicitaPLP 0.808 plp obtida com sucesso
+2021/07/29 10:07:05 buscaCEP 0.116 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:07 buscaServicos 2.235 total de 20 servicos obtidos
+2021/07/29 10:07:08 solicitaEtiquetas 2.900 faixa obtida BP00300207 BR,BP00300207 BR
+2021/07/29 10:07:08 geraDigitoVerificadorEtiquetas 0.143 etiqueta completa: BP003002076BR
+2021/07/29 10:07:09 fechaPlpVariosServicos 0.842 plp obtida: 522935544
+2021/07/29 10:07:09 solicitaPLP 0.972 plp obtida com sucesso
+2021/07/29 10:07:10 buscaCEP 0.328 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:13 buscaServicos 2.760 total de 20 servicos obtidos
+2021/07/29 10:07:13 solicitaEtiquetas 3.139 faixa obtida BP00300208 BR,BP00300208 BR
+2021/07/29 10:07:13 geraDigitoVerificadorEtiquetas 0.270 etiqueta completa: BP003002080BR
+2021/07/29 10:07:14 fechaPlpVariosServicos 0.744 plp obtida: 522935547
+2021/07/29 10:07:14 solicitaPLP 0.914 plp obtida com sucesso
+2021/07/29 10:07:15 buscaCEP 0.216 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:17 buscaServicos 2.271 total de 20 servicos obtidos
+2021/07/29 10:07:17 solicitaEtiquetas 2.582 faixa obtida BP00300209 BR,BP00300209 BR
+2021/07/29 10:07:18 geraDigitoVerificadorEtiquetas 0.152 etiqueta completa: BP003002093BR
+2021/07/29 10:07:18 fechaPlpVariosServicos 0.827 plp obtida: 522935553
+2021/07/29 10:07:19 solicitaPLP 1.236 plp obtida com sucesso
+2021/07/29 10:07:20 buscaCEP 0.163 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:22 buscaServicos 1.760 total de 20 servicos obtidos
+2021/07/29 10:07:22 solicitaEtiquetas 2.313 faixa obtida BP00300210 BR,BP00300210 BR
+2021/07/29 10:07:22 geraDigitoVerificadorEtiquetas 0.180 etiqueta completa: BP003002102BR
+2021/07/29 10:07:23 fechaPlpVariosServicos 0.817 plp obtida: 522935555
+2021/07/29 10:07:23 solicitaPLP 0.928 plp obtida com sucesso
+2021/07/29 10:07:25 buscaCEP 0.116 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:27 buscaServicos 2.276 total de 20 servicos obtidos
+2021/07/29 10:07:28 solicitaEtiquetas 2.882 faixa obtida BP00300211 BR,BP00300211 BR
+2021/07/29 10:07:28 geraDigitoVerificadorEtiquetas 0.107 etiqueta completa: BP003002116BR
+2021/07/29 10:07:29 fechaPlpVariosServicos 0.804 plp obtida: 522953214
+2021/07/29 10:07:29 solicitaPLP 0.937 plp obtida com sucesso
+2021/07/29 10:07:30 buscaCEP 0.300 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:33 buscaServicos 3.644 total de 20 servicos obtidos
+2021/07/29 10:07:34 solicitaEtiquetas 4.136 faixa obtida BP00300212 BR,BP00300212 BR
+2021/07/29 10:07:34 geraDigitoVerificadorEtiquetas 0.187 etiqueta completa: BP003002120BR
+2021/07/29 10:07:35 fechaPlpVariosServicos 0.903 plp obtida: 522954449
+2021/07/29 10:07:35 solicitaPLP 1.052 plp obtida com sucesso
+2021/07/29 10:07:35 buscaCEP 0.165 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:37 buscaServicos 2.290 total de 20 servicos obtidos
+2021/07/29 10:07:38 solicitaEtiquetas 2.698 faixa obtida BP00300213 BR,BP00300213 BR
+2021/07/29 10:07:38 geraDigitoVerificadorEtiquetas 0.110 etiqueta completa: BP003002133BR
+2021/07/29 10:07:39 fechaPlpVariosServicos 0.831 plp obtida: 522954613
+2021/07/29 10:07:39 solicitaPLP 0.972 plp obtida com sucesso
+2021/07/29 10:07:40 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:42 buscaServicos 1.952 total de 20 servicos obtidos
+2021/07/29 10:07:42 solicitaEtiquetas 2.267 faixa obtida BP00300214 BR,BP00300214 BR
+2021/07/29 10:07:42 geraDigitoVerificadorEtiquetas 0.093 etiqueta completa: BP003002147BR
+2021/07/29 10:07:43 fechaPlpVariosServicos 0.772 plp obtida: 522954759
+2021/07/29 10:07:43 solicitaPLP 0.902 plp obtida com sucesso
+2021/07/29 10:07:45 buscaCEP 0.239 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:47 buscaServicos 2.246 total de 20 servicos obtidos
+2021/07/29 10:07:47 solicitaEtiquetas 2.638 faixa obtida BP00300215 BR,BP00300215 BR
+2021/07/29 10:07:48 geraDigitoVerificadorEtiquetas 0.268 etiqueta completa: BP003002155BR
+2021/07/29 10:07:49 fechaPlpVariosServicos 0.874 plp obtida: 522954950
+2021/07/29 10:07:49 solicitaPLP 0.987 plp obtida com sucesso
+2021/07/29 10:07:50 buscaCEP 0.105 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:52 buscaServicos 2.256 total de 20 servicos obtidos
+2021/07/29 10:07:52 solicitaEtiquetas 2.583 faixa obtida BP00300216 BR,BP00300216 BR
+2021/07/29 10:07:53 geraDigitoVerificadorEtiquetas 0.597 etiqueta completa: BP003002164BR
+2021/07/29 10:07:54 fechaPlpVariosServicos 0.966 plp obtida: 522955102
+2021/07/29 10:07:54 solicitaPLP 1.111 plp obtida com sucesso
+2021/07/29 10:07:55 buscaCEP 0.119 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:07:57 buscaServicos 2.071 total de 20 servicos obtidos
+2021/07/29 10:07:57 solicitaEtiquetas 2.577 faixa obtida BP00300217 BR,BP00300217 BR
+2021/07/29 10:07:57 geraDigitoVerificadorEtiquetas 0.118 etiqueta completa: BP003002178BR
+2021/07/29 10:07:58 fechaPlpVariosServicos 0.812 plp obtida: 522955277
+2021/07/29 10:07:58 solicitaPLP 0.971 plp obtida com sucesso
+2021/07/29 10:08:00 buscaCEP 0.136 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:02 buscaServicos 2.110 total de 20 servicos obtidos
+2021/07/29 10:08:02 solicitaEtiquetas 2.506 faixa obtida BP00300218 BR,BP00300218 BR
+2021/07/29 10:08:02 geraDigitoVerificadorEtiquetas 0.111 etiqueta completa: BP003002181BR
+2021/07/29 10:08:03 fechaPlpVariosServicos 0.273 plp obtida: 522957437
+2021/07/29 10:08:03 solicitaPLP 0.778 plp obtida com sucesso
+2021/07/29 10:08:05 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:07 buscaServicos 1.766 total de 20 servicos obtidos
+2021/07/29 10:08:07 solicitaEtiquetas 2.095 faixa obtida BP00300219 BR,BP00300219 BR
+2021/07/29 10:08:07 geraDigitoVerificadorEtiquetas 0.097 etiqueta completa: BP003002195BR
+2021/07/29 10:08:08 fechaPlpVariosServicos 0.787 plp obtida: 522957604
+2021/07/29 10:08:08 solicitaPLP 0.960 plp obtida com sucesso
+2021/07/29 10:08:10 buscaCEP 0.145 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:12 buscaServicos 2.589 total de 20 servicos obtidos
+2021/07/29 10:08:13 solicitaEtiquetas 3.331 faixa obtida BP00300220 BR,BP00300220 BR
+2021/07/29 10:08:13 geraDigitoVerificadorEtiquetas 0.134 etiqueta completa: BP003002204BR
+2021/07/29 10:08:14 fechaPlpVariosServicos 0.909 plp obtida: 522935623
+2021/07/29 10:08:14 solicitaPLP 1.153 plp obtida com sucesso
+2021/07/29 10:08:15 buscaCEP 0.276 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:18 buscaServicos 2.755 total de 20 servicos obtidos
+2021/07/29 10:08:18 solicitaEtiquetas 3.306 faixa obtida BP00300221 BR,BP00300221 BR
+2021/07/29 10:08:18 geraDigitoVerificadorEtiquetas 0.121 etiqueta completa: BP003002218BR
+2021/07/29 10:08:19 fechaPlpVariosServicos 0.792 plp obtida: 522958043
+2021/07/29 10:08:19 solicitaPLP 0.956 plp obtida com sucesso
+2021/07/29 10:08:20 buscaCEP 0.107 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:22 buscaServicos 1.929 total de 20 servicos obtidos
+2021/07/29 10:08:22 solicitaEtiquetas 2.229 faixa obtida BP00300222 BR,BP00300222 BR
+2021/07/29 10:08:22 geraDigitoVerificadorEtiquetas 0.111 etiqueta completa: BP003002221BR
+2021/07/29 10:08:23 fechaPlpVariosServicos 0.681 plp obtida: 522958175
+2021/07/29 10:08:23 solicitaPLP 0.781 plp obtida com sucesso
+2021/07/29 10:08:25 buscaCEP 0.120 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:28 buscaServicos 3.150 total de 20 servicos obtidos
+2021/07/29 10:08:28 solicitaEtiquetas 3.484 faixa obtida BP00300223 BR,BP00300223 BR
+2021/07/29 10:08:28 geraDigitoVerificadorEtiquetas 0.152 etiqueta completa: BP003002235BR
+2021/07/29 10:08:49 erro ao fechar PLP: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 201.48.198.235:443: connectex: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+2021/07/29 10:08:50 buscaCEP 0.478 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:52 buscaServicos 2.621 total de 20 servicos obtidos
+2021/07/29 10:08:53 solicitaEtiquetas 3.219 faixa obtida BP00300224 BR,BP00300224 BR
+2021/07/29 10:08:53 geraDigitoVerificadorEtiquetas 0.486 etiqueta completa: BP003002249BR
+2021/07/29 10:08:54 fechaPlpVariosServicos 0.828 plp obtida: 522935661
+2021/07/29 10:08:54 solicitaPLP 1.130 plp obtida com sucesso
+2021/07/29 10:08:54 buscaCEP 0.213 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:08:57 buscaServicos 2.382 total de 20 servicos obtidos
+2021/07/29 10:08:57 solicitaEtiquetas 2.737 faixa obtida BP00300225 BR,BP00300225 BR
+2021/07/29 10:08:57 geraDigitoVerificadorEtiquetas 0.210 etiqueta completa: BP003002252BR
+2021/07/29 10:08:58 fechaPlpVariosServicos 0.816 plp obtida: 522935668
+2021/07/29 10:08:58 solicitaPLP 1.017 plp obtida com sucesso
+2021/07/29 10:08:58 buscaCEP 0.226 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:01 buscaServicos 2.664 total de 20 servicos obtidos
+2021/07/29 10:09:01 solicitaEtiquetas 3.093 faixa obtida BP00300226 BR,BP00300226 BR
+2021/07/29 10:09:01 geraDigitoVerificadorEtiquetas 0.162 etiqueta completa: BP003002266BR
+2021/07/29 10:09:02 fechaPlpVariosServicos 0.780 plp obtida: 522935675
+2021/07/29 10:09:02 solicitaPLP 0.954 plp obtida com sucesso
+2021/07/29 10:09:03 buscaCEP 0.108 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:04 buscaServicos 1.963 total de 20 servicos obtidos
+2021/07/29 10:09:05 solicitaEtiquetas 2.242 faixa obtida BP00300227 BR,BP00300227 BR
+2021/07/29 10:09:05 geraDigitoVerificadorEtiquetas 0.087 etiqueta completa: BP003002270BR
+2021/07/29 10:09:05 fechaPlpVariosServicos 0.338 plp obtida: 522935679
+2021/07/29 10:09:05 solicitaPLP 0.454 plp obtida com sucesso
+2021/07/29 10:09:05 buscaCEP 0.085 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:07 buscaServicos 2.079 total de 20 servicos obtidos
+2021/07/29 10:09:08 solicitaEtiquetas 2.365 faixa obtida BP00300228 BR,BP00300228 BR
+2021/07/29 10:09:08 geraDigitoVerificadorEtiquetas 0.094 etiqueta completa: BP003002283BR
+2021/07/29 10:09:08 fechaPlpVariosServicos 0.715 plp obtida: 522935689
+2021/07/29 10:09:09 solicitaPLP 0.824 plp obtida com sucesso
+2021/07/29 10:09:10 buscaCEP 0.102 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:12 buscaServicos 1.767 total de 20 servicos obtidos
+2021/07/29 10:09:12 solicitaEtiquetas 2.353 faixa obtida BP00300229 BR,BP00300229 BR
+2021/07/29 10:09:12 geraDigitoVerificadorEtiquetas 0.107 etiqueta completa: BP003002297BR
+2021/07/29 10:09:13 fechaPlpVariosServicos 0.730 plp obtida: 522935695
+2021/07/29 10:09:13 solicitaPLP 0.871 plp obtida com sucesso
+2021/07/29 10:09:15 buscaCEP 0.233 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:17 buscaServicos 2.514 total de 20 servicos obtidos
+2021/07/29 10:09:18 solicitaEtiquetas 2.895 faixa obtida BP00300230 BR,BP00300230 BR
+2021/07/29 10:09:18 geraDigitoVerificadorEtiquetas 0.361 etiqueta completa: BP003002306BR
+2021/07/29 10:09:19 fechaPlpVariosServicos 0.820 plp obtida: 522935700
+2021/07/29 10:09:19 solicitaPLP 0.961 plp obtida com sucesso
+2021/07/29 10:09:20 buscaCEP 0.385 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:22 buscaServicos 2.646 total de 20 servicos obtidos
+2021/07/29 10:09:23 solicitaEtiquetas 3.059 faixa obtida BP00300231 BR,BP00300231 BR
+2021/07/29 10:09:23 geraDigitoVerificadorEtiquetas 0.117 etiqueta completa: BP003002310BR
+2021/07/29 10:09:23 fechaPlpVariosServicos 0.302 plp obtida: 522962123
+2021/07/29 10:09:23 solicitaPLP 0.454 plp obtida com sucesso
+2021/07/29 10:09:25 buscaCEP 0.139 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:27 buscaServicos 2.296 total de 20 servicos obtidos
+2021/07/29 10:09:27 solicitaEtiquetas 2.568 faixa obtida BP00300232 BR,BP00300232 BR
+2021/07/29 10:09:27 geraDigitoVerificadorEtiquetas 0.131 etiqueta completa: BP003002323BR
+2021/07/29 10:09:28 fechaPlpVariosServicos 0.373 plp obtida: 522935711
+2021/07/29 10:09:28 solicitaPLP 0.502 plp obtida com sucesso
+2021/07/29 10:09:30 buscaCEP 0.147 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:32 buscaServicos 1.993 total de 20 servicos obtidos
+2021/07/29 10:09:32 solicitaEtiquetas 2.388 faixa obtida BP00300233 BR,BP00300233 BR
+2021/07/29 10:09:32 geraDigitoVerificadorEtiquetas 0.143 etiqueta completa: BP003002337BR
+2021/07/29 10:09:33 fechaPlpVariosServicos 0.316 plp obtida: 522935719
+2021/07/29 10:09:33 solicitaPLP 0.453 plp obtida com sucesso
+2021/07/29 10:09:35 buscaCEP 0.091 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:37 buscaServicos 2.290 total de 20 servicos obtidos
+2021/07/29 10:09:37 solicitaEtiquetas 2.607 faixa obtida BP00300234 BR,BP00300234 BR
+2021/07/29 10:09:37 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003002345BR
+2021/07/29 10:09:38 fechaPlpVariosServicos 0.834 plp obtida: 522935726
+2021/07/29 10:09:38 solicitaPLP 0.977 plp obtida com sucesso
+2021/07/29 10:09:40 buscaCEP 0.159 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:42 buscaServicos 2.702 total de 20 servicos obtidos
+2021/07/29 10:09:43 solicitaEtiquetas 3.002 faixa obtida BP00300235 BR,BP00300235 BR
+2021/07/29 10:09:43 geraDigitoVerificadorEtiquetas 0.126 etiqueta completa: BP003002354BR
+2021/07/29 10:09:43 fechaPlpVariosServicos 0.439 plp obtida: 522935736
+2021/07/29 10:09:44 solicitaPLP 0.645 plp obtida com sucesso
+2021/07/29 10:09:45 buscaCEP 0.212 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:47 buscaServicos 2.641 total de 20 servicos obtidos
+2021/07/29 10:09:48 solicitaEtiquetas 2.979 faixa obtida BP00300236 BR,BP00300236 BR
+2021/07/29 10:09:48 geraDigitoVerificadorEtiquetas 0.138 etiqueta completa: BP003002368BR
+2021/07/29 10:09:49 fechaPlpVariosServicos 0.896 plp obtida: 522935746
+2021/07/29 10:09:49 solicitaPLP 1.056 plp obtida com sucesso
+2021/07/29 10:09:50 buscaCEP 0.085 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:52 buscaServicos 2.219 total de 20 servicos obtidos
+2021/07/29 10:09:52 solicitaEtiquetas 2.605 faixa obtida BP00300238 BR,BP00300238 BR
+2021/07/29 10:09:52 geraDigitoVerificadorEtiquetas 0.088 etiqueta completa: BP003002385BR
+2021/07/29 10:09:53 fechaPlpVariosServicos 0.354 plp obtida: 522935755
+2021/07/29 10:09:53 solicitaPLP 0.470 plp obtida com sucesso
+2021/07/29 10:09:55 buscaCEP 0.138 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:09:57 buscaServicos 2.332 total de 20 servicos obtidos
+2021/07/29 10:09:57 solicitaEtiquetas 2.640 faixa obtida BP00300239 BR,BP00300239 BR
+2021/07/29 10:09:58 geraDigitoVerificadorEtiquetas 0.087 etiqueta completa: BP003002399BR
+2021/07/29 10:09:58 fechaPlpVariosServicos 0.861 plp obtida: 522935762
+2021/07/29 10:09:59 solicitaPLP 1.004 plp obtida com sucesso
+2021/07/29 10:10:00 buscaCEP 0.098 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:02 buscaServicos 1.805 total de 20 servicos obtidos
+2021/07/29 10:10:02 solicitaEtiquetas 2.258 faixa obtida BP00300240 BR,BP00300240 BR
+2021/07/29 10:10:02 geraDigitoVerificadorEtiquetas 0.171 etiqueta completa: BP003002408BR
+2021/07/29 10:10:03 fechaPlpVariosServicos 0.485 plp obtida: 522935771
+2021/07/29 10:10:03 solicitaPLP 0.906 plp obtida com sucesso
+2021/07/29 10:10:06 buscaCEP 1.139 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:08 buscaServicos 3.347 total de 20 servicos obtidos
+2021/07/29 10:10:09 solicitaEtiquetas 3.911 faixa obtida BP00300241 BR,BP00300241 BR
+2021/07/29 10:10:09 geraDigitoVerificadorEtiquetas 0.240 etiqueta completa: BP003002411BR
+2021/07/29 10:10:09 fechaPlpVariosServicos 0.392 plp obtida: 522965523
+2021/07/29 10:10:10 solicitaPLP 0.591 plp obtida com sucesso
+2021/07/29 10:10:10 buscaCEP 0.131 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:12 buscaServicos 2.231 total de 20 servicos obtidos
+2021/07/29 10:10:13 solicitaEtiquetas 2.749 faixa obtida BP00300242 BR,BP00300242 BR
+2021/07/29 10:10:13 geraDigitoVerificadorEtiquetas 0.244 etiqueta completa: BP003002425BR
+2021/07/29 10:10:14 fechaPlpVariosServicos 0.886 plp obtida: 522965645
+2021/07/29 10:10:14 solicitaPLP 1.111 plp obtida com sucesso
+2021/07/29 10:10:15 buscaCEP 0.192 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:17 buscaServicos 2.046 total de 20 servicos obtidos
+2021/07/29 10:10:17 solicitaEtiquetas 2.572 faixa obtida BP00300243 BR,BP00300243 BR
+2021/07/29 10:10:17 geraDigitoVerificadorEtiquetas 0.113 etiqueta completa: BP003002439BR
+2021/07/29 10:10:18 fechaPlpVariosServicos 0.907 plp obtida: 522965772
+2021/07/29 10:10:19 solicitaPLP 1.072 plp obtida com sucesso
+2021/07/29 10:10:20 buscaCEP 0.124 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:22 buscaServicos 2.314 total de 20 servicos obtidos
+2021/07/29 10:10:22 solicitaEtiquetas 2.676 faixa obtida BP00300244 BR,BP00300244 BR
+2021/07/29 10:10:23 geraDigitoVerificadorEtiquetas 0.203 etiqueta completa: BP003002442BR
+2021/07/29 10:10:23 fechaPlpVariosServicos 0.402 plp obtida: 522965933
+2021/07/29 10:10:23 solicitaPLP 0.547 plp obtida com sucesso
+2021/07/29 10:10:25 buscaCEP 0.195 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:27 buscaServicos 2.580 total de 20 servicos obtidos
+2021/07/29 10:10:28 solicitaEtiquetas 3.433 faixa obtida BP00300246 BR,BP00300246 BR
+2021/07/29 10:10:29 geraDigitoVerificadorEtiquetas 0.629 etiqueta completa: BP003002460BR
+2021/07/29 10:10:29 fechaPlpVariosServicos 0.395 plp obtida: 522966116
+2021/07/29 10:10:30 solicitaPLP 0.868 plp obtida com sucesso
+2021/07/29 10:10:30 buscaCEP 0.300 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:33 buscaServicos 2.859 total de 20 servicos obtidos
+2021/07/29 10:10:33 solicitaEtiquetas 3.197 faixa obtida BP00300248 BR,BP00300248 BR
+2021/07/29 10:10:33 geraDigitoVerificadorEtiquetas 0.147 etiqueta completa: BP003002487BR
+2021/07/29 10:10:34 fechaPlpVariosServicos 0.867 plp obtida: 522966275
+2021/07/29 10:10:34 solicitaPLP 1.013 plp obtida com sucesso
+2021/07/29 10:10:35 buscaCEP 0.151 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:38 buscaServicos 2.706 total de 20 servicos obtidos
+2021/07/29 10:10:38 solicitaEtiquetas 3.062 faixa obtida BP00300249 BR,BP00300249 BR
+2021/07/29 10:10:38 geraDigitoVerificadorEtiquetas 0.153 etiqueta completa: BP003002495BR
+2021/07/29 10:10:39 fechaPlpVariosServicos 0.833 plp obtida: 522935826
+2021/07/29 10:10:39 solicitaPLP 1.119 plp obtida com sucesso
+2021/07/29 10:10:40 buscaCEP 0.644 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:43 buscaServicos 3.622 total de 20 servicos obtidos
+2021/07/29 10:10:44 solicitaEtiquetas 4.158 faixa obtida BP00300250 BR,BP00300250 BR
+2021/07/29 10:10:44 geraDigitoVerificadorEtiquetas 0.145 etiqueta completa: BP003002500BR
+2021/07/29 10:10:45 fechaPlpVariosServicos 0.773 plp obtida: 522935832
+2021/07/29 10:10:45 solicitaPLP 0.999 plp obtida com sucesso
+2021/07/29 10:10:45 buscaCEP 0.159 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:48 buscaServicos 2.536 total de 20 servicos obtidos
+2021/07/29 10:10:48 solicitaEtiquetas 2.949 faixa obtida BP00300251 BR,BP00300251 BR
+2021/07/29 10:10:48 geraDigitoVerificadorEtiquetas 0.171 etiqueta completa: BP003002513BR
+2021/07/29 10:10:49 fechaPlpVariosServicos 0.770 plp obtida: 522935834
+2021/07/29 10:10:49 solicitaPLP 0.965 plp obtida com sucesso
+2021/07/29 10:10:50 buscaCEP 0.236 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:53 buscaServicos 2.849 total de 20 servicos obtidos
+2021/07/29 10:10:53 solicitaEtiquetas 3.326 faixa obtida BP00300252 BR,BP00300252 BR
+2021/07/29 10:10:53 geraDigitoVerificadorEtiquetas 0.162 etiqueta completa: BP003002527BR
+2021/07/29 10:10:54 fechaPlpVariosServicos 0.985 plp obtida: 522935843
+2021/07/29 10:10:55 solicitaPLP 1.327 plp obtida com sucesso
+2021/07/29 10:10:55 buscaCEP 0.136 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:10:58 buscaServicos 2.695 total de 20 servicos obtidos
+2021/07/29 10:10:58 solicitaEtiquetas 2.989 faixa obtida BP00300253 BR,BP00300253 BR
+2021/07/29 10:10:58 geraDigitoVerificadorEtiquetas 0.099 etiqueta completa: BP003002535BR
+2021/07/29 10:10:59 fechaPlpVariosServicos 0.908 plp obtida: 522935849
+2021/07/29 10:10:59 solicitaPLP 1.110 plp obtida com sucesso
+2021/07/29 10:11:00 buscaCEP 0.200 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:03 buscaServicos 2.836 total de 20 servicos obtidos
+2021/07/29 10:11:03 solicitaEtiquetas 3.154 faixa obtida BP00300254 BR,BP00300254 BR
+2021/07/29 10:11:03 geraDigitoVerificadorEtiquetas 0.134 etiqueta completa: BP003002544BR
+2021/07/29 10:11:04 fechaPlpVariosServicos 0.936 plp obtida: 522935858
+2021/07/29 10:11:04 solicitaPLP 1.107 plp obtida com sucesso
+2021/07/29 10:11:05 buscaCEP 0.121 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:07 buscaServicos 2.684 total de 20 servicos obtidos
+2021/07/29 10:11:08 solicitaEtiquetas 3.074 faixa obtida BP00300255 BR,BP00300255 BR
+2021/07/29 10:11:09 geraDigitoVerificadorEtiquetas 0.676 etiqueta completa: BP003002558BR
+2021/07/29 10:11:09 fechaPlpVariosServicos 0.856 plp obtida: 522935866
+2021/07/29 10:11:10 solicitaPLP 1.271 plp obtida com sucesso
+2021/07/29 10:11:10 buscaCEP 0.199 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:13 buscaServicos 2.961 total de 20 servicos obtidos
+2021/07/29 10:11:13 solicitaEtiquetas 3.286 faixa obtida BP00300256 BR,BP00300256 BR
+2021/07/29 10:11:13 geraDigitoVerificadorEtiquetas 0.093 etiqueta completa: BP003002561BR
+2021/07/29 10:11:14 fechaPlpVariosServicos 0.879 plp obtida: 522935870
+2021/07/29 10:11:14 solicitaPLP 1.048 plp obtida com sucesso
+2021/07/29 10:11:15 buscaCEP 0.212 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:18 buscaServicos 2.732 total de 20 servicos obtidos
+2021/07/29 10:11:18 solicitaEtiquetas 3.057 faixa obtida BP00300257 BR,BP00300257 BR
+2021/07/29 10:11:18 geraDigitoVerificadorEtiquetas 0.214 etiqueta completa: BP003002575BR
+2021/07/29 10:11:19 fechaPlpVariosServicos 0.819 plp obtida: 522935876
+2021/07/29 10:11:19 solicitaPLP 0.938 plp obtida com sucesso
+2021/07/29 10:11:20 buscaCEP 0.148 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:22 buscaServicos 2.097 total de 20 servicos obtidos
+2021/07/29 10:11:22 solicitaEtiquetas 2.422 faixa obtida BP00300258 BR,BP00300258 BR
+2021/07/29 10:11:22 geraDigitoVerificadorEtiquetas 0.152 etiqueta completa: BP003002589BR
+2021/07/29 10:11:23 fechaPlpVariosServicos 0.802 plp obtida: 522970948
+2021/07/29 10:11:23 solicitaPLP 1.110 plp obtida com sucesso
+2021/07/29 10:11:25 buscaCEP 0.116 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:27 buscaServicos 2.492 total de 20 servicos obtidos
+2021/07/29 10:11:28 solicitaEtiquetas 2.872 faixa obtida BP00300259 BR,BP00300259 BR
+2021/07/29 10:11:28 geraDigitoVerificadorEtiquetas 0.174 etiqueta completa: BP003002592BR
+2021/07/29 10:11:29 fechaPlpVariosServicos 1.047 plp obtida: 522935886
+2021/07/29 10:11:29 solicitaPLP 1.212 plp obtida com sucesso
+2021/07/29 10:11:30 buscaCEP 0.408 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:32 buscaServicos 2.388 total de 20 servicos obtidos
+2021/07/29 10:11:33 solicitaEtiquetas 2.936 faixa obtida BP00300260 BR,BP00300260 BR
+2021/07/29 10:11:33 geraDigitoVerificadorEtiquetas 0.250 etiqueta completa: BP003002601BR
+2021/07/29 10:11:34 fechaPlpVariosServicos 0.976 plp obtida: 522972329
+2021/07/29 10:11:34 solicitaPLP 1.083 plp obtida com sucesso
+2021/07/29 10:11:35 buscaCEP 0.090 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:37 buscaServicos 2.215 total de 20 servicos obtidos
+2021/07/29 10:11:37 solicitaEtiquetas 2.531 faixa obtida BP00300261 BR,BP00300261 BR
+2021/07/29 10:11:37 geraDigitoVerificadorEtiquetas 0.105 etiqueta completa: BP003002615BR
+2021/07/29 10:11:38 fechaPlpVariosServicos 0.736 plp obtida: 522972470
+2021/07/29 10:11:38 solicitaPLP 0.899 plp obtida com sucesso
+2021/07/29 10:11:40 buscaCEP 0.096 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:42 buscaServicos 2.052 total de 20 servicos obtidos
+2021/07/29 10:11:42 solicitaEtiquetas 2.434 faixa obtida BP00300262 BR,BP00300262 BR
+2021/07/29 10:11:42 geraDigitoVerificadorEtiquetas 0.145 etiqueta completa: BP003002629BR
+2021/07/29 10:11:43 fechaPlpVariosServicos 0.255 plp obtida: 522935905
+2021/07/29 10:11:43 solicitaPLP 0.418 plp obtida com sucesso
+2021/07/29 10:11:45 buscaCEP 0.118 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:47 buscaServicos 2.366 total de 20 servicos obtidos
+2021/07/29 10:11:48 solicitaEtiquetas 2.690 faixa obtida BP00300263 BR,BP00300263 BR
+2021/07/29 10:11:48 geraDigitoVerificadorEtiquetas 0.485 etiqueta completa: BP003002632BR
+2021/07/29 10:11:49 fechaPlpVariosServicos 1.019 plp obtida: 522972849
+2021/07/29 10:11:49 solicitaPLP 1.406 plp obtida com sucesso
+2021/07/29 10:11:50 buscaCEP 0.132 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:53 buscaServicos 3.103 total de 20 servicos obtidos
+2021/07/29 10:11:53 solicitaEtiquetas 3.491 faixa obtida BP00300264 BR,BP00300264 BR
+2021/07/29 10:11:54 geraDigitoVerificadorEtiquetas 0.337 etiqueta completa: BP003002646BR
+2021/07/29 10:11:54 fechaPlpVariosServicos 0.735 plp obtida: 522973043
+2021/07/29 10:11:55 solicitaPLP 0.901 plp obtida com sucesso
+2021/07/29 10:11:55 buscaCEP 0.117 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:11:57 buscaServicos 2.252 total de 20 servicos obtidos
+2021/07/29 10:11:57 solicitaEtiquetas 2.568 faixa obtida BP00300265 BR,BP00300265 BR
+2021/07/29 10:11:57 geraDigitoVerificadorEtiquetas 0.115 etiqueta completa: BP003002650BR
+2021/07/29 10:11:58 fechaPlpVariosServicos 0.723 plp obtida: 522973189
+2021/07/29 10:11:58 solicitaPLP 0.974 plp obtida com sucesso
+2021/07/29 10:12:00 buscaCEP 0.300 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:02 buscaServicos 2.121 total de 20 servicos obtidos
+2021/07/29 10:12:02 solicitaEtiquetas 2.452 faixa obtida BP00300266 BR,BP00300266 BR
+2021/07/29 10:12:02 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003002663BR
+2021/07/29 10:12:03 fechaPlpVariosServicos 0.316 plp obtida: 522935925
+2021/07/29 10:12:03 solicitaPLP 0.585 plp obtida com sucesso
+2021/07/29 10:12:05 buscaCEP 0.191 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:07 buscaServicos 2.224 total de 20 servicos obtidos
+2021/07/29 10:12:07 solicitaEtiquetas 2.571 faixa obtida BP00300267 BR,BP00300267 BR
+2021/07/29 10:12:08 geraDigitoVerificadorEtiquetas 0.255 etiqueta completa: BP003002677BR
+2021/07/29 10:12:08 fechaPlpVariosServicos 0.737 plp obtida: 522974527
+2021/07/29 10:12:09 solicitaPLP 0.905 plp obtida com sucesso
+2021/07/29 10:12:10 buscaCEP 0.120 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:12 buscaServicos 2.337 total de 20 servicos obtidos
+2021/07/29 10:12:13 solicitaEtiquetas 2.765 faixa obtida BP00300268 BR,BP00300268 BR
+2021/07/29 10:12:13 geraDigitoVerificadorEtiquetas 0.585 etiqueta completa: BP003002685BR
+2021/07/29 10:12:14 fechaPlpVariosServicos 1.344 plp obtida: 522974728
+2021/07/29 10:12:15 solicitaPLP 1.486 plp obtida com sucesso
+2021/07/29 10:12:15 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:18 buscaServicos 2.853 total de 20 servicos obtidos
+2021/07/29 10:12:18 solicitaEtiquetas 3.173 faixa obtida BP00300269 BR,BP00300269 BR
+2021/07/29 10:12:18 geraDigitoVerificadorEtiquetas 0.120 etiqueta completa: BP003002694BR
+2021/07/29 10:12:19 fechaPlpVariosServicos 0.741 plp obtida: 522974898
+2021/07/29 10:12:19 solicitaPLP 0.935 plp obtida com sucesso
+2021/07/29 10:12:20 buscaCEP 0.262 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:22 buscaServicos 2.335 total de 20 servicos obtidos
+2021/07/29 10:12:22 solicitaEtiquetas 2.674 faixa obtida BP00300270 BR,BP00300270 BR
+2021/07/29 10:12:23 geraDigitoVerificadorEtiquetas 0.346 etiqueta completa: BP003002703BR
+2021/07/29 10:12:24 fechaPlpVariosServicos 0.910 plp obtida: 522975092
+2021/07/29 10:12:24 solicitaPLP 1.082 plp obtida com sucesso
+2021/07/29 10:12:25 buscaCEP 0.147 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:27 buscaServicos 2.505 total de 20 servicos obtidos
+2021/07/29 10:12:28 solicitaEtiquetas 2.840 faixa obtida BP00300271 BR,BP00300271 BR
+2021/07/29 10:12:28 geraDigitoVerificadorEtiquetas 0.151 etiqueta completa: BP003002717BR
+2021/07/29 10:12:29 fechaPlpVariosServicos 1.069 plp obtida: 522975243
+2021/07/29 10:12:29 solicitaPLP 1.420 plp obtida com sucesso
+2021/07/29 10:12:30 buscaCEP 0.151 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:32 buscaServicos 2.684 total de 20 servicos obtidos
+2021/07/29 10:12:33 solicitaEtiquetas 3.039 faixa obtida BP00300272 BR,BP00300272 BR
+2021/07/29 10:12:33 geraDigitoVerificadorEtiquetas 0.231 etiqueta completa: BP003002725BR
+2021/07/29 10:12:34 fechaPlpVariosServicos 0.900 plp obtida: 522976431
+2021/07/29 10:12:34 solicitaPLP 1.117 plp obtida com sucesso
+2021/07/29 10:12:35 buscaCEP 0.443 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:38 buscaServicos 2.823 total de 20 servicos obtidos
+2021/07/29 10:12:38 solicitaEtiquetas 3.257 faixa obtida BP00300273 BR,BP00300273 BR
+2021/07/29 10:12:38 geraDigitoVerificadorEtiquetas 0.332 etiqueta completa: BP003002734BR
+2021/07/29 10:12:39 fechaPlpVariosServicos 0.823 plp obtida: 522935967
+2021/07/29 10:12:39 solicitaPLP 1.003 plp obtida com sucesso
+2021/07/29 10:12:40 buscaCEP 0.111 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:42 buscaServicos 2.051 total de 20 servicos obtidos
+2021/07/29 10:12:42 solicitaEtiquetas 2.550 faixa obtida BP00300274 BR,BP00300274 BR
+2021/07/29 10:12:42 geraDigitoVerificadorEtiquetas 0.137 etiqueta completa: BP003002748BR
+2021/07/29 10:12:43 fechaPlpVariosServicos 0.351 plp obtida: 522935969
+2021/07/29 10:12:43 solicitaPLP 0.520 plp obtida com sucesso
+2021/07/29 10:12:45 buscaCEP 0.118 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:47 buscaServicos 2.551 total de 20 servicos obtidos
+2021/07/29 10:12:48 solicitaEtiquetas 2.905 faixa obtida BP00300275 BR,BP00300275 BR
+2021/07/29 10:12:48 geraDigitoVerificadorEtiquetas 0.092 etiqueta completa: BP003002751BR
+2021/07/29 10:12:49 fechaPlpVariosServicos 0.933 plp obtida: 522935974
+2021/07/29 10:12:49 solicitaPLP 1.162 plp obtida com sucesso
+2021/07/29 10:12:50 buscaCEP 0.136 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:53 buscaServicos 2.755 total de 20 servicos obtidos
+2021/07/29 10:12:53 solicitaEtiquetas 3.021 faixa obtida BP00300276 BR,BP00300276 BR
+2021/07/29 10:12:53 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003002765BR
+2021/07/29 10:12:54 fechaPlpVariosServicos 0.826 plp obtida: 522935977
+2021/07/29 10:12:54 solicitaPLP 1.113 plp obtida com sucesso
+2021/07/29 10:12:55 buscaCEP 0.100 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:12:57 buscaServicos 2.388 total de 20 servicos obtidos
+2021/07/29 10:12:57 solicitaEtiquetas 2.667 faixa obtida BP00300277 BR,BP00300277 BR
+2021/07/29 10:12:58 geraDigitoVerificadorEtiquetas 0.096 etiqueta completa: BP003002779BR
+2021/07/29 10:12:58 fechaPlpVariosServicos 0.887 plp obtida: 522978307
+2021/07/29 10:12:59 solicitaPLP 1.020 plp obtida com sucesso
+2021/07/29 10:13:00 buscaCEP 0.109 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:02 buscaServicos 2.012 total de 20 servicos obtidos
+2021/07/29 10:13:02 solicitaEtiquetas 2.320 faixa obtida BP00300278 BR,BP00300278 BR
+2021/07/29 10:13:02 geraDigitoVerificadorEtiquetas 0.120 etiqueta completa: BP003002782BR
+2021/07/29 10:13:03 fechaPlpVariosServicos 0.311 plp obtida: 522978475
+2021/07/29 10:13:03 solicitaPLP 0.455 plp obtida com sucesso
+2021/07/29 10:13:05 buscaCEP 0.174 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:07 buscaServicos 2.567 total de 20 servicos obtidos
+2021/07/29 10:13:08 solicitaEtiquetas 2.844 faixa obtida BP00300279 BR,BP00300279 BR
+2021/07/29 10:13:08 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003002796BR
+2021/07/29 10:13:09 fechaPlpVariosServicos 0.755 plp obtida: 522978624
+2021/07/29 10:13:09 solicitaPLP 0.902 plp obtida com sucesso
+2021/07/29 10:13:10 buscaCEP 0.092 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:12 buscaServicos 2.276 total de 20 servicos obtidos
+2021/07/29 10:13:12 solicitaEtiquetas 2.633 faixa obtida BP00300280 BR,BP00300280 BR
+2021/07/29 10:13:13 geraDigitoVerificadorEtiquetas 0.134 etiqueta completa: BP003002805BR
+2021/07/29 10:13:13 fechaPlpVariosServicos 0.810 plp obtida: 522978770
+2021/07/29 10:13:14 solicitaPLP 0.930 plp obtida com sucesso
+2021/07/29 10:13:15 buscaCEP 0.124 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:18 buscaServicos 2.747 total de 20 servicos obtidos
+2021/07/29 10:13:18 solicitaEtiquetas 3.313 faixa obtida BP00300281 BR,BP00300281 BR
+2021/07/29 10:13:18 geraDigitoVerificadorEtiquetas 0.277 etiqueta completa: BP003002819BR
+2021/07/29 10:13:19 fechaPlpVariosServicos 0.992 plp obtida: 522936006
+2021/07/29 10:13:20 solicitaPLP 1.121 plp obtida com sucesso
+2021/07/29 10:13:20 buscaCEP 0.150 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:22 buscaServicos 2.369 total de 20 servicos obtidos
+2021/07/29 10:13:23 solicitaEtiquetas 2.696 faixa obtida BP00300283 BR,BP00300283 BR
+2021/07/29 10:13:23 geraDigitoVerificadorEtiquetas 0.134 etiqueta completa: BP003002836BR
+2021/07/29 10:13:23 fechaPlpVariosServicos 0.715 plp obtida: 522979062
+2021/07/29 10:13:24 solicitaPLP 0.882 plp obtida com sucesso
+2021/07/29 10:13:25 buscaCEP 0.165 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:27 buscaServicos 1.834 total de 20 servicos obtidos
+2021/07/29 10:13:27 solicitaEtiquetas 2.159 faixa obtida BP00300284 BR,BP00300284 BR
+2021/07/29 10:13:27 geraDigitoVerificadorEtiquetas 0.112 etiqueta completa: BP003002840BR
+2021/07/29 10:13:28 fechaPlpVariosServicos 0.758 plp obtida: 522979226
+2021/07/29 10:13:28 solicitaPLP 0.887 plp obtida com sucesso
+2021/07/29 10:13:30 buscaCEP 0.088 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:32 buscaServicos 2.598 total de 20 servicos obtidos
+2021/07/29 10:13:33 solicitaEtiquetas 2.992 faixa obtida BP00300285 BR,BP00300285 BR
+2021/07/29 10:13:33 geraDigitoVerificadorEtiquetas 0.310 etiqueta completa: BP003002853BR
+2021/07/29 10:13:34 fechaPlpVariosServicos 1.021 plp obtida: 522981486
+2021/07/29 10:13:34 solicitaPLP 1.179 plp obtida com sucesso
+2021/07/29 10:13:35 buscaCEP 0.115 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:37 buscaServicos 2.403 total de 20 servicos obtidos
+2021/07/29 10:13:38 solicitaEtiquetas 2.888 faixa obtida BP00300286 BR,BP00300286 BR
+2021/07/29 10:13:38 geraDigitoVerificadorEtiquetas 0.196 etiqueta completa: BP003002867BR
+2021/07/29 10:13:39 fechaPlpVariosServicos 0.820 plp obtida: 522936021
+2021/07/29 10:13:39 solicitaPLP 1.182 plp obtida com sucesso
+2021/07/29 10:13:40 buscaCEP 0.138 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:42 buscaServicos 1.936 total de 20 servicos obtidos
+2021/07/29 10:13:42 solicitaEtiquetas 2.330 faixa obtida BP00300287 BR,BP00300287 BR
+2021/07/29 10:13:42 geraDigitoVerificadorEtiquetas 0.131 etiqueta completa: BP003002875BR
+2021/07/29 10:13:43 fechaPlpVariosServicos 0.348 plp obtida: 522936024
+2021/07/29 10:13:43 solicitaPLP 0.549 plp obtida com sucesso
+2021/07/29 10:13:45 buscaCEP 0.143 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:47 buscaServicos 2.081 total de 20 servicos obtidos
+2021/07/29 10:13:48 solicitaEtiquetas 2.680 faixa obtida BP00300288 BR,BP00300288 BR
+2021/07/29 10:13:48 geraDigitoVerificadorEtiquetas 0.149 etiqueta completa: BP003002884BR
+2021/07/29 10:13:49 fechaPlpVariosServicos 0.907 plp obtida: 522936027
+2021/07/29 10:13:49 solicitaPLP 1.064 plp obtida com sucesso
+2021/07/29 10:13:50 buscaCEP 0.168 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:52 buscaServicos 2.362 total de 20 servicos obtidos
+2021/07/29 10:13:53 solicitaEtiquetas 2.763 faixa obtida BP00300289 BR,BP00300289 BR
+2021/07/29 10:13:53 geraDigitoVerificadorEtiquetas 0.187 etiqueta completa: BP003002898BR
+2021/07/29 10:13:54 fechaPlpVariosServicos 0.744 plp obtida: 522936030
+2021/07/29 10:13:54 solicitaPLP 0.896 plp obtida com sucesso
+2021/07/29 10:13:55 buscaCEP 0.136 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:13:57 buscaServicos 2.609 total de 20 servicos obtidos
+2021/07/29 10:13:58 solicitaEtiquetas 2.991 faixa obtida BP00300290 BR,BP00300290 BR
+2021/07/29 10:13:58 geraDigitoVerificadorEtiquetas 0.120 etiqueta completa: BP003002907BR
+2021/07/29 10:13:59 fechaPlpVariosServicos 0.899 plp obtida: 522936034
+2021/07/29 10:13:59 solicitaPLP 1.046 plp obtida com sucesso
+2021/07/29 10:14:00 buscaCEP 0.185 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:02 buscaServicos 1.764 total de 20 servicos obtidos
+2021/07/29 10:14:02 solicitaEtiquetas 2.127 faixa obtida BP00300291 BR,BP00300291 BR
+2021/07/29 10:14:02 geraDigitoVerificadorEtiquetas 0.258 etiqueta completa: BP003002915BR
+2021/07/29 10:14:03 fechaPlpVariosServicos 0.768 plp obtida: 522936038
+2021/07/29 10:14:03 solicitaPLP 0.874 plp obtida com sucesso
+2021/07/29 10:14:05 buscaCEP 0.130 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:07 buscaServicos 2.263 total de 20 servicos obtidos
+2021/07/29 10:14:08 solicitaEtiquetas 2.680 faixa obtida BP00300292 BR,BP00300292 BR
+2021/07/29 10:14:08 geraDigitoVerificadorEtiquetas 0.292 etiqueta completa: BP003002924BR
+2021/07/29 10:14:09 fechaPlpVariosServicos 0.906 plp obtida: 522936042
+2021/07/29 10:14:09 solicitaPLP 1.060 plp obtida com sucesso
+2021/07/29 10:14:10 buscaCEP 0.142 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:12 buscaServicos 1.823 total de 20 servicos obtidos
+2021/07/29 10:14:12 solicitaEtiquetas 2.137 faixa obtida BP00300293 BR,BP00300293 BR
+2021/07/29 10:14:12 geraDigitoVerificadorEtiquetas 0.124 etiqueta completa: BP003002938BR
+2021/07/29 10:14:13 fechaPlpVariosServicos 0.840 plp obtida: 522983787
+2021/07/29 10:14:13 solicitaPLP 0.973 plp obtida com sucesso
+2021/07/29 10:14:15 buscaCEP 0.137 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:17 buscaServicos 1.972 total de 20 servicos obtidos
+2021/07/29 10:14:17 solicitaEtiquetas 2.295 faixa obtida BP00300294 BR,BP00300294 BR
+2021/07/29 10:14:17 geraDigitoVerificadorEtiquetas 0.105 etiqueta completa: BP003002941BR
+2021/07/29 10:14:18 fechaPlpVariosServicos 0.760 plp obtida: 522983948
+2021/07/29 10:14:18 solicitaPLP 0.998 plp obtida com sucesso
+2021/07/29 10:14:20 buscaCEP 0.159 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:22 buscaServicos 2.452 total de 20 servicos obtidos
+2021/07/29 10:14:23 solicitaEtiquetas 2.724 faixa obtida BP00300295 BR,BP00300295 BR
+2021/07/29 10:14:23 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003002955BR
+2021/07/29 10:14:23 fechaPlpVariosServicos 0.468 plp obtida: 522936051
+2021/07/29 10:14:23 solicitaPLP 0.696 plp obtida com sucesso
+2021/07/29 10:14:25 buscaCEP 0.166 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:27 buscaServicos 2.346 total de 20 servicos obtidos
+2021/07/29 10:14:27 solicitaEtiquetas 2.682 faixa obtida BP00300296 BR,BP00300296 BR
+2021/07/29 10:14:28 geraDigitoVerificadorEtiquetas 0.130 etiqueta completa: BP003002969BR
+2021/07/29 10:14:28 fechaPlpVariosServicos 0.736 plp obtida: 522936054
+2021/07/29 10:14:28 solicitaPLP 0.865 plp obtida com sucesso
+2021/07/29 10:14:30 buscaCEP 0.110 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:32 buscaServicos 1.934 total de 20 servicos obtidos
+2021/07/29 10:14:32 solicitaEtiquetas 2.243 faixa obtida BP00300297 BR,BP00300297 BR
+2021/07/29 10:14:32 geraDigitoVerificadorEtiquetas 0.164 etiqueta completa: BP003002972BR
+2021/07/29 10:14:33 fechaPlpVariosServicos 0.348 plp obtida: 522936057
+2021/07/29 10:14:33 solicitaPLP 0.501 plp obtida com sucesso
+2021/07/29 10:14:35 buscaCEP 0.124 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:37 buscaServicos 2.465 total de 20 servicos obtidos
+2021/07/29 10:14:38 solicitaEtiquetas 2.817 faixa obtida BP00300298 BR,BP00300298 BR
+2021/07/29 10:14:38 geraDigitoVerificadorEtiquetas 0.174 etiqueta completa: BP003002986BR
+2021/07/29 10:14:39 fechaPlpVariosServicos 0.887 plp obtida: 522985693
+2021/07/29 10:14:39 solicitaPLP 1.002 plp obtida com sucesso
+2021/07/29 10:14:40 buscaCEP 0.145 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:42 buscaServicos 1.913 total de 20 servicos obtidos
+2021/07/29 10:14:42 solicitaEtiquetas 2.265 faixa obtida BP00300299 BR,BP00300299 BR
+2021/07/29 10:14:42 geraDigitoVerificadorEtiquetas 0.132 etiqueta completa: BP003002990BR
+2021/07/29 10:14:43 fechaPlpVariosServicos 0.302 plp obtida: 522936058
+2021/07/29 10:14:43 solicitaPLP 0.458 plp obtida com sucesso
+2021/07/29 10:14:45 buscaCEP 0.170 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:47 buscaServicos 1.907 total de 20 servicos obtidos
+2021/07/29 10:14:47 solicitaEtiquetas 2.278 faixa obtida BP00300300 BR,BP00300300 BR
+2021/07/29 10:14:47 geraDigitoVerificadorEtiquetas 0.125 etiqueta completa: BP003003006BR
+2021/07/29 10:14:48 fechaPlpVariosServicos 0.746 plp obtida: 522986017
+2021/07/29 10:14:48 solicitaPLP 0.913 plp obtida com sucesso
+2021/07/29 10:14:50 buscaCEP 0.103 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:51 buscaServicos 1.670 total de 20 servicos obtidos
+2021/07/29 10:14:52 solicitaEtiquetas 2.021 faixa obtida BP00300301 BR,BP00300301 BR
+2021/07/29 10:14:52 geraDigitoVerificadorEtiquetas 0.135 etiqueta completa: BP003003010BR
+2021/07/29 10:14:53 fechaPlpVariosServicos 0.756 plp obtida: 522986168
+2021/07/29 10:14:53 solicitaPLP 0.910 plp obtida com sucesso
+2021/07/29 10:14:55 buscaCEP 0.117 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:14:57 buscaServicos 2.129 total de 20 servicos obtidos
+2021/07/29 10:14:57 solicitaEtiquetas 2.566 faixa obtida BP00300302 BR,BP00300302 BR
+2021/07/29 10:14:58 geraDigitoVerificadorEtiquetas 0.158 etiqueta completa: BP003003023BR
+2021/07/29 10:14:58 fechaPlpVariosServicos 0.892 plp obtida: 522987346
+2021/07/29 10:14:59 solicitaPLP 1.127 plp obtida com sucesso
+2021/07/29 10:15:00 buscaCEP 0.131 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:02 buscaServicos 2.305 total de 20 servicos obtidos
+2021/07/29 10:15:02 solicitaEtiquetas 2.683 faixa obtida BP00300303 BR,BP00300303 BR
+2021/07/29 10:15:03 geraDigitoVerificadorEtiquetas 0.100 etiqueta completa: BP003003037BR
+2021/07/29 10:15:03 fechaPlpVariosServicos 0.407 plp obtida: 522987543
+2021/07/29 10:15:03 solicitaPLP 0.636 plp obtida com sucesso
+2021/07/29 10:15:05 buscaCEP 0.213 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:07 buscaServicos 1.971 total de 20 servicos obtidos
+2021/07/29 10:15:07 solicitaEtiquetas 2.582 faixa obtida BP00300304 BR,BP00300304 BR
+2021/07/29 10:15:08 geraDigitoVerificadorEtiquetas 0.201 etiqueta completa: BP003003045BR
+2021/07/29 10:15:08 fechaPlpVariosServicos 0.331 plp obtida: 522987735
+2021/07/29 10:15:08 solicitaPLP 0.513 plp obtida com sucesso
+2021/07/29 10:15:10 buscaCEP 0.165 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:12 buscaServicos 1.877 total de 20 servicos obtidos
+2021/07/29 10:15:12 solicitaEtiquetas 2.283 faixa obtida BP00300305 BR,BP00300305 BR
+2021/07/29 10:15:12 geraDigitoVerificadorEtiquetas 0.224 etiqueta completa: BP003003054BR
+2021/07/29 10:15:13 fechaPlpVariosServicos 0.863 plp obtida: 522987902
+2021/07/29 10:15:13 solicitaPLP 1.070 plp obtida com sucesso
+2021/07/29 10:15:15 buscaCEP 0.105 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:18 buscaServicos 2.729 total de 20 servicos obtidos
+2021/07/29 10:15:18 solicitaEtiquetas 3.151 faixa obtida BP00300306 BR,BP00300306 BR
+2021/07/29 10:15:18 geraDigitoVerificadorEtiquetas 0.099 etiqueta completa: BP003003068BR
+2021/07/29 10:15:19 fechaPlpVariosServicos 0.798 plp obtida: 522936059
+2021/07/29 10:15:19 solicitaPLP 0.982 plp obtida com sucesso
+2021/07/29 10:15:20 buscaCEP 0.201 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:26 buscaServicos 6.501 total de 20 servicos obtidos
+2021/07/29 10:15:27 solicitaEtiquetas 6.837 faixa obtida BP00300307 BR,BP00300307 BR
+2021/07/29 10:15:27 geraDigitoVerificadorEtiquetas 0.130 etiqueta completa: BP003003071BR
+2021/07/29 10:15:27 fechaPlpVariosServicos 0.267 plp obtida: 522936063
+2021/07/29 10:15:27 solicitaPLP 0.441 plp obtida com sucesso
+2021/07/29 10:15:27 buscaCEP 0.155 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:30 buscaServicos 2.474 total de 20 servicos obtidos
+2021/07/29 10:15:30 solicitaEtiquetas 2.812 faixa obtida BP00300308 BR,BP00300308 BR
+2021/07/29 10:15:30 geraDigitoVerificadorEtiquetas 0.146 etiqueta completa: BP003003085BR
+2021/07/29 10:15:31 fechaPlpVariosServicos 0.321 plp obtida: 522989547
+2021/07/29 10:15:31 solicitaPLP 0.505 plp obtida com sucesso
+2021/07/29 10:15:31 buscaCEP 0.167 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:33 buscaServicos 2.414 total de 20 servicos obtidos
+2021/07/29 10:15:33 solicitaEtiquetas 2.764 faixa obtida BP00300309 BR,BP00300309 BR
+2021/07/29 10:15:34 geraDigitoVerificadorEtiquetas 0.096 etiqueta completa: BP003003099BR
+2021/07/29 10:15:35 fechaPlpVariosServicos 0.989 plp obtida: 522989666
+2021/07/29 10:15:35 solicitaPLP 1.213 plp obtida com sucesso
+2021/07/29 10:15:35 buscaCEP 0.110 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:37 buscaServicos 2.646 total de 20 servicos obtidos
+2021/07/29 10:15:38 solicitaEtiquetas 3.238 faixa obtida BP00300310 BR,BP00300310 BR
+2021/07/29 10:15:38 geraDigitoVerificadorEtiquetas 0.150 etiqueta completa: BP003003108BR
+2021/07/29 10:15:39 fechaPlpVariosServicos 0.895 plp obtida: 522989835
+2021/07/29 10:15:39 solicitaPLP 1.077 plp obtida com sucesso
+2021/07/29 10:15:40 buscaCEP 0.170 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:42 buscaServicos 2.618 total de 20 servicos obtidos
+2021/07/29 10:15:43 solicitaEtiquetas 3.074 faixa obtida BP00300311 BR,BP00300311 BR
+2021/07/29 10:15:43 geraDigitoVerificadorEtiquetas 0.102 etiqueta completa: BP003003111BR
+2021/07/29 10:15:44 fechaPlpVariosServicos 0.517 plp obtida: 522990023
+2021/07/29 10:15:44 solicitaPLP 0.670 plp obtida com sucesso
+2021/07/29 10:15:45 buscaCEP 0.345 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:48 buscaServicos 2.690 total de 20 servicos obtidos
+2021/07/29 10:15:48 solicitaEtiquetas 3.102 faixa obtida BP00300312 BR,BP00300312 BR
+2021/07/29 10:15:48 geraDigitoVerificadorEtiquetas 0.310 etiqueta completa: BP003003125BR
+2021/07/29 10:15:49 fechaPlpVariosServicos 1.136 plp obtida: 522990194
+2021/07/29 10:15:50 solicitaPLP 1.296 plp obtida com sucesso
+2021/07/29 10:15:50 buscaCEP 0.270 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:55 buscaServicos 5.518 total de 20 servicos obtidos
+2021/07/29 10:15:56 solicitaEtiquetas 5.828 faixa obtida BP00300313 BR,BP00300313 BR
+2021/07/29 10:15:56 geraDigitoVerificadorEtiquetas 0.230 etiqueta completa: BP003003139BR
+2021/07/29 10:15:57 fechaPlpVariosServicos 0.807 plp obtida: 522991404
+2021/07/29 10:15:57 solicitaPLP 0.982 plp obtida com sucesso
+2021/07/29 10:15:57 buscaCEP 0.150 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:15:59 buscaServicos 2.043 total de 20 servicos obtidos
+2021/07/29 10:15:59 solicitaEtiquetas 2.501 faixa obtida BP00300314 BR,BP00300314 BR
+2021/07/29 10:16:00 geraDigitoVerificadorEtiquetas 0.211 etiqueta completa: BP003003142BR
+2021/07/29 10:16:00 fechaPlpVariosServicos 0.783 plp obtida: 522991514
+2021/07/29 10:16:01 solicitaPLP 0.972 plp obtida com sucesso
+2021/07/29 10:16:01 buscaCEP 0.131 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:03 buscaServicos 2.390 total de 20 servicos obtidos
+2021/07/29 10:16:03 solicitaEtiquetas 2.697 faixa obtida BP00300315 BR,BP00300315 BR
+2021/07/29 10:16:03 geraDigitoVerificadorEtiquetas 0.115 etiqueta completa: BP003003156BR
+2021/07/29 10:16:04 fechaPlpVariosServicos 0.961 plp obtida: 522936077
+2021/07/29 10:16:04 solicitaPLP 1.085 plp obtida com sucesso
+2021/07/29 10:16:05 buscaCEP 0.165 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:07 buscaServicos 2.547 total de 20 servicos obtidos
+2021/07/29 10:16:08 solicitaEtiquetas 2.859 faixa obtida BP00300316 BR,BP00300316 BR
+2021/07/29 10:16:08 geraDigitoVerificadorEtiquetas 0.221 etiqueta completa: BP003003160BR
+2021/07/29 10:16:09 fechaPlpVariosServicos 0.920 plp obtida: 522936080
+2021/07/29 10:16:09 solicitaPLP 1.051 plp obtida com sucesso
+2021/07/29 10:16:10 buscaCEP 0.378 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:13 buscaServicos 2.968 total de 20 servicos obtidos
+2021/07/29 10:16:13 solicitaEtiquetas 3.416 faixa obtida BP00300317 BR,BP00300317 BR
+2021/07/29 10:16:13 geraDigitoVerificadorEtiquetas 0.230 etiqueta completa: BP003003173BR
+2021/07/29 10:16:14 fechaPlpVariosServicos 0.787 plp obtida: 522936084
+2021/07/29 10:16:14 solicitaPLP 1.033 plp obtida com sucesso
+2021/07/29 10:16:15 buscaCEP 0.123 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:18 buscaServicos 2.803 total de 20 servicos obtidos
+2021/07/29 10:16:18 solicitaEtiquetas 3.288 faixa obtida BP00300318 BR,BP00300318 BR
+2021/07/29 10:16:18 geraDigitoVerificadorEtiquetas 0.130 etiqueta completa: BP003003187BR
+2021/07/29 10:16:19 fechaPlpVariosServicos 0.843 plp obtida: 522936088
+2021/07/29 10:16:19 solicitaPLP 0.970 plp obtida com sucesso
+2021/07/29 10:16:20 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:23 buscaServicos 2.775 total de 20 servicos obtidos
+2021/07/29 10:16:23 solicitaEtiquetas 3.096 faixa obtida BP00300319 BR,BP00300319 BR
+2021/07/29 10:16:23 geraDigitoVerificadorEtiquetas 0.100 etiqueta completa: BP003003195BR
+2021/07/29 10:16:24 fechaPlpVariosServicos 0.795 plp obtida: 522936091
+2021/07/29 10:16:24 solicitaPLP 1.397 plp obtida com sucesso
+2021/07/29 10:16:25 buscaCEP 0.094 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:27 buscaServicos 2.198 total de 20 servicos obtidos
+2021/07/29 10:16:27 solicitaEtiquetas 2.635 faixa obtida BP00300321 BR,BP00300321 BR
+2021/07/29 10:16:28 geraDigitoVerificadorEtiquetas 0.137 etiqueta completa: BP003003213BR
+2021/07/29 10:16:29 fechaPlpVariosServicos 0.994 plp obtida: 522936094
+2021/07/29 10:16:29 solicitaPLP 1.624 plp obtida com sucesso
+2021/07/29 10:16:30 buscaCEP 0.227 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:32 buscaServicos 2.585 total de 20 servicos obtidos
+2021/07/29 10:16:33 solicitaEtiquetas 3.261 faixa obtida BP00300322 BR,BP00300322 BR
+2021/07/29 10:16:34 geraDigitoVerificadorEtiquetas 0.787 etiqueta completa: BP003003227BR
+2021/07/29 10:16:34 fechaPlpVariosServicos 0.489 plp obtida: 522936096
+2021/07/29 10:16:35 solicitaPLP 0.642 plp obtida com sucesso
+2021/07/29 10:16:35 buscaCEP 0.128 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:37 buscaServicos 2.283 total de 20 servicos obtidos
+2021/07/29 10:16:37 solicitaEtiquetas 2.627 faixa obtida BP00300323 BR,BP00300323 BR
+2021/07/29 10:16:38 geraDigitoVerificadorEtiquetas 0.110 etiqueta completa: BP003003235BR
+2021/07/29 10:16:39 fechaPlpVariosServicos 1.221 plp obtida: 522993794
+2021/07/29 10:16:39 solicitaPLP 1.406 plp obtida com sucesso
+2021/07/29 10:16:40 buscaCEP 0.540 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:43 buscaServicos 2.820 total de 20 servicos obtidos
+2021/07/29 10:16:43 solicitaEtiquetas 3.157 faixa obtida BP00300324 BR,BP00300324 BR
+2021/07/29 10:16:43 geraDigitoVerificadorEtiquetas 0.336 etiqueta completa: BP003003244BR
+2021/07/29 10:16:44 fechaPlpVariosServicos 0.749 plp obtida: 522993994
+2021/07/29 10:16:44 erro ao obter PLP: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": EOF
+2021/07/29 10:16:45 buscaCEP 0.429 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:47 buscaServicos 2.676 total de 20 servicos obtidos
+2021/07/29 10:16:48 solicitaEtiquetas 2.960 faixa obtida BP00300325 BR,BP00300325 BR
+2021/07/29 10:16:48 geraDigitoVerificadorEtiquetas 0.175 etiqueta completa: BP003003258BR
+2021/07/29 10:16:49 fechaPlpVariosServicos 0.723 plp obtida: 522994165
+2021/07/29 10:16:49 solicitaPLP 0.867 plp obtida com sucesso
+2021/07/29 10:16:50 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:52 buscaServicos 2.106 total de 20 servicos obtidos
+2021/07/29 10:16:52 solicitaEtiquetas 2.384 faixa obtida BP00300326 BR,BP00300326 BR
+2021/07/29 10:16:52 geraDigitoVerificadorEtiquetas 0.077 etiqueta completa: BP003003261BR
+2021/07/29 10:16:53 fechaPlpVariosServicos 0.485 plp obtida: 522936105
+2021/07/29 10:16:53 solicitaPLP 0.626 plp obtida com sucesso
+2021/07/29 10:16:55 buscaCEP 0.242 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:16:59 buscaServicos 3.969 total de 20 servicos obtidos
+2021/07/29 10:16:59 solicitaEtiquetas 4.288 faixa obtida BP00300327 BR,BP00300327 BR
+2021/07/29 10:16:59 geraDigitoVerificadorEtiquetas 0.108 etiqueta completa: BP003003275BR
+2021/07/29 10:17:00 fechaPlpVariosServicos 0.326 plp obtida: 522936109
+2021/07/29 10:17:00 solicitaPLP 0.514 plp obtida com sucesso
+2021/07/29 10:17:00 buscaCEP 0.102 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:02 buscaServicos 2.303 total de 20 servicos obtidos
+2021/07/29 10:17:03 solicitaEtiquetas 2.752 faixa obtida BP00300328 BR,BP00300328 BR
+2021/07/29 10:17:03 geraDigitoVerificadorEtiquetas 0.164 etiqueta completa: BP003003289BR
+2021/07/29 10:17:03 fechaPlpVariosServicos 0.443 plp obtida: 522936114
+2021/07/29 10:17:03 solicitaPLP 0.593 plp obtida com sucesso
+2021/07/29 10:17:05 buscaCEP 0.127 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:07 buscaServicos 1.933 total de 20 servicos obtidos
+2021/07/29 10:17:07 solicitaEtiquetas 2.395 faixa obtida BP00300329 BR,BP00300329 BR
+2021/07/29 10:17:07 geraDigitoVerificadorEtiquetas 0.265 etiqueta completa: BP003003292BR
+2021/07/29 10:17:08 fechaPlpVariosServicos 0.766 plp obtida: 522995850
+2021/07/29 10:17:08 solicitaPLP 0.982 plp obtida com sucesso
+2021/07/29 10:17:10 buscaCEP 0.105 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:13 buscaServicos 2.755 total de 20 servicos obtidos
+2021/07/29 10:17:13 solicitaEtiquetas 3.086 faixa obtida BP00300330 BR,BP00300330 BR
+2021/07/29 10:17:13 geraDigitoVerificadorEtiquetas 0.254 etiqueta completa: BP003003301BR
+2021/07/29 10:17:14 fechaPlpVariosServicos 0.755 plp obtida: 522996047
+2021/07/29 10:17:14 solicitaPLP 0.948 plp obtida com sucesso
+2021/07/29 10:17:15 buscaCEP 0.102 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:17 buscaServicos 2.606 total de 20 servicos obtidos
+2021/07/29 10:17:18 solicitaEtiquetas 3.000 faixa obtida BP00300331 BR,BP00300331 BR
+2021/07/29 10:17:18 geraDigitoVerificadorEtiquetas 0.206 etiqueta completa: BP003003315BR
+2021/07/29 10:17:19 fechaPlpVariosServicos 1.023 plp obtida: 522996226
+2021/07/29 10:17:19 solicitaPLP 1.263 plp obtida com sucesso
+2021/07/29 10:17:20 buscaCEP 0.169 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:22 buscaServicos 1.884 total de 20 servicos obtidos
+2021/07/29 10:17:22 solicitaEtiquetas 2.352 faixa obtida BP00300332 BR,BP00300332 BR
+2021/07/29 10:17:22 geraDigitoVerificadorEtiquetas 0.161 etiqueta completa: BP003003329BR
+2021/07/29 10:17:23 fechaPlpVariosServicos 0.432 plp obtida: 522998384
+2021/07/29 10:17:23 solicitaPLP 0.580 plp obtida com sucesso
+2021/07/29 10:17:25 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:27 buscaServicos 1.977 total de 20 servicos obtidos
+2021/07/29 10:17:27 solicitaEtiquetas 2.273 faixa obtida BP00300333 BR,BP00300333 BR
+2021/07/29 10:17:27 geraDigitoVerificadorEtiquetas 0.161 etiqueta completa: BP003003332BR
+2021/07/29 10:17:28 fechaPlpVariosServicos 0.883 plp obtida: 522998572
+2021/07/29 10:17:28 solicitaPLP 1.007 plp obtida com sucesso
+2021/07/29 10:17:30 buscaCEP 0.086 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:32 buscaServicos 2.311 total de 20 servicos obtidos
+2021/07/29 10:17:32 solicitaEtiquetas 2.634 faixa obtida BP00300334 BR,BP00300334 BR
+2021/07/29 10:17:33 geraDigitoVerificadorEtiquetas 0.333 etiqueta completa: BP003003346BR
+2021/07/29 10:17:33 fechaPlpVariosServicos 0.393 plp obtida: 522936134
+2021/07/29 10:17:33 solicitaPLP 0.514 plp obtida com sucesso
+2021/07/29 10:17:35 buscaCEP 0.099 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:37 buscaServicos 2.512 total de 20 servicos obtidos
+2021/07/29 10:17:38 solicitaEtiquetas 2.785 faixa obtida BP00300335 BR,BP00300335 BR
+2021/07/29 10:17:38 geraDigitoVerificadorEtiquetas 0.119 etiqueta completa: BP003003350BR
+2021/07/29 10:17:39 fechaPlpVariosServicos 0.893 plp obtida: 522998986
+2021/07/29 10:17:39 solicitaPLP 1.251 plp obtida com sucesso
+2021/07/29 10:17:40 buscaCEP 0.093 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:42 buscaServicos 1.902 total de 20 servicos obtidos
+2021/07/29 10:17:42 solicitaEtiquetas 2.228 faixa obtida BP00300336 BR,BP00300336 BR
+2021/07/29 10:17:42 geraDigitoVerificadorEtiquetas 0.129 etiqueta completa: BP003003363BR
+2021/07/29 10:17:43 fechaPlpVariosServicos 0.846 plp obtida: 522999131
+2021/07/29 10:17:43 solicitaPLP 1.115 plp obtida com sucesso
+2021/07/29 10:17:45 buscaCEP 0.155 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:47 buscaServicos 2.115 total de 20 servicos obtidos
+2021/07/29 10:17:47 solicitaEtiquetas 2.566 faixa obtida BP00300337 BR,BP00300337 BR
+2021/07/29 10:17:48 geraDigitoVerificadorEtiquetas 0.211 etiqueta completa: BP003003377BR
+2021/07/29 10:17:48 fechaPlpVariosServicos 0.875 plp obtida: 523000301
+2021/07/29 10:17:49 solicitaPLP 1.035 plp obtida com sucesso
+2021/07/29 10:17:50 buscaCEP 0.132 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:52 buscaServicos 2.185 total de 20 servicos obtidos
+2021/07/29 10:17:52 solicitaEtiquetas 2.481 faixa obtida BP00300338 BR,BP00300338 BR
+2021/07/29 10:17:52 geraDigitoVerificadorEtiquetas 0.103 etiqueta completa: BP003003385BR
+2021/07/29 10:17:53 fechaPlpVariosServicos 0.723 plp obtida: 523000451
+2021/07/29 10:17:53 solicitaPLP 0.890 plp obtida com sucesso
+2021/07/29 10:17:55 buscaCEP 0.109 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:17:57 buscaServicos 1.980 total de 20 servicos obtidos
+2021/07/29 10:17:57 solicitaEtiquetas 2.303 faixa obtida BP00300339 BR,BP00300339 BR
+2021/07/29 10:17:57 geraDigitoVerificadorEtiquetas 0.107 etiqueta completa: BP003003394BR
+2021/07/29 10:17:58 fechaPlpVariosServicos 0.747 plp obtida: 523000605
+2021/07/29 10:17:58 solicitaPLP 1.070 plp obtida com sucesso
+2021/07/29 10:18:00 buscaCEP 0.520 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:03 buscaServicos 2.715 total de 20 servicos obtidos
+2021/07/29 10:18:03 solicitaEtiquetas 3.122 faixa obtida BP00300341 BR,BP00300341 BR
+2021/07/29 10:18:03 geraDigitoVerificadorEtiquetas 0.354 etiqueta completa: BP003003417BR
+2021/07/29 10:18:04 fechaPlpVariosServicos 0.971 plp obtida: 523000815
+2021/07/29 10:18:04 solicitaPLP 1.115 plp obtida com sucesso
+2021/07/29 10:18:05 buscaCEP 0.133 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:07 buscaServicos 2.318 total de 20 servicos obtidos
+2021/07/29 10:18:08 solicitaEtiquetas 2.684 faixa obtida BP00300342 BR,BP00300342 BR
+2021/07/29 10:18:08 geraDigitoVerificadorEtiquetas 0.183 etiqueta completa: BP003003425BR
+2021/07/29 10:18:09 fechaPlpVariosServicos 0.837 plp obtida: 523000937
+2021/07/29 10:18:09 solicitaPLP 1.005 plp obtida com sucesso
+2021/07/29 10:18:10 buscaCEP 0.113 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:12 buscaServicos 2.077 total de 20 servicos obtidos
+2021/07/29 10:18:12 solicitaEtiquetas 2.457 faixa obtida BP00300343 BR,BP00300343 BR
+2021/07/29 10:18:12 geraDigitoVerificadorEtiquetas 0.101 etiqueta completa: BP003003434BR
+2021/07/29 10:18:13 fechaPlpVariosServicos 0.270 plp obtida: 523001086
+2021/07/29 10:18:13 solicitaPLP 0.409 plp obtida com sucesso
+2021/07/29 10:18:15 buscaCEP 0.278 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:17 buscaServicos 2.622 total de 20 servicos obtidos
+2021/07/29 10:18:18 solicitaEtiquetas 2.906 faixa obtida BP00300344 BR,BP00300344 BR
+2021/07/29 10:18:18 geraDigitoVerificadorEtiquetas 0.110 etiqueta completa: BP003003448BR
+2021/07/29 10:18:19 fechaPlpVariosServicos 0.768 plp obtida: 523001268
+2021/07/29 10:18:19 solicitaPLP 0.876 plp obtida com sucesso
+2021/07/29 10:18:20 buscaCEP 0.080 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:22 buscaServicos 2.250 total de 20 servicos obtidos
+2021/07/29 10:18:22 solicitaEtiquetas 2.535 faixa obtida BP00300345 BR,BP00300345 BR
+2021/07/29 10:18:23 geraDigitoVerificadorEtiquetas 0.153 etiqueta completa: BP003003451BR
+2021/07/29 10:18:23 fechaPlpVariosServicos 0.727 plp obtida: 523002430
+2021/07/29 10:18:23 solicitaPLP 0.852 plp obtida com sucesso
+2021/07/29 10:18:25 buscaCEP 0.092 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:27 buscaServicos 2.221 total de 20 servicos obtidos
+2021/07/29 10:18:27 solicitaEtiquetas 2.521 faixa obtida BP00300346 BR,BP00300346 BR
+2021/07/29 10:18:27 geraDigitoVerificadorEtiquetas 0.114 etiqueta completa: BP003003465BR
+2021/07/29 10:18:28 fechaPlpVariosServicos 0.777 plp obtida: 523002606
+2021/07/29 10:18:28 solicitaPLP 0.940 plp obtida com sucesso
+2021/07/29 10:18:30 buscaCEP 0.103 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:32 buscaServicos 2.158 total de 20 servicos obtidos
+2021/07/29 10:18:32 solicitaEtiquetas 2.425 faixa obtida BP00300347 BR,BP00300347 BR
+2021/07/29 10:18:32 geraDigitoVerificadorEtiquetas 0.105 etiqueta completa: BP003003479BR
+2021/07/29 10:18:33 fechaPlpVariosServicos 0.785 plp obtida: 523002774
+2021/07/29 10:18:33 solicitaPLP 0.982 plp obtida com sucesso
+2021/07/29 10:18:35 buscaCEP 0.176 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:37 buscaServicos 2.225 total de 20 servicos obtidos
+2021/07/29 10:18:37 solicitaEtiquetas 2.584 faixa obtida BP00300348 BR,BP00300348 BR
+2021/07/29 10:18:38 geraDigitoVerificadorEtiquetas 0.096 etiqueta completa: BP003003482BR
+2021/07/29 10:18:38 fechaPlpVariosServicos 0.709 plp obtida: 523002930
+2021/07/29 10:18:38 solicitaPLP 0.825 plp obtida com sucesso
+2021/07/29 10:18:40 buscaCEP 0.189 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:43 buscaServicos 3.036 total de 20 servicos obtidos
+2021/07/29 10:18:43 solicitaEtiquetas 3.427 faixa obtida BP00300349 BR,BP00300349 BR
+2021/07/29 10:18:44 geraDigitoVerificadorEtiquetas 0.490 etiqueta completa: BP003003496BR
+2021/07/29 10:18:45 fechaPlpVariosServicos 1.110 plp obtida: 523003178
+2021/07/29 10:18:45 solicitaPLP 1.284 plp obtida com sucesso
+2021/07/29 10:18:45 buscaCEP 0.207 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:51 buscaServicos 6.171 total de 20 servicos obtidos
+2021/07/29 10:18:52 solicitaEtiquetas 6.510 faixa obtida BP00300350 BR,BP00300350 BR
+2021/07/29 10:18:52 geraDigitoVerificadorEtiquetas 0.085 etiqueta completa: BP003003505BR
+2021/07/29 10:18:52 fechaPlpVariosServicos 0.266 plp obtida: 523004424
+2021/07/29 10:18:52 solicitaPLP 0.412 plp obtida com sucesso
+2021/07/29 10:18:52 buscaCEP 0.144 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:54 buscaServicos 2.238 total de 20 servicos obtidos
+2021/07/29 10:18:55 solicitaEtiquetas 2.560 faixa obtida BP00300351 BR,BP00300351 BR
+2021/07/29 10:18:55 geraDigitoVerificadorEtiquetas 0.214 etiqueta completa: BP003003519BR
+2021/07/29 10:18:56 fechaPlpVariosServicos 1.126 plp obtida: 523004553
+2021/07/29 10:18:56 solicitaPLP 1.452 plp obtida com sucesso
+2021/07/29 10:18:57 buscaCEP 0.828 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:18:59 buscaServicos 3.212 total de 20 servicos obtidos
+2021/07/29 10:19:00 solicitaEtiquetas 3.574 faixa obtida BP00300352 BR,BP00300352 BR
+2021/07/29 10:19:00 geraDigitoVerificadorEtiquetas 0.415 etiqueta completa: BP003003522BR
+2021/07/29 10:19:01 fechaPlpVariosServicos 0.877 plp obtida: 523004735
+2021/07/29 10:19:01 solicitaPLP 0.996 plp obtida com sucesso
+2021/07/29 10:19:01 buscaCEP 0.106 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:03 buscaServicos 2.255 total de 20 servicos obtidos
+2021/07/29 10:19:04 solicitaEtiquetas 2.680 faixa obtida BP00300353 BR,BP00300353 BR
+2021/07/29 10:19:04 geraDigitoVerificadorEtiquetas 0.119 etiqueta completa: BP003003536BR
+2021/07/29 10:19:05 fechaPlpVariosServicos 0.757 plp obtida: 523004855
+2021/07/29 10:19:05 solicitaPLP 1.056 plp obtida com sucesso
+2021/07/29 10:19:05 buscaCEP 0.349 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:08 buscaServicos 2.816 total de 20 servicos obtidos
+2021/07/29 10:19:08 solicitaEtiquetas 3.224 faixa obtida BP00300354 BR,BP00300354 BR
+2021/07/29 10:19:09 geraDigitoVerificadorEtiquetas 0.186 etiqueta completa: BP003003540BR
+2021/07/29 10:19:09 fechaPlpVariosServicos 0.946 plp obtida: 522936176
+2021/07/29 10:19:10 solicitaPLP 1.215 plp obtida com sucesso
+2021/07/29 10:19:10 buscaCEP 0.122 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:12 buscaServicos 2.626 total de 20 servicos obtidos
+2021/07/29 10:19:13 solicitaEtiquetas 3.043 faixa obtida BP00300355 BR,BP00300355 BR
+2021/07/29 10:19:13 geraDigitoVerificadorEtiquetas 0.151 etiqueta completa: BP003003553BR
+2021/07/29 10:19:14 fechaPlpVariosServicos 0.872 plp obtida: 522936178
+2021/07/29 10:19:14 solicitaPLP 1.000 plp obtida com sucesso
+2021/07/29 10:19:15 buscaCEP 0.089 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:17 buscaServicos 2.464 total de 20 servicos obtidos
+2021/07/29 10:19:18 solicitaEtiquetas 2.726 faixa obtida BP00300356 BR,BP00300356 BR
+2021/07/29 10:19:18 geraDigitoVerificadorEtiquetas 0.102 etiqueta completa: BP003003567BR
+2021/07/29 10:19:18 fechaPlpVariosServicos 0.830 plp obtida: 522936179
+2021/07/29 10:19:19 solicitaPLP 1.017 plp obtida com sucesso
+2021/07/29 10:19:20 buscaCEP 0.110 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:22 buscaServicos 1.858 total de 20 servicos obtidos
+2021/07/29 10:19:22 solicitaEtiquetas 2.223 faixa obtida BP00300357 BR,BP00300357 BR
+2021/07/29 10:19:22 geraDigitoVerificadorEtiquetas 0.113 etiqueta completa: BP003003575BR
+2021/07/29 10:19:23 fechaPlpVariosServicos 0.837 plp obtida: 522936181
+2021/07/29 10:19:24 solicitaPLP 2.013 plp obtida com sucesso
+2021/07/29 10:19:25 buscaCEP 0.091 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:27 buscaServicos 2.322 total de 20 servicos obtidos
+2021/07/29 10:19:28 solicitaEtiquetas 2.869 faixa obtida BP00300358 BR,BP00300358 BR
+2021/07/29 10:19:28 geraDigitoVerificadorEtiquetas 0.112 etiqueta completa: BP003003584BR
+2021/07/29 10:19:49 erro ao fechar PLP: Post "https://clienteshopee.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 201.48.198.235:443: connectex: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.
+2021/07/29 10:19:49 buscaCEP 0.092 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:51 buscaServicos 2.234 total de 20 servicos obtidos
+2021/07/29 10:19:51 solicitaEtiquetas 2.553 faixa obtida BP00300359 BR,BP00300359 BR
+2021/07/29 10:19:51 geraDigitoVerificadorEtiquetas 0.098 etiqueta completa: BP003003598BR
+2021/07/29 10:19:52 fechaPlpVariosServicos 0.769 plp obtida: 522936183
+2021/07/29 10:19:52 solicitaPLP 0.897 plp obtida com sucesso
+2021/07/29 10:19:52 buscaCEP 0.118 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:54 buscaServicos 1.640 total de 20 servicos obtidos
+2021/07/29 10:19:54 solicitaEtiquetas 1.974 faixa obtida BP00300360 BR,BP00300360 BR
+2021/07/29 10:19:54 geraDigitoVerificadorEtiquetas 0.097 etiqueta completa: BP003003607BR
+2021/07/29 10:19:55 fechaPlpVariosServicos 0.328 plp obtida: 522936184
+2021/07/29 10:19:55 solicitaPLP 0.458 plp obtida com sucesso
+2021/07/29 10:19:55 buscaCEP 0.105 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:19:57 buscaServicos 2.209 total de 20 servicos obtidos
+2021/07/29 10:19:58 solicitaEtiquetas 2.693 faixa obtida BP00300361 BR,BP00300361 BR
+2021/07/29 10:19:58 geraDigitoVerificadorEtiquetas 0.116 etiqueta completa: BP003003615BR
+2021/07/29 10:19:59 fechaPlpVariosServicos 0.796 plp obtida: 522936185
+2021/07/29 10:19:59 solicitaPLP 0.951 plp obtida com sucesso
+2021/07/29 10:20:00 buscaCEP 0.134 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:02 buscaServicos 2.087 total de 20 servicos obtidos
+2021/07/29 10:20:02 solicitaEtiquetas 2.406 faixa obtida BP00300362 BR,BP00300362 BR
+2021/07/29 10:20:02 geraDigitoVerificadorEtiquetas 0.140 etiqueta completa: BP003003624BR
+2021/07/29 10:20:03 fechaPlpVariosServicos 0.723 plp obtida: 523008876
+2021/07/29 10:20:03 solicitaPLP 0.858 plp obtida com sucesso
+2021/07/29 10:20:05 buscaCEP 0.096 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:07 buscaServicos 1.880 total de 20 servicos obtidos
+2021/07/29 10:20:07 solicitaEtiquetas 2.220 faixa obtida BP00300363 BR,BP00300363 BR
+2021/07/29 10:20:07 geraDigitoVerificadorEtiquetas 0.099 etiqueta completa: BP003003638BR
+2021/07/29 10:20:08 fechaPlpVariosServicos 0.909 plp obtida: 523009071
+2021/07/29 10:20:08 solicitaPLP 1.025 plp obtida com sucesso
+2021/07/29 10:20:10 buscaCEP 0.093 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:12 buscaServicos 2.407 total de 20 servicos obtidos
+2021/07/29 10:20:12 solicitaEtiquetas 2.671 faixa obtida BP00300364 BR,BP00300364 BR
+2021/07/29 10:20:13 geraDigitoVerificadorEtiquetas 0.105 etiqueta completa: BP003003641BR
+2021/07/29 10:20:13 fechaPlpVariosServicos 0.285 plp obtida: 522936186
+2021/07/29 10:20:13 solicitaPLP 0.488 plp obtida com sucesso
+2021/07/29 10:20:15 buscaCEP 0.143 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:17 buscaServicos 2.167 total de 20 servicos obtidos
+2021/07/29 10:20:17 solicitaEtiquetas 2.499 faixa obtida BP00300365 BR,BP00300365 BR
+2021/07/29 10:20:17 geraDigitoVerificadorEtiquetas 0.152 etiqueta completa: BP003003655BR
+2021/07/29 10:20:18 fechaPlpVariosServicos 0.771 plp obtida: 523010425
+2021/07/29 10:20:18 solicitaPLP 0.927 plp obtida com sucesso
+2021/07/29 10:20:20 buscaCEP 0.095 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:22 buscaServicos 2.462 total de 20 servicos obtidos
+2021/07/29 10:20:23 solicitaEtiquetas 2.802 faixa obtida BP00300366 BR,BP00300366 BR
+2021/07/29 10:20:23 geraDigitoVerificadorEtiquetas 0.102 etiqueta completa: BP003003669BR
+2021/07/29 10:20:23 fechaPlpVariosServicos 0.304 plp obtida: 523010615
+2021/07/29 10:20:23 solicitaPLP 0.463 plp obtida com sucesso
+2021/07/29 10:20:25 buscaCEP 0.138 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:27 buscaServicos 2.412 total de 20 servicos obtidos
+2021/07/29 10:20:28 solicitaEtiquetas 2.695 faixa obtida BP00300367 BR,BP00300367 BR
+2021/07/29 10:20:28 geraDigitoVerificadorEtiquetas 0.085 etiqueta completa: BP003003672BR
+2021/07/29 10:20:28 fechaPlpVariosServicos 0.809 plp obtida: 523010812
+2021/07/29 10:20:29 solicitaPLP 0.920 plp obtida com sucesso
+2021/07/29 10:20:30 buscaCEP 0.106 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:32 buscaServicos 2.596 total de 20 servicos obtidos
+2021/07/29 10:20:33 solicitaEtiquetas 3.200 faixa obtida BP00300368 BR,BP00300368 BR
+2021/07/29 10:20:33 geraDigitoVerificadorEtiquetas 0.101 etiqueta completa: BP003003686BR
+2021/07/29 10:20:33 fechaPlpVariosServicos 0.356 plp obtida: 522936187
+2021/07/29 10:20:34 solicitaPLP 0.561 plp obtida com sucesso
+2021/07/29 10:20:35 buscaCEP 0.101 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:37 buscaServicos 2.006 total de 20 servicos obtidos
+2021/07/29 10:20:37 solicitaEtiquetas 2.331 faixa obtida BP00300369 BR,BP00300369 BR
+2021/07/29 10:20:37 geraDigitoVerificadorEtiquetas 0.081 etiqueta completa: BP003003690BR
+2021/07/29 10:20:38 fechaPlpVariosServicos 0.879 plp obtida: 523011179
+2021/07/29 10:20:38 solicitaPLP 1.004 plp obtida com sucesso
+2021/07/29 10:20:40 buscaCEP 0.100 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:42 buscaServicos 2.202 total de 20 servicos obtidos
+2021/07/29 10:20:43 solicitaEtiquetas 2.706 faixa obtida BP00300370 BR,BP00300370 BR
+2021/07/29 10:20:43 geraDigitoVerificadorEtiquetas 0.114 etiqueta completa: BP003003709BR
+2021/07/29 10:20:43 fechaPlpVariosServicos 0.738 plp obtida: 523012390
+2021/07/29 10:20:44 solicitaPLP 0.882 plp obtida com sucesso
+2021/07/29 10:20:45 buscaCEP 0.106 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:47 buscaServicos 2.465 total de 20 servicos obtidos
+2021/07/29 10:20:48 solicitaEtiquetas 2.816 faixa obtida BP00300371 BR,BP00300371 BR
+2021/07/29 10:20:48 geraDigitoVerificadorEtiquetas 0.121 etiqueta completa: BP003003712BR
+2021/07/29 10:20:48 fechaPlpVariosServicos 0.252 plp obtida: 523012576
+2021/07/29 10:20:48 solicitaPLP 0.402 plp obtida com sucesso
+2021/07/29 10:20:50 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:52 buscaServicos 2.236 total de 20 servicos obtidos
+2021/07/29 10:20:52 solicitaEtiquetas 2.528 faixa obtida BP00300372 BR,BP00300372 BR
+2021/07/29 10:20:52 geraDigitoVerificadorEtiquetas 0.105 etiqueta completa: BP003003726BR
+2021/07/29 10:20:53 fechaPlpVariosServicos 0.341 plp obtida: 522936191
+2021/07/29 10:20:53 solicitaPLP 0.461 plp obtida com sucesso
+2021/07/29 10:20:55 buscaCEP 0.087 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:20:57 buscaServicos 1.950 total de 20 servicos obtidos
+2021/07/29 10:20:57 solicitaEtiquetas 2.300 faixa obtida BP00300373 BR,BP00300373 BR
+2021/07/29 10:20:57 geraDigitoVerificadorEtiquetas 0.136 etiqueta completa: BP003003730BR
+2021/07/29 10:20:58 fechaPlpVariosServicos 0.865 plp obtida: 523012886
+2021/07/29 10:20:58 solicitaPLP 1.003 plp obtida com sucesso
+2021/07/29 10:21:00 buscaCEP 0.308 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:02 buscaServicos 2.412 total de 20 servicos obtidos
+2021/07/29 10:21:03 solicitaEtiquetas 2.701 faixa obtida BP00300374 BR,BP00300374 BR
+2021/07/29 10:21:03 geraDigitoVerificadorEtiquetas 0.090 etiqueta completa: BP003003743BR
+2021/07/29 10:21:03 fechaPlpVariosServicos 0.307 plp obtida: 523013036
+2021/07/29 10:21:03 solicitaPLP 0.463 plp obtida com sucesso
+2021/07/29 10:21:05 buscaCEP 0.079 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:07 buscaServicos 1.835 total de 20 servicos obtidos
+2021/07/29 10:21:07 solicitaEtiquetas 2.171 faixa obtida BP00300375 BR,BP00300375 BR
+2021/07/29 10:21:07 geraDigitoVerificadorEtiquetas 0.117 etiqueta completa: BP003003757BR
+2021/07/29 10:21:08 fechaPlpVariosServicos 0.896 plp obtida: 522936192
+2021/07/29 10:21:08 solicitaPLP 1.024 plp obtida com sucesso
+2021/07/29 10:21:10 buscaCEP 0.118 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:12 buscaServicos 2.058 total de 20 servicos obtidos
+2021/07/29 10:21:12 solicitaEtiquetas 2.390 faixa obtida BP00300376 BR,BP00300376 BR
+2021/07/29 10:21:12 geraDigitoVerificadorEtiquetas 0.123 etiqueta completa: BP003003765BR
+2021/07/29 10:21:13 fechaPlpVariosServicos 0.321 plp obtida: 522936193
+2021/07/29 10:21:13 solicitaPLP 0.473 plp obtida com sucesso
+2021/07/29 10:21:15 buscaCEP 0.144 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:17 buscaServicos 2.524 total de 20 servicos obtidos
+2021/07/29 10:21:18 solicitaEtiquetas 2.828 faixa obtida BP00300377 BR,BP00300377 BR
+2021/07/29 10:21:18 geraDigitoVerificadorEtiquetas 0.117 etiqueta completa: BP003003774BR
+2021/07/29 10:21:18 fechaPlpVariosServicos 0.392 plp obtida: 523015557
+2021/07/29 10:21:18 solicitaPLP 0.536 plp obtida com sucesso
+2021/07/29 10:21:20 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:22 buscaServicos 1.797 total de 20 servicos obtidos
+2021/07/29 10:21:22 solicitaEtiquetas 2.119 faixa obtida BP00300378 BR,BP00300378 BR
+2021/07/29 10:21:22 geraDigitoVerificadorEtiquetas 0.162 etiqueta completa: BP003003788BR
+2021/07/29 10:21:23 fechaPlpVariosServicos 0.821 plp obtida: 522936195
+2021/07/29 10:21:23 solicitaPLP 0.995 plp obtida com sucesso
+2021/07/29 10:21:25 buscaCEP 0.142 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:26 buscaServicos 1.529 total de 20 servicos obtidos
+2021/07/29 10:21:27 solicitaEtiquetas 1.883 faixa obtida BP00300379 BR,BP00300379 BR
+2021/07/29 10:21:27 geraDigitoVerificadorEtiquetas 0.108 etiqueta completa: BP003003791BR
+2021/07/29 10:21:28 fechaPlpVariosServicos 0.805 plp obtida: 523015878
+2021/07/29 10:21:28 solicitaPLP 0.963 plp obtida com sucesso
+2021/07/29 10:21:30 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:32 buscaServicos 1.946 total de 20 servicos obtidos
+2021/07/29 10:21:32 solicitaEtiquetas 2.261 faixa obtida BP00300380 BR,BP00300380 BR
+2021/07/29 10:21:32 geraDigitoVerificadorEtiquetas 0.357 etiqueta completa: BP003003805BR
+2021/07/29 10:21:33 fechaPlpVariosServicos 0.530 plp obtida: 522936199
+2021/07/29 10:21:33 solicitaPLP 0.876 plp obtida com sucesso
+2021/07/29 10:21:35 buscaCEP 0.122 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:37 buscaServicos 2.463 total de 20 servicos obtidos
+2021/07/29 10:21:38 solicitaEtiquetas 3.194 faixa obtida BP00300381 BR,BP00300381 BR
+2021/07/29 10:21:38 geraDigitoVerificadorEtiquetas 0.126 etiqueta completa: BP003003814BR
+2021/07/29 10:21:39 fechaPlpVariosServicos 0.743 plp obtida: 523016269
+2021/07/29 10:21:39 solicitaPLP 0.875 plp obtida com sucesso
+2021/07/29 10:21:40 buscaCEP 0.144 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:42 buscaServicos 2.437 total de 20 servicos obtidos
+2021/07/29 10:21:43 solicitaEtiquetas 2.774 faixa obtida BP00300382 BR,BP00300382 BR
+2021/07/29 10:21:43 geraDigitoVerificadorEtiquetas 0.137 etiqueta completa: BP003003828BR
+2021/07/29 10:21:44 fechaPlpVariosServicos 1.020 plp obtida: 523017412
+2021/07/29 10:21:44 solicitaPLP 1.148 plp obtida com sucesso
+2021/07/29 10:21:45 buscaCEP 0.133 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:47 buscaServicos 2.308 total de 20 servicos obtidos
+2021/07/29 10:21:47 solicitaEtiquetas 2.622 faixa obtida BP00300383 BR,BP00300383 BR
+2021/07/29 10:21:48 geraDigitoVerificadorEtiquetas 0.240 etiqueta completa: BP003003831BR
+2021/07/29 10:21:49 fechaPlpVariosServicos 0.903 plp obtida: 522936209
+2021/07/29 10:21:49 solicitaPLP 1.054 plp obtida com sucesso
+2021/07/29 10:21:50 buscaCEP 0.135 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:53 buscaServicos 2.800 total de 20 servicos obtidos
+2021/07/29 10:21:53 solicitaEtiquetas 3.144 faixa obtida BP00300384 BR,BP00300384 BR
+2021/07/29 10:21:53 geraDigitoVerificadorEtiquetas 0.235 etiqueta completa: BP003003845BR
+2021/07/29 10:21:54 fechaPlpVariosServicos 0.796 plp obtida: 522936211
+2021/07/29 10:21:54 solicitaPLP 0.926 plp obtida com sucesso
+2021/07/29 10:21:55 buscaCEP 0.097 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:21:57 buscaServicos 2.384 total de 20 servicos obtidos
+2021/07/29 10:21:58 solicitaEtiquetas 2.764 faixa obtida BP00300385 BR,BP00300385 BR
+2021/07/29 10:21:58 geraDigitoVerificadorEtiquetas 0.130 etiqueta completa: BP003003859BR
+2021/07/29 10:21:59 fechaPlpVariosServicos 1.146 plp obtida: 522936216
+2021/07/29 10:21:59 solicitaPLP 1.451 plp obtida com sucesso
+2021/07/29 10:22:00 buscaCEP 0.105 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:02 buscaServicos 1.802 total de 20 servicos obtidos
+2021/07/29 10:22:02 solicitaEtiquetas 2.146 faixa obtida BP00300386 BR,BP00300386 BR
+2021/07/29 10:22:02 geraDigitoVerificadorEtiquetas 0.202 etiqueta completa: BP003003862BR
+2021/07/29 10:22:03 fechaPlpVariosServicos 0.698 plp obtida: 522936220
+2021/07/29 10:22:03 solicitaPLP 1.085 plp obtida com sucesso
+2021/07/29 10:22:05 buscaCEP 0.112 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:07 buscaServicos 1.950 total de 20 servicos obtidos
+2021/07/29 10:22:07 solicitaEtiquetas 2.277 faixa obtida BP00300387 BR,BP00300387 BR
+2021/07/29 10:22:07 geraDigitoVerificadorEtiquetas 0.101 etiqueta completa: BP003003876BR
+2021/07/29 10:22:08 fechaPlpVariosServicos 0.761 plp obtida: 522936226
+2021/07/29 10:22:08 solicitaPLP 0.868 plp obtida com sucesso
+2021/07/29 10:22:10 buscaCEP 0.104 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:12 buscaServicos 2.163 total de 20 servicos obtidos
+2021/07/29 10:22:12 solicitaEtiquetas 2.430 faixa obtida BP00300388 BR,BP00300388 BR
+2021/07/29 10:22:12 geraDigitoVerificadorEtiquetas 0.091 etiqueta completa: BP003003880BR
+2021/07/29 10:22:13 fechaPlpVariosServicos 0.916 plp obtida: 522936230
+2021/07/29 10:22:13 solicitaPLP 1.057 plp obtida com sucesso
+2021/07/29 10:22:16 buscaCEP 0.957 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:18 buscaServicos 3.393 total de 20 servicos obtidos
+2021/07/29 10:22:19 solicitaEtiquetas 3.937 faixa obtida BP00300389 BR,BP00300389 BR
+2021/07/29 10:22:19 geraDigitoVerificadorEtiquetas 0.111 etiqueta completa: BP003003893BR
+2021/07/29 10:22:20 fechaPlpVariosServicos 0.779 plp obtida: 522936234
+2021/07/29 10:22:20 solicitaPLP 0.919 plp obtida com sucesso
+2021/07/29 10:22:20 buscaCEP 0.121 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:22 buscaServicos 2.295 total de 20 servicos obtidos
+2021/07/29 10:22:23 solicitaEtiquetas 2.865 faixa obtida BP00300390 BR,BP00300390 BR
+2021/07/29 10:22:23 geraDigitoVerificadorEtiquetas 0.169 etiqueta completa: BP003003902BR
+2021/07/29 10:22:23 fechaPlpVariosServicos 0.337 plp obtida: 522936239
+2021/07/29 10:22:23 solicitaPLP 0.489 plp obtida com sucesso
+2021/07/29 10:22:25 buscaCEP 0.256 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:27 buscaServicos 2.280 total de 20 servicos obtidos
+2021/07/29 10:22:27 solicitaEtiquetas 2.597 faixa obtida BP00300391 BR,BP00300391 BR
+2021/07/29 10:22:28 geraDigitoVerificadorEtiquetas 0.400 etiqueta completa: BP003003916BR
+2021/07/29 10:22:29 fechaPlpVariosServicos 0.976 plp obtida: 522936245
+2021/07/29 10:22:29 solicitaPLP 1.111 plp obtida com sucesso
+2021/07/29 10:22:30 buscaCEP 0.101 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:31 buscaServicos 1.656 total de 20 servicos obtidos
+2021/07/29 10:22:32 solicitaEtiquetas 1.963 faixa obtida BP00300392 BR,BP00300392 BR
+2021/07/29 10:22:32 geraDigitoVerificadorEtiquetas 0.145 etiqueta completa: BP003003920BR
+2021/07/29 10:22:33 fechaPlpVariosServicos 0.776 plp obtida: 522936250
+2021/07/29 10:22:33 solicitaPLP 0.893 plp obtida com sucesso
+2021/07/29 10:22:35 buscaCEP 0.079 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:37 buscaServicos 2.090 total de 20 servicos obtidos
+2021/07/29 10:22:37 solicitaEtiquetas 2.509 faixa obtida BP00300393 BR,BP00300393 BR
+2021/07/29 10:22:37 geraDigitoVerificadorEtiquetas 0.089 etiqueta completa: BP003003933BR
+2021/07/29 10:22:38 fechaPlpVariosServicos 0.870 plp obtida: 522936255
+2021/07/29 10:22:39 solicitaPLP 1.469 plp obtida com sucesso
+2021/07/29 10:22:40 buscaCEP 0.121 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:42 buscaServicos 2.554 total de 20 servicos obtidos
+2021/07/29 10:22:43 solicitaEtiquetas 3.028 faixa obtida BP00300394 BR,BP00300394 BR
+2021/07/29 10:22:43 geraDigitoVerificadorEtiquetas 0.271 etiqueta completa: BP003003947BR
+2021/07/29 10:22:44 fechaPlpVariosServicos 0.379 plp obtida: 523021442
+2021/07/29 10:22:44 solicitaPLP 0.643 plp obtida com sucesso
+2021/07/29 10:22:45 buscaCEP 0.111 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:47 buscaServicos 2.057 total de 20 servicos obtidos
+2021/07/29 10:22:47 solicitaEtiquetas 2.390 faixa obtida BP00300395 BR,BP00300395 BR
+2021/07/29 10:22:47 geraDigitoVerificadorEtiquetas 0.139 etiqueta completa: BP003003955BR
+2021/07/29 10:22:48 fechaPlpVariosServicos 0.694 plp obtida: 523021603
+2021/07/29 10:22:48 solicitaPLP 0.793 plp obtida com sucesso
+2021/07/29 10:22:50 buscaCEP 0.133 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:52 buscaServicos 1.745 total de 20 servicos obtidos
+2021/07/29 10:22:52 solicitaEtiquetas 2.057 faixa obtida BP00300396 BR,BP00300396 BR
+2021/07/29 10:22:52 geraDigitoVerificadorEtiquetas 0.122 etiqueta completa: BP003003964BR
+2021/07/29 10:22:53 fechaPlpVariosServicos 0.787 plp obtida: 523021746
+2021/07/29 10:22:53 solicitaPLP 0.926 plp obtida com sucesso
+2021/07/29 10:22:55 buscaCEP 0.103 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:22:57 buscaServicos 2.069 total de 20 servicos obtidos
+2021/07/29 10:22:57 solicitaEtiquetas 2.469 faixa obtida BP00300397 BR,BP00300397 BR
+2021/07/29 10:22:58 geraDigitoVerificadorEtiquetas 0.259 etiqueta completa: BP003003978BR
+2021/07/29 10:22:59 fechaPlpVariosServicos 1.069 plp obtida: 523021950
+2021/07/29 10:22:59 solicitaPLP 1.210 plp obtida com sucesso
+2021/07/29 10:23:00 buscaCEP 0.115 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:02 buscaServicos 2.226 total de 20 servicos obtidos
+2021/07/29 10:23:02 solicitaEtiquetas 2.650 faixa obtida BP00300398 BR,BP00300398 BR
+2021/07/29 10:23:03 geraDigitoVerificadorEtiquetas 0.164 etiqueta completa: BP003003981BR
+2021/07/29 10:23:03 fechaPlpVariosServicos 0.352 plp obtida: 522936267
+2021/07/29 10:23:03 solicitaPLP 0.626 plp obtida com sucesso
+2021/07/29 10:23:05 buscaCEP 0.175 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:07 buscaServicos 2.355 total de 20 servicos obtidos
+2021/07/29 10:23:08 solicitaEtiquetas 2.783 faixa obtida BP00300399 BR,BP00300399 BR
+2021/07/29 10:23:08 geraDigitoVerificadorEtiquetas 0.112 etiqueta completa: BP003003995BR
+2021/07/29 10:23:09 fechaPlpVariosServicos 0.791 plp obtida: 522936272
+2021/07/29 10:23:09 solicitaPLP 1.065 plp obtida com sucesso
+2021/07/29 10:23:10 buscaCEP 0.098 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:12 buscaServicos 2.548 total de 20 servicos obtidos
+2021/07/29 10:23:13 solicitaEtiquetas 2.910 faixa obtida BP00300400 BR,BP00300400 BR
+2021/07/29 10:23:13 geraDigitoVerificadorEtiquetas 0.154 etiqueta completa: BP003004001BR
+2021/07/29 10:23:15 fechaPlpVariosServicos 2.000 plp obtida: 522936282
+2021/07/29 10:23:15 solicitaPLP 2.344 plp obtida com sucesso
+2021/07/29 10:23:15 buscaCEP 0.113 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:18 buscaServicos 2.876 total de 20 servicos obtidos
+2021/07/29 10:23:18 solicitaEtiquetas 3.239 faixa obtida BP00300401 BR,BP00300401 BR
+2021/07/29 10:23:19 geraDigitoVerificadorEtiquetas 0.136 etiqueta completa: BP003004015BR
+2021/07/29 10:23:20 fechaPlpVariosServicos 1.058 plp obtida: 523024288
+2021/07/29 10:23:20 solicitaPLP 1.585 plp obtida com sucesso
+2021/07/29 10:23:21 buscaCEP 0.317 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:23 buscaServicos 3.019 total de 20 servicos obtidos
+2021/07/29 10:23:24 solicitaEtiquetas 3.312 faixa obtida BP00300403 BR,BP00300403 BR
+2021/07/29 10:23:24 geraDigitoVerificadorEtiquetas 0.218 etiqueta completa: BP003004032BR
+2021/07/29 10:23:25 fechaPlpVariosServicos 1.091 plp obtida: 523024293
+2021/07/29 10:23:25 solicitaPLP 1.419 plp obtida com sucesso
+2021/07/29 10:23:25 buscaCEP 0.167 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:28 buscaServicos 2.838 total de 20 servicos obtidos
+2021/07/29 10:23:28 solicitaEtiquetas 3.256 faixa obtida BP00300404 BR,BP00300404 BR
+2021/07/29 10:23:29 geraDigitoVerificadorEtiquetas 0.108 etiqueta completa: BP003004046BR
+2021/07/29 10:23:29 fechaPlpVariosServicos 0.964 plp obtida: 523024298
+2021/07/29 10:23:30 solicitaPLP 1.150 plp obtida com sucesso
+2021/07/29 10:23:30 buscaCEP 0.250 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:32 buscaServicos 2.630 total de 20 servicos obtidos
+2021/07/29 10:23:33 solicitaEtiquetas 2.871 faixa obtida BP00300405 BR,BP00300405 BR
+2021/07/29 10:23:33 geraDigitoVerificadorEtiquetas 0.179 etiqueta completa: BP003004050BR
+2021/07/29 10:23:34 fechaPlpVariosServicos 1.004 plp obtida: 523024302
+2021/07/29 10:23:34 solicitaPLP 1.275 plp obtida com sucesso
+2021/07/29 10:23:35 buscaCEP 0.111 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2021/07/29 10:23:37 buscaServicos 2.591 total de 20 servicos obtidos
+2021/07/29 10:23:38 solicitaEtiquetas 2.864 faixa obtida BP00300406 BR,BP00300406 BR
+2021/07/29 10:23:38 geraDigitoVerificadorEtiquetas 0.128 etiqueta completa: BP003004063BR
+2021/07/29 10:23:39 fechaPlpVariosServicos 0.819 plp obtida: 523026299
+2021/07/29 10:23:39 solicitaPLP 0.964 plp obtida com sucesso
+2021/07/29 10:23:40 buscaCEP 0.160 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+
+
+2021/07/29 15:29:14 geraDigitoVerificadorEtiquetas 0.232 etiqueta completa: BP003169045BR
+2021/07/29 15:29:14 solicitaPLP 0.872 plp obtida com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.406 etiqueta BP003168932BR cancelada com sucesso
+2021/07/29 15:29:14 fechaPlpVariosServicos 0.398 plp obtida: 523411503
+2021/07/29 15:29:14 cancelarObjeto 0.404 etiqueta BP003168946BR cancelada com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.424 etiqueta BP003168950BR cancelada com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.417 etiqueta BP003168963BR cancelada com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.372 etiqueta BP003168985BR cancelada com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.346 etiqueta BP003168994BR cancelada com sucesso
+2021/07/29 15:29:14 fechaPlpVariosServicos 0.363 plp obtida: 523410086
+2021/07/29 15:29:14 cancelarObjeto 0.387 etiqueta BP003168977BR cancelada com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.379 etiqueta BP003169005BR cancelada com sucesso
+2021/07/29 15:29:14 cancelarObjeto 0.333 etiqueta BP003169014BR cancelada com sucesso
+2021/07/29 15:29:14 solicitaPLP 0.601 plp obtida com sucesso
+2021/07/29 15:29:14 fechaPlpVariosServicos 0.443 plp obtida: 523410477
+2021/07/29 15:29:14 solicitaPLP 0.764 plp obtida com sucesso
+2021/07/29 15:29:15 solicitaPLP 0.847 plp obtida com sucesso
+2021/07/29 15:29:15 cancelarObjeto 0.557 etiqueta BP003169028BR cancelada com sucesso
+2021/07/29 15:29:15 cancelarObjeto 0.584 etiqueta BP003169045BR cancelada com sucesso

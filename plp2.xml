@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<correioslog>
+    <tipo_arquivo>Postagem</tipo_arquivo>
+    <versao_arquivo>2.3</versao_arquivo>
+    <plp>
+        <id_plp/>
+        <valor_global/>
+        <mcu_unidade_postagem/>
+        <nome_unidade_postagem/>
+        <cartao_postagem>0075336294</cartao_postagem>
+    </plp>
+    <remetente>
+        <numero_contrato>9912482023</numero_contrato>
+        <numero_diretoria>72</numero_diretoria>
+        <codigo_administrativo>20059051</codigo_administrativo>
+        <nome_remetente>VISUAL PERSONALIZE</nome_remetente>
+        <logradouro_remetente>Av It\\xe1lia, 112, S\\xe3o Paulo</logradouro_remetente>
+        <numero_remetente>00000</numero_remetente>
+        <complemento_remetente/>
+        <bairro_remetente>Guarapiranga</bairro_remetente>
+        <cep_remetente>04912100</cep_remetente>
+        <cidade_remetente>S\\xe3o Paulo</cidade_remetente>
+        <uf_remetente>SP</uf_remetente>
+        <telefone_remetente>11940032813</telefone_remetente>
+        <fax_remetente>99999999999</fax_remetente>
+        <email_remetente>zrmultimarcas@gmail.com</email_remetente>
+        <celular_remetente>11940032813</celular_remetente>
+    </remetente>
+    <forma_pagamento/>
+    <objeto_postal>
+        <numero_etiqueta>XX000000000XX</numero_etiqueta>
+        <codigo_objeto_cliente/>
+        <codigo_servico_postagem>03298</codigo_servico_postagem>
+        <cubagem>0,00</cubagem>
+        <peso>300</peso>
+        <rt1/>
+        <rt2/>
+        <destinatario>
+            <nome_destinatario>Kleysle Karine sgoda</nome_destinatario>
+            <telefone_destinatario>41987454926</telefone_destinatario>
+            <celular_destinatario>41987454926</celular_destinatario>
+            <email_destinatario>kleyslekarine@hotmail.com</email_destinatario>
+            <logradouro_destinatario>Rod BR 116 km 36, O, Casa</logradouro_destinatario>
+            <complemento_destinatario/>
+            <numero_end_destinatario>00000</numero_end_destinatario>
+        </destinatario>
+        <nacional>
+            <bairro_destinatario/>
+            <cidade_destinatario>Campina Grande do Sul</cidade_destinatario>
+            <uf_destinatario>PR</uf_destinatario>
+            <cep_destinatario>83430000</cep_destinatario>
+            <codigo_usuario_postal/>
+            <centro_custo_cliente/>
+            <numero_nota_fiscal/>
+            <serie_nota_fiscal/>
+            <valor_nota_fiscal/>
+            <natureza_nota_fiscal/>
+            <descricao_objeto/>
+            <valor_a_cobrar>0,0</valor_a_cobrar>
+        </nacional>
+        <servico_adicional>
+            <codigo_servico_adicional>025</codigo_servico_adicional>
+            <codigo_servico_adicional>064</codigo_servico_adicional>
+            <valor_declarado>33,99</valor_declarado>
+        </servico_adicional>
+        <dimensao_objeto>
+            <tipo_objeto>002</tipo_objeto>
+            <dimensao_altura>5</dimensao_altura>
+            <dimensao_largura>10</dimensao_largura>
+            <dimensao_comprimento>40</dimensao_comprimento>
+            <dimensao_diametro>0</dimensao_diametro>
+        </dimensao_objeto>
+        <data_postagem_sara/>
+        <status_processamento>0</status_processamento>
+        <numero_comprovante_postagem/>
+        <valor_cobrado/>
+    </objeto_postal>
+</correioslog>
