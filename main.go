@@ -18,8 +18,8 @@ const (
 )
 
 var fecharPlp = flag.Bool("plp", true, "definir se deve ou não fechar plp")
-var qtdTestes = flag.Int("qtd", 1, "quantidade de testes a realizar")
-var xmlName = flag.String("arq", "plp.xml", "nome do arquivo xml a ser considerado")
+var qtdTestes = flag.Int("q", 1, "quantidade de testes a realizar")
+var xmlName = flag.String("a", "plp.xml", "nome do arquivo xml a ser considerado")
 
 //Config contem as configurações globais do app
 type Config struct {
