@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<correioslog>
+   <tipo_arquivo>Postagem</tipo_arquivo>
+   <versao_arquivo>2.3</versao_arquivo>
+   <plp>
+      <id_plp />
+      <valor_global />
+      <mcu_unidade_postagem />
+      <nome_unidade_postagem />
+      <cartao_postagem>0075336294</cartao_postagem>
+   </plp>
+   <remetente>
+      <numero_contrato>9912482023</numero_contrato>
+      <numero_diretoria>72</numero_diretoria>
+      <codigo_administrativo>20059051</codigo_administrativo>
+      <nome_remetente>Hil Studio Produ\\xe7\\xf5es Gr\\xe1fica</nome_remetente>
+      <logradouro_remetente>R Rio D Barras, 151, Predio 151 Apto 231, S\\xe3o Paul</logradouro_remetente>
+      <numero_remetente>00000</numero_remetente>
+      <complemento_remetente />
+      <bairro_remetente>Vila Prudente</bairro_remetente>
+      <cep_remetente>03152240</cep_remetente>
+      <cidade_remetente>S\\xe3o Paulo</cidade_remetente>
+      <uf_remetente>SP</uf_remetente>
+      <telefone_remetente>11967316474</telefone_remetente>
+      <fax_remetente>99999999999</fax_remetente>
+      <email_remetente>hilstudioproducoes@gmail.com</email_remetente>
+      <celular_remetente>11967316474</celular_remetente>
+      <cpf_cnpj_remetente>40146099877</cpf_cnpj_remetente>
+   </remetente>
+   <forma_pagamento />
+   <objeto_postal>
+      <numero_etiqueta>XX000000000XX</numero_etiqueta>
+      <codigo_objeto_cliente />
+      <codigo_servico_postagem>03220</codigo_servico_postagem>
+      <cubagem>0,00</cubagem>
+      <peso>2200</peso>
+      <rt1 />
+      <rt2 />
+      <destinatario>
+         <nome_destinatario>Suzete soares vasques</nome_destinatario>
+         <telefone_destinatario>11953940590</telefone_destinatario>
+         <celular_destinatario>11953940590</celular_destinatario>
+         <email_destinatario>suzivasques@gmail.com</email_destinatario>
+         <logradouro_destinatario>R Cl\\xe9lia Augusta</logradouro_destinatario>
+         <complemento_destinatario />
+         <numero_end_destinatario>89</numero_end_destinatario>
+         <cpf_cnpj_destinatario>11326053850</cpf_cnpj_destinatario>
+      </destinatario>
+      <nacional>
+         <bairro_destinatario>Jardim Europa</bairro_destinatario>
+         <cidade_destinatario>Jandira</cidade_destinatario>
+         <uf_destinatario>SP</uf_destinatario>
+         <cep_destinatario>06626080</cep_destinatario>
+         <codigo_usuario_postal />
+         <centro_custo_cliente />
+         <numero_nota_fiscal />
+         <serie_nota_fiscal />
+         <valor_nota_fiscal />
+         <natureza_nota_fiscal />
+         <descricao_objeto />
+         <valor_a_cobrar>0,0</valor_a_cobrar>
+      </nacional>
+      <servico_adicional>
+         <codigo_servico_adicional>025</codigo_servico_adicional>
+         <valor_declarado />
+      </servico_adicional>
+      <dimensao_objeto>
+         <tipo_objeto>002</tipo_objeto>
+         <dimensao_altura>20</dimensao_altura>
+         <dimensao_largura>20</dimensao_largura>
+         <dimensao_comprimento>38</dimensao_comprimento>
+         <dimensao_diametro>0</dimensao_diametro>
+      </dimensao_objeto>
+      <data_postagem_sara />
+      <status_processamento>0</status_processamento>
+      <numero_comprovante_postagem />
+      <valor_cobrado />
+   </objeto_postal>
+</correioslog>

@@ -1,0 +1,13 @@
+{
+    "intervalo": 5,
+    "wsdl": "https://apps.correios.com.br/SigepMasterJPAMercadoLivre/AtendeClienteService/AtendeCliente?WSDL",
+    "servico": "113498",
+    "cnpj": "34028316000103",
+    "qtdEtiquetas": 1,
+    "contrato":"9912254775",
+    "cartao":"0069291365",
+    "usuario": "p02812468",
+    "senha": "150jb0",
+    "idPlpCliente": "15052020"
+}
+

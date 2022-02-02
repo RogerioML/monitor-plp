@@ -20,6 +20,7 @@ const (
 var fecharPlp = flag.Bool("plp", true, "definir se deve ou não fechar plp")
 var qtdTestes = flag.Int("q", 1, "quantidade de testes a realizar")
 var xmlName = flag.String("a", "plp.xml", "nome do arquivo xml a ser considerado")
+var configFile = flag.String("c", "config.json", "nome do arquivo json")
 
 //Config contem as configurações globais do app
 type Config struct {
@@ -43,18 +44,35 @@ func testaAmbiente(config Config, xml string) {
 			//solicita uma faixa de etiquetas
 			now := time.Now()
 
-			servicos, err := plp.BuscaServicos("9912408500", "0072922621", config.User, config.Pass)
+			cliente, err := plp.BuscaCliente(config.Contrato, config.Cartao, config.User, config.Pass)
 			if err != nil {
-				log.Printf("falha ao consultar cliente: %s: ", err.Error())
+				log.Printf("falha ao consultar cliente: %s", err.Error())
 				return
 			}
-			log.Printf("buscaServicos %.3f total de %d servicos obtidos", time.Since(now).Seconds(), len(servicos.Body.BuscaServicosResponse.Return))
+			log.Printf("buscaCliente %.3f cliente obtido: %s\n", time.Since(now).Seconds(), cliente.Body.BuscaClienteResponse.Return.Cnpj)
+			config.Cnpj = cliente.Body.BuscaClienteResponse.Return.Cnpj
+
+			servicos, err := plp.BuscaServicos(config.Contrato, config.Cartao, config.User, config.Pass)
+			if err != nil {
+				log.Printf("falha ao buscar servicos: %s: ", err.Error())
+				return
+			}
+			log.Printf("buscaServicos %.3f total de %d servicos obtidos: \n", time.Since(now).Seconds(), len(servicos.Body.BuscaServicosResponse.Return))
 
 			endereco, err := plp.ConsultaCEP("71917360")
 			if err != nil {
 				log.Printf("falha ao consultar cep: %s", err.Error())
 				return
 			}
+
+			/*
+				jsonServicos, err := json.MarshalIndent(servicos, "", "	")
+				if err != nil {
+					log.Printf("falha ao converter servicos para JSON: %s", err.Error())
+					return
+				}
+				log.Println(string(jsonServicos))*/
+
 			log.Printf("buscaCEP %.3f endereco obtido: %s %s %s - %s", time.Since(now).Seconds(),
 				endereco.Body.ConsultaCEPResponse.Return.Endereco,
 				endereco.Body.ConsultaCEPResponse.Return.Bairro,
@@ -108,7 +126,6 @@ func testaAmbiente(config Config, xml string) {
 				}
 				log.Printf("cancelarObjeto %.3f etiqueta %s cancelada com sucesso\n", time.Since(now).Seconds(), etqComVerificador)
 			}
-
 		}()
 	}
 }
@@ -117,7 +134,7 @@ func main() {
 	flag.Parse()
 	var config Config
 
-	arq, err := os.Open("config.json")
+	arq, err := os.Open(*configFile)
 	if err != nil {
 		panic(err.Error())
 	}
@@ -140,6 +157,7 @@ func main() {
 	for {
 		select {
 		case <-timer.C:
+			log.Println("<===========================iniciando ciclo de teste==========================>")
 			testaAmbiente(config, xml)
 		}
 	}
