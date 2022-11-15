@@ -41,16 +41,18 @@ type Config struct {
 func testaAmbiente(config Config, xml string) {
 	for i := 0; i < *qtdTestes; i++ {
 		go func() {
-			//solicita uma faixa de etiquetas
 			now := time.Now()
-
-			cliente, err := plp.BuscaCliente(config.Contrato, config.Cartao, config.User, config.Pass)
+			endereco, err := plp.ConsultaCEP("71917360")
 			if err != nil {
-				log.Printf("falha ao consultar cliente: %s", err.Error())
+				log.Println("falha ao consultar cep: " + err.Error())
 				return
 			}
-			log.Printf("buscaCliente %.3f cliente obtido: %s\n", time.Since(now).Seconds(), cliente.Body.BuscaClienteResponse.Return.Cnpj)
-			config.Cnpj = cliente.Body.BuscaClienteResponse.Return.Cnpj
+			log.Printf("buscaCEP %.3f endereco obtido: %s %s %s - %s", time.Since(now).Seconds(),
+				endereco.Body.ConsultaCEPResponse.Return.Endereco,
+				endereco.Body.ConsultaCEPResponse.Return.Bairro,
+				endereco.Body.ConsultaCEPResponse.Return.Cidade,
+				endereco.Body.ConsultaCEPResponse.Return.UF,
+			)
 
 			servicos, err := plp.BuscaServicos(config.Contrato, config.Cartao, config.User, config.Pass)
 			if err != nil {
@@ -59,12 +61,6 @@ func testaAmbiente(config Config, xml string) {
 			}
 			log.Printf("buscaServicos %.3f total de %d servicos obtidos: \n", time.Since(now).Seconds(), len(servicos.Body.BuscaServicosResponse.Return))
 
-			endereco, err := plp.ConsultaCEP("71917360")
-			if err != nil {
-				log.Printf("falha ao consultar cep: %s", err.Error())
-				return
-			}
-
 			/*
 				jsonServicos, err := json.MarshalIndent(servicos, "", "	")
 				if err != nil {
@@ -72,13 +68,6 @@ func testaAmbiente(config Config, xml string) {
 					return
 				}
 				log.Println(string(jsonServicos))*/
-
-			log.Printf("buscaCEP %.3f endereco obtido: %s %s %s - %s", time.Since(now).Seconds(),
-				endereco.Body.ConsultaCEPResponse.Return.Endereco,
-				endereco.Body.ConsultaCEPResponse.Return.Bairro,
-				endereco.Body.ConsultaCEPResponse.Return.Cidade,
-				endereco.Body.ConsultaCEPResponse.Return.UF,
-			)
 
 			faixa, err := plp.SolicitaEtiquetas(config.Servico, config.Cnpj, config.Qtd, config.User, config.Pass)
 			if err != nil {
@@ -157,7 +146,6 @@ func main() {
 	for {
 		select {
 		case <-timer.C:
-			log.Println("<===========================iniciando ciclo de teste==========================>")
 			testaAmbiente(config, xml)
 		}
 	}

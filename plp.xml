@@ -18,10 +18,11 @@
         <numero_remetente>0</numero_remetente>
         <complemento_remetente/>
         <bairro_remetente>Asa Norte</bairro_remetente>
-        <cep_remetente>70002900</cep_remetente>
+        <cep_remetente>71940000</cep_remetente>
         <cidade_remetente>Brasília</cidade_remetente>
         <uf_remetente>DF</uf_remetente>
         <telefone_remetente>6121416129</telefone_remetente>
+        <cpf_cnpj_remetente>XXX</cpf_cnpj_remetente>
         <fax_remetente/>
         <email_remetente/>
     </remetente>

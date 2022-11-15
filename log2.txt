@@ -1,0 +1,215 @@
+2022/06/06 11:36:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:36:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:36:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:36:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:36:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:13 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:13 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:13 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:13 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:13 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:34 buscaServicos 1.170 total de 6 servicos obtidos:
+2022/06/06 11:37:34 buscaServicos 1.203 total de 6 servicos obtidos:
+2022/06/06 11:37:35 buscaServicos 1.222 total de 6 servicos obtidos:
+2022/06/06 11:37:35 buscaServicos 1.228 total de 6 servicos obtidos:
+2022/06/06 11:37:35 buscaServicos 1.232 total de 6 servicos obtidos:
+2022/06/06 11:37:35 buscaCEP 1.399 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:35 buscaCEP 1.404 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:35 buscaCEP 1.405 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:35 buscaCEP 1.423 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:35 buscaCEP 1.424 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:35 solicitaEtiquetas 1.772 faixa obtida SL95321491 BR,SL95321491 BR
+2022/06/06 11:37:35 solicitaEtiquetas 1.772 faixa obtida SL95321490 BR,SL95321490 BR
+2022/06/06 11:37:35 solicitaEtiquetas 1.772 faixa obtida SL95321492 BR,SL95321492 BR
+2022/06/06 11:37:35 solicitaEtiquetas 1.786 faixa obtida SL95321494 BR,SL95321494 BR
+2022/06/06 11:37:35 solicitaEtiquetas 1.786 faixa obtida SL95321493 BR,SL95321493 BR
+2022/06/06 11:37:35 geraDigitoVerificadorEtiquetas 0.056 etiqueta completa: SL953214943BR
+2022/06/06 11:37:35 geraDigitoVerificadorEtiquetas 0.085 etiqueta completa: SL953214909BR
+2022/06/06 11:37:35 geraDigitoVerificadorEtiquetas 0.301 etiqueta completa: SL953214912BR
+2022/06/06 11:37:35 geraDigitoVerificadorEtiquetas 0.324 etiqueta completa: SL953214926BR
+2022/06/06 11:37:35 geraDigitoVerificadorEtiquetas 0.310 etiqueta completa: SL953214930BR
+2022/06/06 11:37:36 fechaPlpVariosServicos 0.497 plp obtida: 666238064
+2022/06/06 11:37:36 fechaPlpVariosServicos 0.266 plp obtida: 666238623
+2022/06/06 11:37:36 fechaPlpVariosServicos 0.251 plp obtida: 666238066
+2022/06/06 11:37:36 fechaPlpVariosServicos 0.511 plp obtida: 666238068
+2022/06/06 11:37:36 fechaPlpVariosServicos 0.293 plp obtida: 666238069
+2022/06/06 11:37:36 solicitaPLP 0.570 plp obtida com sucesso
+2022/06/06 11:37:36 solicitaPLP 0.342 plp obtida com sucesso
+2022/06/06 11:37:36 solicitaPLP 0.328 plp obtida com sucesso
+2022/06/06 11:37:36 solicitaPLP 0.569 plp obtida com sucesso
+2022/06/06 11:37:36 solicitaPLP 0.336 plp obtida com sucesso
+2022/06/06 11:37:36 cancelarObjeto 0.172 etiqueta SL953214926BR cancelada com sucesso
+2022/06/06 11:37:36 cancelarObjeto 0.243 etiqueta SL953214930BR cancelada com sucesso
+2022/06/06 11:37:36 cancelarObjeto 0.264 etiqueta SL953214912BR cancelada com sucesso
+2022/06/06 11:37:36 cancelarObjeto 0.270 etiqueta SL953214909BR cancelada com sucesso
+2022/06/06 11:37:36 cancelarObjeto 0.291 etiqueta SL953214943BR cancelada com sucesso
+2022/06/06 11:37:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:49 buscaServicos 0.935 total de 6 servicos obtidos:
+2022/06/06 11:37:50 buscaServicos 1.356 total de 6 servicos obtidos:
+2022/06/06 11:37:50 buscaCEP 1.367 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:50 buscaServicos 1.376 total de 6 servicos obtidos:
+2022/06/06 11:37:50 buscaServicos 1.413 total de 6 servicos obtidos:
+2022/06/06 11:37:50 buscaServicos 1.416 total de 6 servicos obtidos:
+2022/06/06 11:37:50 buscaCEP 1.437 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:50 buscaCEP 1.441 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:50 buscaCEP 1.468 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:50 buscaCEP 1.472 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:37:50 solicitaEtiquetas 1.651 faixa obtida SL95321495 BR,SL95321495 BR
+2022/06/06 11:37:50 solicitaEtiquetas 1.659 faixa obtida SL95321496 BR,SL95321496 BR
+2022/06/06 11:37:50 geraDigitoVerificadorEtiquetas 0.029 etiqueta completa: SL953214957BR
+2022/06/06 11:37:50 solicitaEtiquetas 1.683 faixa obtida SL95321497 BR,SL95321497 BR
+2022/06/06 11:37:50 geraDigitoVerificadorEtiquetas 0.040 etiqueta completa: SL953214965BR
+2022/06/06 11:37:50 solicitaEtiquetas 1.709 faixa obtida SL95321498 BR,SL95321498 BR
+2022/06/06 11:37:50 geraDigitoVerificadorEtiquetas 0.039 etiqueta completa: SL953214974BR
+2022/06/06 11:37:50 geraDigitoVerificadorEtiquetas 0.042 etiqueta completa: SL953214988BR
+2022/06/06 11:37:50 solicitaEtiquetas 1.755 faixa obtida SL95321499 BR,SL95321499 BR
+2022/06/06 11:37:50 fechaPlpVariosServicos 0.242 plp obtida: 666238144
+2022/06/06 11:37:50 geraDigitoVerificadorEtiquetas 0.241 etiqueta completa: SL953214991BR
+2022/06/06 11:37:50 fechaPlpVariosServicos 0.325 plp obtida: 666237088
+2022/06/06 11:37:50 solicitaPLP 0.298 plp obtida com sucesso
+2022/06/06 11:37:50 fechaPlpVariosServicos 0.334 plp obtida: 666237089
+2022/06/06 11:37:50 solicitaPLP 0.394 plp obtida com sucesso
+2022/06/06 11:37:50 solicitaPLP 0.386 plp obtida com sucesso
+2022/06/06 11:37:51 cancelarObjeto 0.261 etiqueta SL953214974BR cancelada com sucesso
+2022/06/06 11:37:51 fechaPlpVariosServicos 0.317 plp obtida: 666238667
+2022/06/06 11:37:51 fechaPlpVariosServicos 0.597 plp obtida: 666237091
+2022/06/06 11:37:51 solicitaPLP 0.387 plp obtida com sucesso
+2022/06/06 11:37:51 solicitaPLP 0.650 plp obtida com sucesso
+2022/06/06 11:37:51 cancelarObjeto 0.503 etiqueta SL953214965BR cancelada com sucesso
+2022/06/06 11:37:51 cancelarObjeto 0.514 etiqueta SL953214957BR cancelada com sucesso
+2022/06/06 11:37:51 cancelarObjeto 0.270 etiqueta SL953214991BR cancelada com sucesso
+2022/06/06 11:37:51 cancelarObjeto 0.499 etiqueta SL953214988BR cancelada com sucesso
+2022/06/06 11:37:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:37:58 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:04 buscaServicos 0.882 total de 6 servicos obtidos:
+2022/06/06 11:38:04 buscaServicos 0.954 total de 6 servicos obtidos:
+2022/06/06 11:38:04 buscaServicos 1.175 total de 6 servicos obtidos:
+2022/06/06 11:38:05 buscaServicos 1.229 total de 6 servicos obtidos:
+2022/06/06 11:38:05 buscaCEP 1.385 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:05 buscaCEP 1.402 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:05 buscaCEP 1.402 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:05 buscaCEP 1.421 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:05 buscaServicos 1.479 total de 6 servicos obtidos:
+2022/06/06 11:38:05 buscaCEP 1.515 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:05 solicitaEtiquetas 1.748 faixa obtida SL95321500 BR,SL95321500 BR
+2022/06/06 11:38:05 solicitaEtiquetas 1.748 faixa obtida SL95321501 BR,SL95321501 BR
+2022/06/06 11:38:05 solicitaEtiquetas 1.749 faixa obtida SL95321502 BR,SL95321502 BR
+2022/06/06 11:38:05 solicitaEtiquetas 2.033 faixa obtida SL95321504 BR,SL95321504 BR
+2022/06/06 11:38:05 solicitaEtiquetas 2.033 faixa obtida SL95321503 BR,SL95321503 BR
+2022/06/06 11:38:05 geraDigitoVerificadorEtiquetas 0.293 etiqueta completa: SL953215011BR
+2022/06/06 11:38:05 geraDigitoVerificadorEtiquetas 0.295 etiqueta completa: SL953215025BR
+2022/06/06 11:38:05 geraDigitoVerificadorEtiquetas 0.296 etiqueta completa: SL953215008BR
+2022/06/06 11:38:05 geraDigitoVerificadorEtiquetas 0.047 etiqueta completa: SL953215042BR
+2022/06/06 11:38:06 geraDigitoVerificadorEtiquetas 0.352 etiqueta completa: SL953215039BR
+2022/06/06 11:38:06 fechaPlpVariosServicos 0.306 plp obtida: 666238246
+2022/06/06 11:38:06 fechaPlpVariosServicos 0.342 plp obtida: 666237164
+2022/06/06 11:38:06 fechaPlpVariosServicos 0.342 plp obtida: 666238244
+2022/06/06 11:38:06 fechaPlpVariosServicos 0.345 plp obtida: 666238247
+2022/06/06 11:38:06 solicitaPLP 0.421 plp obtida com sucesso
+2022/06/06 11:38:06 solicitaPLP 0.419 plp obtida com sucesso
+2022/06/06 11:38:06 solicitaPLP 0.422 plp obtida com sucesso
+2022/06/06 11:38:06 solicitaPLP 0.391 plp obtida com sucesso
+2022/06/06 11:38:06 fechaPlpVariosServicos 0.520 plp obtida: 666238251
+2022/06/06 11:38:06 cancelarObjeto 0.443 etiqueta SL953215011BR cancelada com sucesso
+2022/06/06 11:38:06 cancelarObjeto 0.452 etiqueta SL953215025BR cancelada com sucesso
+2022/06/06 11:38:06 cancelarObjeto 0.612 etiqueta SL953215042BR cancelada com sucesso
+2022/06/06 11:38:06 cancelarObjeto 0.617 etiqueta SL953215008BR cancelada com sucesso
+2022/06/06 11:38:06 solicitaPLP 0.827 plp obtida com sucesso
+2022/06/06 11:38:07 cancelarObjeto 0.622 etiqueta SL953215039BR cancelada com sucesso
+2022/06/06 11:38:14 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:14 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:14 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:14 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:14 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:19 buscaServicos 1.136 total de 6 servicos obtidos:
+2022/06/06 11:38:20 buscaServicos 1.649 total de 6 servicos obtidos:
+2022/06/06 11:38:20 buscaServicos 1.735 total de 6 servicos obtidos:
+2022/06/06 11:38:20 buscaCEP 1.765 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:20 buscaServicos 1.787 total de 6 servicos obtidos:
+2022/06/06 11:38:20 buscaCEP 1.985 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:20 buscaServicos 1.987 total de 6 servicos obtidos:
+2022/06/06 11:38:20 buscaCEP 1.996 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:20 buscaCEP 2.011 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:20 buscaCEP 2.048 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:21 solicitaEtiquetas 2.275 faixa obtida SL95321506 BR,SL95321506 BR
+2022/06/06 11:38:21 solicitaEtiquetas 2.275 faixa obtida SL95321505 BR,SL95321505 BR
+2022/06/06 11:38:21 solicitaEtiquetas 2.277 faixa obtida SL95321507 BR,SL95321507 BR
+2022/06/06 11:38:21 solicitaEtiquetas 2.303 faixa obtida SL95321508 BR,SL95321508 BR
+2022/06/06 11:38:21 geraDigitoVerificadorEtiquetas 0.033 etiqueta completa: SL953215073BR
+2022/06/06 11:38:21 geraDigitoVerificadorEtiquetas 0.038 etiqueta completa: SL953215087BR
+2022/06/06 11:38:21 solicitaEtiquetas 2.345 faixa obtida SL95321509 BR,SL95321509 BR
+2022/06/06 11:38:21 geraDigitoVerificadorEtiquetas 0.150 etiqueta completa: SL953215060BR
+2022/06/06 11:38:21 geraDigitoVerificadorEtiquetas 0.161 etiqueta completa: SL953215056BR
+2022/06/06 11:38:21 fechaPlpVariosServicos 0.240 plp obtida: 666239333
+2022/06/06 11:38:21 fechaPlpVariosServicos 0.270 plp obtida: 666238759
+2022/06/06 11:38:21 geraDigitoVerificadorEtiquetas 0.256 etiqueta completa: SL953215095BR
+2022/06/06 11:38:21 solicitaPLP 0.339 plp obtida com sucesso
+2022/06/06 11:38:21 solicitaPLP 0.369 plp obtida com sucesso
+2022/06/06 11:38:21 fechaPlpVariosServicos 0.303 plp obtida: 666239337
+2022/06/06 11:38:21 fechaPlpVariosServicos 0.567 plp obtida: 666238763
+2022/06/06 11:38:21 fechaPlpVariosServicos 0.403 plp obtida: 666239338
+2022/06/06 11:38:21 solicitaPLP 0.616 plp obtida com sucesso
+2022/06/06 11:38:21 solicitaPLP 0.488 plp obtida com sucesso
+2022/06/06 11:38:21 solicitaPLP 0.654 plp obtida com sucesso
+2022/06/06 11:38:22 cancelarObjeto 0.262 etiqueta SL953215060BR cancelada com sucesso
+2022/06/06 11:38:22 cancelarObjeto 0.624 etiqueta SL953215087BR cancelada com sucesso
+2022/06/06 11:38:22 cancelarObjeto 0.623 etiqueta SL953215073BR cancelada com sucesso
+2022/06/06 11:38:22 cancelarObjeto 0.570 etiqueta SL953215056BR cancelada com sucesso
+2022/06/06 11:38:22 cancelarObjeto 0.572 etiqueta SL953215095BR cancelada com sucesso
+2022/06/06 11:38:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:29 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:35 buscaServicos 2.173 total de 6 servicos obtidos:
+2022/06/06 11:38:37 buscaServicos 3.253 total de 6 servicos obtidos:
+2022/06/06 11:38:37 buscaServicos 3.255 total de 6 servicos obtidos:
+2022/06/06 11:38:37 buscaServicos 3.263 total de 6 servicos obtidos:
+2022/06/06 11:38:37 buscaServicos 3.264 total de 6 servicos obtidos:
+2022/06/06 11:38:37 buscaCEP 3.424 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:37 buscaCEP 3.438 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:37 buscaCEP 3.439 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:37 buscaCEP 3.440 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:37 buscaCEP 3.441 endereco obtido: Rua 26 Norte (Águas Claras) Brasília - DF
+2022/06/06 11:38:37 solicitaEtiquetas 3.846 faixa obtida SL95321510 BR,SL95321510 BR
+2022/06/06 11:38:37 solicitaEtiquetas 3.846 faixa obtida SL95321511 BR,SL95321511 BR
+2022/06/06 11:38:37 solicitaEtiquetas 3.846 faixa obtida SL95321513 BR,SL95321513 BR
+2022/06/06 11:38:37 solicitaEtiquetas 3.846 faixa obtida SL95321512 BR,SL95321512 BR
+2022/06/06 11:38:37 geraDigitoVerificadorEtiquetas 0.036 etiqueta completa: SL953215100BR
+2022/06/06 11:38:37 geraDigitoVerificadorEtiquetas 0.039 etiqueta completa: SL953215135BR
+2022/06/06 11:38:37 geraDigitoVerificadorEtiquetas 0.044 etiqueta completa: SL953215113BR
+2022/06/06 11:38:37 geraDigitoVerificadorEtiquetas 0.044 etiqueta completa: SL953215127BR
+2022/06/06 11:38:37 solicitaEtiquetas 4.148 faixa obtida SL95321514 BR,SL95321514 BR
+2022/06/06 11:38:37 fechaPlpVariosServicos 0.263 plp obtida: 666239447
+2022/06/06 11:38:37 fechaPlpVariosServicos 0.267 plp obtida: 666239445
+2022/06/06 11:38:37 fechaPlpVariosServicos 0.286 plp obtida: 666239448
+2022/06/06 11:38:37 geraDigitoVerificadorEtiquetas 0.033 etiqueta completa: SL953215144BR
+2022/06/06 11:38:38 solicitaPLP 0.337 plp obtida com sucesso
+2022/06/06 11:38:38 solicitaPLP 0.387 plp obtida com sucesso
+2022/06/06 11:38:38 fechaPlpVariosServicos 0.382 plp obtida: 666238808
+2022/06/06 11:38:38 solicitaPLP 0.502 plp obtida com sucesso
+2022/06/06 11:38:38 solicitaPLP 0.568 plp obtida com sucesso
+2022/06/06 11:38:38 cancelarObjeto 0.292 etiqueta SL953215135BR cancelada com sucesso
+2022/06/06 11:38:38 cancelarObjeto 0.180 etiqueta SL953215113BR cancelada com sucesso
+2022/06/06 11:38:38 cancelarObjeto 0.366 etiqueta SL953215100BR cancelada com sucesso
+2022/06/06 11:38:38 fechaPlpVariosServicos 0.884 plp obtida: 666239452
+2022/06/06 11:38:38 cancelarObjeto 0.607 etiqueta SL953215127BR cancelada com sucesso
+2022/06/06 11:38:38 solicitaPLP 0.952 plp obtida com sucesso
+2022/06/06 11:38:39 cancelarObjeto 0.260 etiqueta SL953215144BR cancelada com sucesso
+2022/06/06 11:38:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
+2022/06/06 11:38:43 falha ao buscar servicos: Post "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl": dial tcp 192.168.1.186:443: connect: connection timed out:
